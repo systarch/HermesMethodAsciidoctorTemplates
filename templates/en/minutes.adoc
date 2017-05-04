@@ -1,0 +1,52 @@
+Minutes
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |$\{h5_auftraggeber}
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+|==================================================================
+
+Meeting:
+
+Date:
+
+Time:
+
+Location:
+
+Participants:
+
+Absent:
+
+*Agenda*
+
+1 Issue 1
+
+2 Issue 1
+
+Type: P=pending matter, D=decision, I=information, D=discussion
+
+[[issue]]
+= Issue
+
+[cols=",,,",options="header",]
+|=============================================
+|Description |Type |To be Handled by |Deadline
+| | | |
+| | | |
+|=============================================
+
+[[issue-1]]
+= Issue
+
+[cols=",,,",options="header",]
+|=============================================
+|Description |Type |To be Handled by |Deadline
+| | | |
+| | | |
+|=============================================
+
+Enclosure(s):

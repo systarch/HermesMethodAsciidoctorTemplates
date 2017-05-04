@@ -1,0 +1,53 @@
+Protokoll
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Sitzung:
+
+Datum:
+
+Zeit:
+
+Ort:
+
+Anwesend:
+
+Abwesend:
+
+*Traktanden*
+
+1 Traktandum 1
+
+2 Traktandum 1
+
+Typ: P=Pendenz, B=Beschluss, I=Information, D=Diskussion
+
+[[traktandum]]
+= Traktandum
+
+[cols=",,,",options="header",]
+|======================================
+|Beschreibung |Typ |Verantw. |Endtermin
+| | | |
+| | | |
+|======================================
+
+[[traktandum-1]]
+= Traktandum
+
+[cols=",,,",options="header",]
+|======================================
+|Beschreibung |Typ |Verantw. |Endtermin
+| | | |
+| | | |
+|======================================
+
+Beilage:

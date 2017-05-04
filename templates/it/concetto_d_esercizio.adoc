@@ -1,0 +1,142 @@
+Concetto d’esercizio
+
+[cols=",",options="header",]
+|=========================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, ad uso interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|=========================================================================
+
+Elenco delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Requisiti d’esercizio 2
+
+2 Tecnologia dei sistemi 2
+
+3 Descrizione dell’organizzazione strutturale e dei processi operativi 2
+
+3.1 Organizzazione strutturale 2
+
+3.2 Processi operativi 2
+
+4 Esercizio del sistema 2
+
+4.1 Esercizio normale 2
+
+4.2 Controllo del sistema 2
+
+4.3 Preparazione del lavoro 3
+
+5 Trattamento dei guasti 3
+
+6 Descrizione degli aspetti di sicurezza 3
+
+7 Copertura dei requisiti 3
+
+[[requisiti-desercizio]]
+= Requisiti d’esercizio
+
+I requisiti d’esercizio sono descritti nei requisiti di sistema
+
+[[tecnologia-dei-sistemi]]
+= Tecnologia dei sistemi
+
+Modello d’infrastruttura IT
+
+Sistemi, componenti impiegati, versioni
+
+Reti
+
+Salvataggio dei dati
+
+Archiviazione
+
+[[section]]
+=
+
+[[descrizione-dellorganizzazione-strutturale-e-dei-processi-operativi]]
+= Descrizione dell’organizzazione strutturale e dei processi operativi
+
+[[organizzazione-strutturale]]
+== Organizzazione strutturale
+
+Organizzazione rilevante per l’esercizio del sistema IT (organigramma, servizi, funzioni)
+
+Descrizione degli effetti del sistema IT sull’organizzazione
+
+Analisi della necessità di adeguamento
+
+[[processi-operativi]]
+== Processi operativi
+
+Processi operativi rilevanti per l’esercizio del sistema IT
+
+Descrizione degli effetti del sistema IT sui processi
+
+Analisi della necessità di adeguamento
+
+Descrizione dei compiti di assistenza all’utente con descrizione dei processi, regole, istruzioni
+
+[[esercizio-del-sistema]]
+= Esercizio del sistema
+
+[[esercizio-normale]]
+== Esercizio normale
+
+Statistiche, numeri di riferimento, unità di misura
+
+[[controllo-del-sistema]]
+== Controllo del sistema
+
+Controllo dell’esercizio con monitoraggio, sistema di allarme, ecc.
+
+Salvataggio dei dati
+
+Controlli per la protezione dei dati
+
+Riferimento ai processi operativi
+
+[[preparazione-del-lavoro]]
+== Preparazione del lavoro
+
+Concetti specifici al progetto
+
+[[trattamento-dei-guasti]]
+= Trattamento dei guasti
+
+Riferimento ai processi operativi
+
+Procedura in caso di guasto (inclusi gli aspetti organizzativi come la comunicazione agli utenti, ecc.)
+
+[[descrizione-degli-aspetti-di-sicurezza]]
+= Descrizione degli aspetti di sicurezza
+
+Concetti specifici al progetto
+
+[[copertura-dei-requisiti]]
+= Copertura dei requisiti
+
+Riferimento ai requisiti di sistema
+
+[cols=",,,",options="header",]
+|==========================================================================
+|ID |Requisito |Assegnazione a un sottosistema / +
+componente |Valutazione della copertura dei requisiti
+|_B-001_ |_Assistenza_ |_Orario dell’assistenza 7.30–12.00 / +
+13.30–18.00_ |_100 %_
+|_S-001_ |_Sicurezza_ |_Archiviazione codificata nella banca dati_ |_100 %_
+| | | |
+|==========================================================================

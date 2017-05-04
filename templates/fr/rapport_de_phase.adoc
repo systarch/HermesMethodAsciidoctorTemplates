@@ -1,0 +1,151 @@
+Rapport de phase
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Situation de départ 2
+
+2 Objectifs et solutions 2
+
+3 Référence à la stratégie et mise en application de directives 2
+
+4 Bases légales 3
+
+5 Utilité et rentabilité 3
+
+6 Planification 3
+
+7 Organisation 3
+
+8 Risques 3
+
+9 Proposition 3
+
+10 Annexes 4
+
+[[situation-de-départ]]
+=  +
+Situation de départ
+
+Résumé du déroulement du projet jusqu’à présent
+
+[[objectifs-et-solutions]]
+= Objectifs et solutions
+
+*Objectifs du projet*
+
+[cols=",,,,,",options="header",]
+|====================================================================================================================================================================================================================================
+|N° |Catégorie |Description |Grandeur de mesure |Priorité |Prévision du degré d’atteinte
+|_1_ |_Positionnement sur le marché_ |_Réduction de la durée du processus entre la réception de la commande et la livraison_ |_Réduction de 4 jours actuellement à 3 jours; à partir d’un mois après la mise en service_ |_M_ |_100%_
+| | | | | |
+|====================================================================================================================================================================================================================================
+
+Légende: priorité: O=obligatoire /1=haute, 2=moyenne, 3=basse
+
+*Objectifs de la démarche*
+
+[cols=",,,,,",options="header",]
+|=============================================================================================================================================================================
+|N° |Catégorie |Description |Grandeur de mesure |Priorité |Prévision du degré d’atteinte
+|_1_ |_Qualité du déroulement du projet_ |_La faisabilité est attestée au moyen d’une installation de test._ |_Traitement sans erreur d’un cas commercial défini_ |_2_ |_100%_
+| | | | | |
+|=============================================================================================================================================================================
+
+*Description de la solution*
+
+Description sommaire de la variante, référence à l’étude ou au mandat de projet
+
+[[référence-à-la-stratégie-et-mise-en-application-de-directives]]
+= Référence à la stratégie et mise en application de directives
+
+Référence au mandat de projet
+
+Relation à la stratégie:
+
+* Les objectifs du projet sont-ils encore en concordance avec la stratégie de l’organisation permanente?
+
+Mise en application de directives:
+
+* Les directives sont-elles respectées ou y a-t-il des écarts?
+
+[[bases-légales]]
+= Bases légales
+
+Référence au mandat de projet
+
+Explication de changements concernant les bases légales ou confirmation de la validité.
+
+[[utilité-et-rentabilité]]
+= Utilité et rentabilité
+
+Référence au mandat de projet
+
+Nouveau calcul de la rentabilité selon les directives de l’organisation permanente: en règle générale coûts et charge de travail pour le projet et l’exploitation, utilité (quantifiable, non quantifiable)
+
+[[planification]]
+= Planification
+
+Référence au rapport d’état concernant les délais, les coûts, les charges de personnel et les résultats
+
+[[organisation]]
+= Organisation
+
+*Organisation de la phase suivante*
+
+Référence au plan de gestion du projet
+
+[cols=",,,",options="header",]
+|==================================================================================================
+|Rôle dans l’organisation du projet |Nom |Abréviation |Fonction/Unité organisationnelle représentée
+|_Mandant_ |_Kurt Müller_ |_muk_ |_Resp. direction xyz_
+|_Comité de projet_ | | |
+|_Chef de projet_ | | |
+|_Responsable SIPD_ | | |
+|_Spécialiste représentant les utilisateurs_ | | |
+|_Spécialiste responsable des processus métier_ | | |
+| | | |
+|==================================================================================================
+
+[[risques]]
+= Risques
+
+Référence au rapport d’état
+
+[[proposition]]
+= Proposition
+
+Proposition d’approuver le rapport de phase
+
+Proposition de clore la phase actuelle
+
+Proposition de libérer la phase suivante
+
+[[annexes]]
+= Annexes
+
+Rapport d’état du projet
+
+[[section]]
+=

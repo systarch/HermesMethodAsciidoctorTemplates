@@ -1,0 +1,149 @@
+Etude détaillée
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Situation de départ 2
+
+2 Exigences 2
+
+3 Concept de solution avec variantes et évaluation 2
+
+3.1 Variante 1 2
+
+3.1.1 Description 2
+
+3.1.2 Couverture des exigences 2
+
+3.2 Variante 2 3
+
+3.2.1 Description 3
+
+3.2.2 Couverture des exigences 3
+
+4 Faisabilité 3
+
+5 Recommandation 3
+
+[[situation-de-départ]]
+=  +
+Situation de départ
+
+Cause de l’élaboration de l’étude détaillée.
+
+_Exemple : Une étude détaillée est élaborée pour décrire la gestion des utilisateurs, le concept d’accès et les rôles._
+
+[[exigences]]
+= Exigences
+
+Les exigences sont décrites dans le document exigences envers le système
+
+1.  [[concept-de-solution-avec-variantes-et-évaluation]]
+= Concept de solution avec variantes et évaluation
+1.  [[variante-1]]
+== Variante 1
+1.  [[description]]
+=== Description
+
+_Proposition de modèle pour la description_
+
+[cols=",",options="header",]
+|=====================================================================================================================================
+|Brève description |
+|Structure (organigramme) et fonction (processus) |Description de la proposition de solution avec référence au concept d’organisation.
+a|
+Fonction et données
+
+(application informatique)
+
+ a|
+Description de la proposition de solution
+
+Référence au sous-système / component
+
+|Interface |Description de la proposition de solution
+|Hardware (écrans, imprimantes, Scanner, Server, etc.) |Description de la proposition de solution
+|Système d‘exploitation, Bases de données, Télécommunication |Description de la proposition de solution
+|=====================================================================================================================================
+
+[[couverture-des-exigences]]
+=== Couverture des exigences
+
+[[_Toc391883703]][[_Toc400695158]][[_Toc400706571]]
+
+[cols=",,,",options="header",]
+|==============================================================================================================
+|ID |Catégorie d’exigence |Attribution à un sous-système / composant |Evaluation de la couverture de l’exigence
+|_B-001_ | | |
+|_S-001_ | | |
+| | | |
+|==============================================================================================================
+
+[[section]]
+=
+
+1.  [[variante-2]]
+== Variante 2
+1.  [[description-1]]
+=== Description
+2.  [[couverture-des-exigences-1]]
+=== Couverture des exigences
+
+[[faisabilité]]
+= Faisabilité
+
+Par exemple avec une notation: 9 = très bon; 1 = très mauvais
+
+[cols=",,,",options="header",]
+|=================================
+|Critères d‘évaluation |V1 |V2 |V3
+|Coûts | | |
+a|
+* _Coûts du projet_
+
+ | | |
+a|
+* _Coûts récurrents_
+
+ | | |
+a|
+_Bénéfices_
+
+* _quantifiables_
+* _non quantifiables_
+
+ | | |
+|_Risques_ | | |
+|_Durabilité_ | | |
+|_Bases légales_ | | |
+|Autres | | |
+|=================================
+
+[[recommandation]]
+= Recommandation
+
+Courte description de la variante recommandée.
+
+[[section-1]]
+=

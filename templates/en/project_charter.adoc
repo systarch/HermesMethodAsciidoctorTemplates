@@ -1,0 +1,193 @@
+Project Charter
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Background 2
+
+2 Objectives 2
+
+3 Description of Solution 2
+
+4 Strategy Reference and Implementation of Requirements 2
+
+5 Legal Framework 3
+
+6 Resources Required 3
+
+7 Efficiency 3
+
+8 Planning 3
+
+9 Organization 4
+
+10 Risks 4
+
+11 Consequences 4
+
+[[background]]
+=  +
+Background
+
+Reference to study and option chosen.
+
+[[objectives]]
+= Objectives
+
+*System Goals*
+
+[cols=",,,,",options="header",]
+|==============================================================================================================================================================================================
+|No. |Category |Description |Measure |Priority
+|_1_ |_Market positioning_ |_Reduction of process flow time from receipt of order to delivery_ |_Reduced from currently four days to three days; from one month after launching operation_ |_M_
+| | | | |
+|==============================================================================================================================================================================================
+
+Explanation: Priority: M=must /1=high, 2=medium, 3=low
+
+*Procedural Goals*
+
+[cols=",,,,",options="header",]
+|=============================================================================================================================================================
+|No |Category |Description |Measure |Priority
+|_1_ |_Quality of project handling_ |_Feasibility to be established by means of a test installation_ |_Error-free handling of a predefined business case_ |_2_
+| | | | |
+|=============================================================================================================================================================
+
+*Parameters*
+
+Text
+
+*Delimitation*
+
+Text
+
+[[description-of-solution]]
+= Description of Solution
+
+Description of option chosen, reference to study.
+
+[[strategy-reference-and-implementation-of-requirements]]
+= Strategy Reference and Implementation of Requirements
+
+Reference to strategy
+
+* Reference of project objectives to the core organization's strategy
+
+Implementation of requirements:
+
+* Compliance with the requirements of the core organization
+
+[[legal-framework]]
+= Legal Framework
+
+Conclusions from analysis of legal framework
+
+[[resources-required]]
+= Resources Required
+
+Costs (CHF)
+
+[cols=",",options="header",]
+|================
+|Phase |Planned
+|Initiation* |
+|Concept |
+|Implementation |
+|Launch |
+|Total |
+|================
+
+*Advance (Actual)
+
+Human Resources Required
+
+[cols=",",options="header",]
+|================
+|Phase |Planned
+|Initiation* |
+|Concept |
+|Implementation |
+|Launch |
+|Total |
+|================
+
+*Advance (Actual)
+
+*Other Resources*
+
+Rooms, IT infrastructure, specific software, etc.
+
+[[efficiency]]
+= Efficiency
+
+According to the core organization's requirements: Usually costs and time required for project and operation; benefit (quantifiable or not quantifiable)
+
+[[planning]]
+= Planning
+
+Milestones and deadlines
+
+[cols=",",options="header",]
+|===============================
+|Milestone |Planned
+|_project release_ |_12.12.2015_
+| |
+|===============================
+
+[[organization]]
+= Organization
+
+[cols=",,,",options="header",]
+|==========================================================================
+|Role in the Project Organization |Name |Ref. |Function/Organizational Unit
+|_Project Sponsor_ |_Kurt Müller_ |_muk_ |_Head of xyz Department_
+|_Steering committee_ | | |
+|_Project Manager_ | | |
+|_ISDP manager_ | | |
+|_Specialist: User representative_ | | |
+|_Specialist: Business process owner_ | | |
+| | | |
+|==========================================================================
+
+[[risks]]
+= Risks
+
+[cols=",,,,,,,",options="header",]
+|================================================================================================
+|No. |Risk Description |PO |LI |RN |Measures |To be Handled by |Deadline
+|_R1_ |_IT system does not perform well enough_ |_2_ |_3_ |_6_ |_Performance Tests_ |PM |01.01.01
+| | | | | | | |
+|================================================================================================
+
+Explanation: PO=probability of occurrence: 1 low / 2 medium / 3 high; LI=level of impact 1 low / 2 medium / 3 high, RN=risk number
+
+[[consequences]]
+= Consequences
+
+*If project is released*
+
+Text
+
+*If project is not released or if it is released at a later date*
+
+Text

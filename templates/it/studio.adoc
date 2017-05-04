@@ -1,0 +1,508 @@
+Studio
+
+[cols=",",options="header",]
+|=========================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, ad uso interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|=========================================================================
+
+Elenco delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Situazione iniziale 3
+
+2 Analisi della situazione 3
+
+2.1 Organizzazione operativa 3
+
+2.2 Prodotto o sistema IT 3
+
+2.3 Sicurezza dell’informazione e protezione dei dati 3
+
+2.4 Strutture quantitative di massima 3
+
+2.4.1 Transazioni operative 3
+
+2.4.2 Quantità di dati 3
+
+2.5 Punti forti e punti deboli 4
+
+2.5.1 Punti forti 4
+
+2.5.2 Punti deboli 4
+
+2.6 Contesto del sistema 4
+
+2.7 Diagramma del contesto 5
+
+3 Obiettivi 5
+
+3.1 Obiettivo del sistema / del prodotto 5
+
+3.2 Obiettivi procedurali del progetto 6
+
+4 Strategia e attuazione di direttive 7
+
+4.1 Strategia 7
+
+4.2 Attuazione di direttive e condizioni quadro 7
+
+5 Requisiti di massima 7
+
+6 Varianti della soluzione 8
+
+6.1 Panoramica delle varianti 8
+
+6.2 Variante nn 8
+
+6.2.1 Breve descrizione 8
+
+6.2.2 Contesto del sistema (ideale) 8
+
+6.2.3 Diagramma del sistema (ideale) 8
+
+6.2.4 Organizzazione operativa 8
+
+6.2.5 Prodotto o sistema IT 8
+
+6.2.6 Sicurezza delle informazioni e protezione dei dati 8
+
+6.2.7 Prerequisiti, dipendenze 8
+
+6.3 Analisi e valutazione delle varianti 8
+
+6.3.1 Conseguimento degli obiettivi 8
+
+6.3.2 Copertura dei requisiti 9
+
+6.3.3 Altri criteri 9
+
+7 Raccomandazione 10
+
+[[section]]
+=
+
+[[situazione-iniziale]]
+= Situazione iniziale
+
+Motivo per realizzare questo studio.
+
+[[analisi-della-situazione]]
+= Analisi della situazione
+
+L’analisi della situazione crea una base fondata di conoscenza per poter elaborare obiettivi e varianti di soluzioni per il sistema / prodotto.
+
+[[organizzazione-operativa]]
+== Organizzazione operativa
+
+In questa sezione viene descritta l’attuale organizzazione operativa per lo più sulla base di documenti esistenti. Se non ci sono documenti disponibili, si deve verificare in che misura la documentazione della situazione reale dell’organizzazione operativa è necessaria per lo studio. Si tratta di una descrizione sommaria dei compiti / delle prestazioni più importanti nonché dei processi principali e dell’organizzazione dell’impostazione.
+
+[[prodotto-o-sistema-it]]
+== Prodotto o sistema IT
+
+Risorse materiali utilizzate
+
+[cols=",,",options="header",]
+|============================
+|N. |Descrizione |Spiegazione
+|_01_ |_PC_ |_25_
+|_02_ |_Veicoli_ |_13 Combi_
+| | |
+|============================
+
+[[sicurezza-dellinformazione-e-protezione-dei-dati]]
+== Sicurezza dell’informazione e protezione dei dati
+
+Descrizione della situazione attuale
+
+[[strutture-quantitative-di-massima]]
+== Strutture quantitative di massima
+
+[[transazioni-operative]]
+=== Transazioni operative
+
+[cols=",,,",options="header",]
+|=========================================================================================================
+|Operazione / transazione |Media per unità di tempo |Massimo per unità di tempo |Minimo per unità di tempo
+|_Pagamenti_ |_8500/mese_ |_20 000/mese_ |_500/mese_
+| | | |
+|=========================================================================================================
+
+[[quantità-di-dati]]
+=== Quantità di dati
+
+[cols=",,,,",options="header",]
+|=============================================================================================================
+|Tipo d’oggetto |Quantità |Mutazioni per unità di tempo |Accessi per unità di tempo |Uscite per unità di tempo
+|_Richiedente_ |_20 000_ |_1500 / mese_ |_750 / mese_ |_500 / mese_
+| | | | |
+|=============================================================================================================
+
+[[punti-forti-e-punti-deboli]]
+== Punti forti e punti deboli
+
+[[punti-forti]]
+=== Punti forti
+
+[cols=",,",options="header",]
+|==================================================
+|N. |Descrizione |Causa
+|_01_ |_Versamenti praticamente senza +
+errori_ |_Qualificazione elevata dei collaboratori_
+| | |
+|==================================================
+
+[[punti-deboli]]
+=== Punti deboli
+
+[cols=",,,",options="header",]
+|========================================
+|N. |Descrizione |Causa |Possibilità di +
+soluzione
+|_01_ |_Esecuzione inefficiente del +
+processo aziendale Pxxx_ |_Funzionalità +
+mancante +
+nell’applicazione IT_ |_Elevata_
+| | | |
+|========================================
+
+[[contesto-del-sistema]]
+== Contesto del sistema
+
+Con la rappresentazione / descrizione del contesto del sistema si mostrano quali aspetti sono rilevanti per la definizione e la comprensione dei requisiti del sistema considerato.
+
+[[diagramma-del-contesto]]
+== Diagramma del contesto
+
+Mostra tutti gli attori (utenti, sistemi periferici) che interagiscono con il prodotto / il sistema e vogliono:
+
+* ________
+generare
+________
+* ________
+ricevere
+________
+
+i flussi di informazioni e di materiale.
+
+La rappresentazione è sotto forma di diagramma di flusso di dati o dei casi d’uso (_use cases_).
+
+[[obiettivi]]
+= Obiettivi
+
+[[obiettivo-del-sistema-del-prodotto]]
+== Obiettivo del sistema / del prodotto
+
+_Esempi di categorie:_
+
+* _obiettivi finanziari, economicità_
+* _prestazione, efficienza, durata di esecuzione_
+* _qualità, riduzione degli errori_
+* _soddisfazione del cliente_
+* _sicurezza, affidabilità_
+* _flessibilità_
+* _espandibilità_
+* _manutenibilità_
+* _sostenibilità_
+
+[cols=",,,,,",options="header",]
+|==========================================================================================================================================================================================================================================================
+|N. |Categoria |Obiettivo |Dimensione |Peso (obblig., +
+ideale, +
+possibile) |Lasso di tempo per il +
+conseguimento
+|_1_ |_Organizzazione_ |_Ogni dipartimento può organizzare i propri eventi autonomamente; i processi sono uniformi per l’Ufficio._ |_Rispetto alle 2 persone attuali, in futuro 5 persone potranno organizzare gli eventi._ |_obblig._ |_dall’introduzione_
+|_2_ |_Funzionalità_ |_Devono essere organizzati eventi per partecipanti esterni e possono essere organizzati per quelli interni alla +
+divisione._ |_Possono essere organizzati eventi interni ed esterni._ |_ideale_ |_dall’introduzione_
+|_3_ |_Qualità_ |_La qualità dell’organizzazione dell’evento aumenta._ |_Meno sovraprenotazioni – in futuro +
+nessuna_ |_possibile_ |_dall’introduzione_
+|_4_ |_Economicità_ |_Il dispendio di personale deve diminuire._ |_Riduzione del +
+dispendio di due ore per evento._ |_ideale_ |_dall’introduzione_
+|_5_ |_Sostenibilità_ |_Per l’organizzazione e l’esecuzione dell’evento deve essere utilizzata meno carta._ |_Il quantitativo di carta utilizzato deve essere ridotto del 20 per cento._ |_obblig._ |_dall’introduzione_
+|==========================================================================================================================================================================================================================================================
+
+[[obiettivi-procedurali-del-progetto]]
+== Obiettivi procedurali del progetto
+
+_Esempi di categorie_
+
+* _Costi (budget)_
+* _Scadenza_
+* _Capisaldi_
+* _Metodica_
+
+[cols=",,,,,",options="header",]
+|=====================================================================================================================================================
+|N. |Categoria |Descrizione |Parametri |Peso (%,obblig., +
+ideale, +
+possibile, punti) |Priorità
+|_6_ |_Scadenza_ |_Fra 6 mesi sarà disponibile un tool per l’organizzazione dell’evento._ |_Gli eventi possono essere organizzati con il tool._ | |_2_
+|=====================================================================================================================================================
+
+[[strategia-e-attuazione-di-direttive]]
+= Strategia e attuazione di direttive
+
+[[strategia]]
+== Strategia
+
+Il progetto supporta la seguente strategia dell’organizzazione di base:
+
+YXYX
+
+[[attuazione-di-direttive-e-condizioni-quadro]]
+== Attuazione di direttive e condizioni quadro
+
+Il progetto rispetta le seguenti direttive e condizioni quadro dell’organizzazione di base:
+
+XYXY
+
+[[requisiti-di-massima]]
+= Requisiti di massima
+
+[cols=",,,,,",options="header",]
+|=========================================================================================================================
+|ID |Requisito |Tipo di requisito (G,F,Q,S,M, A,B) |Criterio di +
+accettazione a|
+Importanza
+
+5−1
+
+ a|
+Urgenza
+
+5−1
+
+|_nn_ |_Predisposizione +
+dell’iscrizione al corso_ |_F_ |_Test completati con successo secondo la specifica dei test_ |_5_ |_5_
+|_nn_ |_Conferma delle +
+visualizzazioni_ |_Q_ |_In un ambiente reale di sistema nel 90 % dei test entro 2 secondi_ |_3_ |_4_
+|_nn_ |_Le conferme devono essere inviate in giornata._ |_G_ |_Dopo aver deciso di tenere un corso entro 24 ore_ |_3_ |_3_
+|_nn_ |_Trasmissione di dati crittografati_ |_S_ |_Test completati con successo secondo la specifica dei test_ |_5_ |_4_
+|_nn_ |_Gli accessi esterni devono essere registrati._ |_S_ |_Prova dei test completata con successo_ |_4_ |_4_
+|=========================================================================================================================
+
+* Tipo di requisito: G = organizzazione operativa, F = funzionale, Q = qualità, S = sicurezza, M = migrazione, A = architettura, B = esercizio
+* Importanza: 5 = deve essere attuata imperativamente; 4 = molto importante, 3 = importante, 2 = meno importante, 1 = potrebbe essere tralasciata
+* Urgenza: 5 = deve essere attuata imperativamente entro la scadenza, 4 = il rispetto della scadenza è molto importante, 2 = meno importante, 1 = irrilevante
+
+[[varianti-della-soluzione]]
+= Varianti della soluzione
+
+[[panoramica-delle-varianti]]
+== Panoramica delle varianti
+
+[cols=",",options="header",]
+|================================================================
+|Variante |Descrizione
+|_V1_ |_Organizzazione ottimizzata con esercizio centralizzato_
+|_V2_ |_Organizzazione ottimizzata con esercizio decentralizzato_
+|_V3_ |
+|_V4_ |
+|_V5_ |
+|================================================================
+
+_Metodi di creazione di varianti della soluzione: tecniche creative (come ad es. il brainstorming e il metodo 6-3-5), grafici (matrici) causa-effetto, quadri morfologici, metodi analogici e altri._
+
+[[variante-nn]]
+== Variante nn
+
+Per ogni variante vengono descritti i seguenti punti.
+
+[[breve-descrizione]]
+=== Breve descrizione
+
+[[contesto-del-sistema-ideale]]
+=== Contesto del sistema (ideale)
+
+[[diagramma-del-sistema-ideale]]
+=== Diagramma del sistema (ideale)
+
+[[organizzazione-operativa-1]]
+=== Organizzazione operativa
+
+• Processi
+
+• Organizzazione dell’impostazione
+
+[[prodotto-o-sistema-it-1]]
+=== Prodotto o sistema IT
+
+Per un sistema IT devono essere descritti i seguenti aspetti: architettura di massima del sistema (panoramica e struttura del sistema), interfacce e delimitazione.
+
+[[sicurezza-delle-informazioni-e-protezione-dei-dati]]
+=== Sicurezza delle informazioni e protezione dei dati
+
+[[prerequisiti-dipendenze]]
+=== Prerequisiti, dipendenze
+
+[[analisi-e-valutazione-delle-varianti]]
+== Analisi e valutazione delle varianti
+
+[[conseguimento-degli-obiettivi]]
+=== Conseguimento degli obiettivi
+
+[cols=",,,,,",options="header",]
+|=============================================================================================================================================
+|N. |Descrizione a|
+Peso
+
+(obblig.,
+
+ideale,
+
+possibile)
+
+ |V1 |V2 |V3
+|_1_ |_Ogni dipartimento può organizzare i propri eventi autonomamente; i pro-cessi sono uniformi per l’Ufficio._ |_obblig._ |_sì_ |_sì_ |_sì_
+|_2_ |_Deve essere possibile organizzare eventi per partecipanti esterni e per quelli interni alla divisione._ |_obblig._ |_sì_ |_sì_ |_sì_
+| | | | | |
+|=============================================================================================================================================
+
+[[copertura-dei-requisiti]]
+=== Copertura dei requisiti
+
+[cols=",,,,,",options="header",]
+|=============================================================================
+|ID |Descrizione dei requisiti a|
+Importanza
+
+5−1
+
+ |V1 |V2 |V3
+|_nn_ a|
+_Predisposizione_
+
+_dell’iscrizione al corso_
+
+ |_5_ |_sì_ |_sì_ |_sì_
+|_nn_ a|
+_Conferma delle_
+
+_visualizzazioni_
+
+ |_3_ |_sì_ |_sì_ |_sì_
+|_nn_ |_Le conferme devono essere inviate in giornata._ |_3_ |_sì_ |_sì_ |_sì_
+|=============================================================================
+
+[[altri-criteri]]
+=== Altri criteri
+
+[cols=",,,",options="header",]
+|======================================================================
+|Criteri di +
+valutazione |V1 |V2 |V3
+|Costi: | | |
+a|
+* _di progetto_
+
+ a|
+* _CHF 80 000−100 000_
+
+ a|
+* _CHF 50 000−80 000_
+
+ a|
+* _CHF 20 000−30 000_
+
+a|
+* _ricorrenti_
+
+ a|
+* _CHF 20 000−30 000_
+
+ a|
+* _CHF 10 000−20 000_
+
+ a|
+* _CHF 30 000−40 000_
+
+a|
+_Vantaggi:_
+
+* _quantificabili_
+* _non quantificabili_
+
+ a|
+* _Nessun risparmio_
+* _Meno errori +
+nell’organizzazione_
+
+ a|
+* _Nessun risparmio_
+* _Meno errori +
+nell’organizzazione_
+
+ a|
+* _0,5 giorni per evento_
+* _Meno errori +
+nell’organizzazione_
+
+|_Rischi_ a|
+* _Nessuna dipendenza dal produttore_
+* _L’eliminazione dei guasti richiede molto tempo (meno posti interni)_
+* _Dopo l’aggiornamento di Windows e Office il tool non funziona più._
+
+ a|
+* _Dipendenza dal +
+produttore_
+* _In caso di aggiornamento si generano costi di adeguamento inattesi_
+* _L’eliminazione dei guasti richiede molto tempo (meno posti interni)_
+
+ a|
+* _Dipendenza dal +
+produttore_
+
+|_Sostenibilità_ a|
+* _Soluzione proprietaria_
+* _I dati non sono liberamente disponibili_
+* _Prodotta in modo non socialmente equo_
+* _Ecocompatibilità non indicata_
+
+ a|
+* _Soluzione proprietaria_
+* _Poche possibilità di sviluppo_
+* _Prodotta solo parzialmente in modo socialmente equo_
+* _Solo parzialmente ecocompatibile_
+
+ a|
+* _Copyright mantenuto sui nuovi sviluppi_
+* _Garantire l’accesso al codice sorgente_
+* _Diritto di assegnare un mandato a terzi per gli sviluppi futuri_
+* _Produzione socialmente equa_
+* _Ecocompatibilità elevata_
+
+|_Basi legali_ | | |
+|Altri | | |
+|======================================================================
+
+Possibile rappresentazione della valutazione mediante:
+
+• analisi dell’utilità
+
+• calcolo del rapporto costi-benefici
+
+• analisi dei costi e dell’efficacia
+
+• bilancio delle argomentazioni (+/-; vantaggi, svantaggi), calcolo dell’economicità e +
+degli investimenti.
+
+[[raccomandazione]]
+= Raccomandazione
+
+Si raccomanda la variante Vn.
+
+[[section-1]]
+=

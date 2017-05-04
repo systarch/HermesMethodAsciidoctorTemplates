@@ -1,0 +1,107 @@
+Evaluation Report
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Purpose 2
+
+2 Evaluation Procedure 2
+
+2.1 Members of the Evaluation Team 2
+
+2.2 Process of Evaluation 2
+
+3 Call for Tender, Questions, and Opening of Tender 2
+
+4 Evaluation Outcomes 2
+
+4.1 Suitability Criteria 2
+
+4.2 Technical Specifications 2
+
+4.3 Award Criteria 2
+
+5 Requests 3
+
+6 Appendices 3
+
+[[purpose]]
+=  +
+Purpose
+
+Information on specifications
+
+[[evaluation-procedure]]
+= Evaluation Procedure
+
+[[members-of-the-evaluation-team]]
+== Members of the Evaluation Team
+
+[cols=",",options="header",]
+|====================
+|Name |Specific Field
+| |
+| |
+|====================
+
+[[process-of-evaluation]]
+== Process of Evaluation
+
+[cols=",,",options="header",]
+|===================
+|No. |Step |Deadline
+| | |
+| | |
+|===================
+
+[[call-for-tender-questions-and-opening-of-tender]]
+= Call for Tender, Questions, and Opening of Tender
+
+Publication of tender, parties interested in tendering, questions and answers regarding the tender, opening of tender, review of deadlines and content, and finalizing of tender details.
+
+[[evaluation-outcomes]]
+= Evaluation Outcomes
+
+[[suitability-criteria]]
+== Suitability Criteria
+
+Meeting of suitability criteria (must haves: tenderer)
+
+[[technical-specifications]]
+== Technical Specifications
+
+Meeting of technical criteria (must haves: product or service)
+
+[[award-criteria]]
+== Award Criteria
+
+Evaluation procedure and weighting of award criteria, finalizing of tender details and negotiation, determination of economically most advantageous offer.
+
+[[requests]]
+= Requests
+
+Request for award and publication of award for the whole scope of products or services, or for individual parts.
+
+[[appendices]]
+= Appendices
+
+Report on opening of tender, tenders, completed lists of criteria with self-evaluation by tenderers, consolidated outcomes of qualification process as an external assessment by the evaluation team.

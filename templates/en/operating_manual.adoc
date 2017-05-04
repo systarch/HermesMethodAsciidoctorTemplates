@@ -1,0 +1,99 @@
+Operating Manual
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 System Overview 2
+
+2 Launching the Operation 2
+
+3 Conducting and Supervising the Operation 2
+
+4 Interrupting or Closing the Operation 2
+
+5 Support Organization 2
+
+6 Change Management 2
+
+7 Safety Regulations 3
+
+[[system-overview]]
+=  +
+System Overview
+
+Overview of the system components important for operating the system and their interrelationships (technically, organizationally)
+
+[[launching-the-operation]]
+= Launching the Operation
+
+Pre-requisites for launching operation
+
+Launching procedure
+
+Quality assurance after launching operation
+
+Requirements for system acceptance
+
+[[conducting-and-supervising-the-operation]]
+= Conducting and Supervising the Operation
+
+Supervising the operation, including monitoring, alerts, etc.
+
+Data security
+
+Data protection checks
+
+Statistics, performance figures, measures
+
+How to proceed in the case of defects (incl. organizational aspects such as communication, etc.)
+
+Information on operational processes
+
+[[interrupting-or-closing-the-operation]]
+= Interrupting or Closing the Operation
+
+Stop the system operation
+
+Relaunching procedure
+
+Quality assurance after relaunch
+
+Decommissioning of system, storage of legacy data, handover
+
+[[support-organization]]
+= Support Organization
+
+Support processes
+
+Organization with roles
+
+[[change-management]]
+= Change Management
+
+Change management process
+
+Change management organization with roles; contact information
+
+[[safety-regulations]]
+= Safety Regulations
+
+Data protection and data security requirements

@@ -1,0 +1,84 @@
+Systemarchitektur
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Übersicht und Struktur des Systems 2
+
+1.1 Übersicht 2
+
+1.2 Subsysteme und Komponenten 2
+
+1.3 Architekturen / Modelle 2
+
+2 Schnittstellen und Abgrenzung 2
+
+3 Machbarkeit 2
+
+4 Anforderungsabdeckung 2
+
+1.  [[übersicht-und-struktur-des-systems]]
+= Übersicht und Struktur des Systems
+1.  [[übersicht]]
+== Übersicht
+
+Übersichtsdiagramme gemäss den Methoden des Erstellers
+
+[[subsysteme-und-komponenten]]
+== Subsysteme und Komponenten
+
+Darstellung der Struktur des Systems gemäss den Methoden des Erstellers
+
+[[architekturen-modelle]]
+== Architekturen / Modelle
+
+Hinweis auf Detailstudien
+
+Abhängig vom Projektergebnis. Beispielsweise Geschäftsprozessmodell, Funktionsmodell (z.B. mit UseCases/Userstories), Datenarchitektur/ Datenmodell etc.
+
+Technische Architektur des IT-Systems
+
+Eingesetzte Produkte, Versionen
+
+[[schnittstellen-und-abgrenzung]]
+= Schnittstellen und Abgrenzung
+
+Schnittstellen zu Umsystemen
+
+Hinweis auf Integrationskonzept
+
+[[machbarkeit]]
+= Machbarkeit
+
+Beurteilung der Machbarkeit, Hinweis auf Prototypingdokumentation
+
+[[anforderungsabdeckung]]
+= Anforderungsabdeckung
+
+Hinweis auf Systemanforderungen
+
+[cols=",,,",options="header",]
+|============================================================================================
+|ID |Anforderung |Zuordnung zu Subsystem / Komponente |Beurteilung der Anforderungs­abdeckung
+| | | |
+| | | |
+|============================================================================================

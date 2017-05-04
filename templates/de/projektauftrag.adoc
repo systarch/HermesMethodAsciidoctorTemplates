@@ -1,0 +1,193 @@
+Projektauftrag
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Ausgangslage 2
+
+2 Ziele 2
+
+3 Lösungsbeschreibung 2
+
+4 Strategiebezug und Umsetzung von Vorgaben 2
+
+5 Rechtliche Grundlagen 3
+
+6 Mittelbedarf 3
+
+7 Wirtschaftlichkeit 3
+
+8 Planung 3
+
+9 Organisation 4
+
+10 Risiken 4
+
+11 Konsequenzen 4
+
+[[ausgangslage]]
+=  +
+Ausgangslage
+
+Hinweis auf Studie mit gewählter Variante
+
+[[ziele]]
+= Ziele
+
+*Systemziele*
+
+[cols=",,,,",options="header",]
+|=========================================================================================================================================================================================
+|Nr. |Kategorie |Beschreibung |Messgrösse |Priorität
+|_1_ |_Marktpositionierung_ |_Reduktion der Prozessdurch­laufzeit ab Bestelleingang bis Auslieferung_ |_Von heute 4 Tagen auf 3 Tage reduziert; ab einem Monat nach Betriebsaufnahme_ |_M_
+| | | | |
+|=========================================================================================================================================================================================
+
+Legende: Priorität: M=Muss /1=hoch, 2=mittel, 3=tief
+
+*Vorgehensziele*
+
+[cols=",,,,",options="header",]
+|================================================================================================================================================================
+|Nr |Kategorie |Beschreibung |Messgrösse |Priorität
+|_1_ |_Qualität der Projektabwicklung_ |_Machbarkeit wird mit einer Testinstallation bewiesen._ |_Fehlerfreie Bearbeitung eines definierten Geschäftsfalles_ |_2_
+| | | | |
+|================================================================================================================================================================
+
+*Rahmenbedingungen*
+
+Text
+
+*Abrenzung*
+
+Text
+
+[[lösungsbeschreibung]]
+= Lösungsbeschreibung
+
+Grobe Beschreibung der gewählten Variante, Hinweis auf Studie
+
+[[strategiebezug-und-umsetzung-von-vorgaben]]
+= Strategiebezug und Umsetzung von Vorgaben
+
+Strategiebezug:
+
+* Bezug der Projektziele zur Strategie der Stammorganisation
+
+Umsetzung von Vorgaben:
+
+* Einhaltung der Vorgaben der Stammorganisation
+
+[[rechtliche-grundlagen]]
+= Rechtliche Grundlagen
+
+Schlussfolgerung aus Rechtsgrundlagenanalyse
+
+[[mittelbedarf]]
+= Mittelbedarf
+
+Kosten (CHF)
+
+[cols=",",options="header",]
+|==================
+|Phase |Geplant
+|Initialisierung* |
+|Konzept |
+|Realisierung |
+|Einführung |
+|Total |
+|==================
+
+*Vorleistung (IST)
+
+Personalaufwand
+
+[cols=",",options="header",]
+|==================
+|Phase |Geplant
+|Initialisierung* |
+|Konzept |
+|Realisierung |
+|Einführung |
+|Total |
+|==================
+
+*Vorleistung (IST)
+
+*Sachmittel*
+
+Räume, IT-Infrastruktur, Spezifische Software, etc.
+
+[[wirtschaftlichkeit]]
+= Wirtschaftlichkeit
+
+Gemäss den Vorgaben der Stammorganisation: in der Regel Kosten und Aufwand für Projekt und Betrieb, Nutzen (quantifizierbar, nicht quantifizierbar)
+
+[[planung]]
+= Planung
+
+Meilensteine und Termine
+
+[cols=",",options="header",]
+|===============================
+|Meilensteine |Geplant
+|_Projektfreigabe_ |_12.12.2015_
+| |
+|===============================
+
+[[organisation]]
+= Organisation
+
+[cols=",,,",options="header",]
+|========================================================================================
+|Rolle in der Projektorganisation |Name |Kürzel |Funktion/Vertretene Organisationseinheit
+|_Auftraggeber_ |_Kurt Müller_ |_muk_ |_Leiter Direktion xyz_
+|_Projektausschuss_ | | |
+|_Projektleiter_ | | |
+|_ISDS-Verantwortlicher_ | | |
+|_Fachspezialist Anwendervertreter_ | | |
+|_Fachspezialist Geschäftsprozess­verantwortlicher_ | | |
+| | | |
+|========================================================================================
+
+[[risiken]]
+= Risiken
+
+[cols=",,,,,,,",options="header",]
+|=============================================================================================
+|Nr. |Risikobeschreibung |EW |AG |RZ |Massnahmen |Verantw. |Termin
+|_R1_ |_IT-System nicht genügend performant_ |_2_ |_3_ |_6_ |_Performance-Tests_ |PL |01.01.01
+| | | | | | | |
+|=============================================================================================
+
+Legende: EW=Eintretenswahrscheinlichkeit: 1 Niedrig / 2 Mittel / 3 Hoch; AG=Auswirkungsgrad: 1 Gering / 2 Mittel / 3 Gross, RZ=Risikozahl
+
+[[konsequenzen]]
+= Konsequenzen
+
+*Bei Projektfreigabe*
+
+Text
+
+*Wenn Projekt nicht oder zu einem späteren Zeitpunkt frei gegeben wird*
+
+Text

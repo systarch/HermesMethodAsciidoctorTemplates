@@ -1,0 +1,106 @@
+Deployment Concept
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Purpose 2
+
+2 Effect on Organization 2
+
+3 Deployment Procedure 2
+
+4 Deployment Measures 2
+
+5 Deployment Organization 2
+
+6 Deployment Planning 2
+
+7 Emergency Measures and Emergency Organization 2
+
+8 Planning of preliminary and final acceptance 2
+
+9 Acceptance Criteria 3
+
+[[purpose]]
+=  +
+Purpose
+
+Description of purpose of deployment concept, reference to study, and solution that has been chosen
+
+[[effect-on-organization]]
+= Effect on Organization
+
+Analysis of effect on stakeholders (effect analysis)
+
+[[deployment-procedure]]
+= Deployment Procedure
+
+Description of how to proceed
+
+* Deployment strategy, e.g. by due date or in increments (by area, functional structure, user groups, etc.)
+* Description of transition phase and transitional regulations
+
+[[deployment-measures]]
+= Deployment Measures
+
+*Organizational Transition / Organizational Change Management*
+
+Measures to make the transfer from old to new organizational state
+
+Support measures in the reorganization phase
+
+Information concept (reference to communication plan within project management plan)
+
+Training concept with training goals, training content, script, trainer, training materials, training infrastructure, etc.
+
+Transitional regulations for the interval between the old and the new state
+
+[[deployment-organization]]
+= Deployment Organization
+
+Support roles for launch (e.g. deployment coordinators, superusers, etc.)
+
+[[deployment-planning]]
+= Deployment Planning
+
+Initial planning with milestones
+
+Detailed planning
+
+Reference to work order
+
+[[emergency-measures-and-emergency-organization]]
+= Emergency Measures and Emergency Organization
+
+Measures and organization in the case of a crisis in the Deployment phase
+
+[[planning-of-preliminary-and-final-acceptance]]
+= Planning of preliminary and final acceptance
+
+Procedure, acceptance organization, (roles, responsibilities)
+
+[[acceptance-criteria]]
+= Acceptance Criteria
+
+Reference to requirements
+
+Reference to test case descriptions in test concept

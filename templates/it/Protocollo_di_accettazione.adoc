@@ -1,0 +1,145 @@
+Protocollo di accettazione
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|====================================
+|Datanull |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|====================================
+
+Lista delle modifiche
+
+1 Oggetto in accettazione 1
+
+2 Partecipanti all‘accettazione 2
+
+3 Basi 2
+
+4 Procedura di accettazione 2
+
+5 Criteri di accettazione 2
+
+5.1 Classi di difetti 2
+
+5.2 Definizione dell‘accettazione 2
+
+6 Risultati della fornitura e difetti 3
+
+7 Risultato dell‘accettazione 4
+
+8 Firma 4
+
+[[oggetto-in-accettazione]]
+= Oggetto in accettazione
+
+[cols=",",options="header",]
+|===============================================================
+|Oggetto in accettazione |Descrizione
+|_Prodotto software xy_ |_Applicazione iniziata nel settore xyz_
+| |
+|===============================================================
+
+[[partecipanti-allaccettazione]]
+= Partecipanti all‘accettazione
+
+[cols=",",options="header",]
+|=======================
+|Ruolo |Nome
+|Committente / cliente |
+|Project manager |
+|Fornitore |
+|=======================
+
+[[basi]]
+= Basi
+
+[cols=",",options="header",]
+|==============================================
+|Descrizione |Versione nr. / descrizione / data
+|_Offerta_ |_30.12.2015_
+| |
+|==============================================
+
+[[procedura-di-accettazione]]
+= Procedura di accettazione
+
+Testo
+
+[[criteri-di-accettazione]]
+= Criteri di accettazione
+
+[[classi-di-difetti]]
+== Classi di difetti
+
+_I difetti accertati sono classificati in classi di difetti da 0 a 4_
+
+[cols=",,",options="header",]
+|===================================
+|Nr. |Classe di difetti |Descrizione
+|_0_ |_Senza errori_ |
+|_1_ |_Difetto irrilevante_ |
+|_2_ |_Difetto di lieve entità_ |
+|_3_ |_Difetto di grave entità_ |
+|_4_ |_Difetto critico_ |
+|===================================
+
+[[definizione-dellaccettazione]]
+== Definizione dell‘accettazione
+
+_Il sistema può essere accettato con riserva qualora la classe dei difetti fosse compresa tra 0 e 3. Per eliminare i difetti bisogna tuttavia definire le misure. Una verifica è obbligatoria._
+
+_Qualora fossero accertati difetti appartenenti alla categoria 4, il mandatario deve prendere immediatamente le misure necessarie per eliminare tali difetti. Il mandatario deve inoltre predisporre il rinnovamento dell‘accettazione._
+
+[[section]]
+=
+
+[[risultati-della-fornitura-e-difetti]]
+= Risultati della fornitura e difetti
+
+[cols=",,,,,,",options="header",]
+|========================================================================================================================================
+|Nr. ref. |Risultato della fornitura – descrizione - funzione |Classe di difetti |Descrizione dei difetti |Misure |Responsabile |Scadenza
+|_01_ a|
+_Amministrazione dei clienti_
+
+_Rilevazione di nuovi clienti_
+
+ |_3_ |_L’indirizzo non è salvato correttamente_ |_Correzione dell‘errore_ |_Müller_ |_15.06.2016_
+| | | | | | |
+| | | | | | |
+|========================================================================================================================================
+
+[[risultato-dellaccettazione]]
+= Risultato dell‘accettazione
+
+nullnullL’oggetto in accettazione è stato controllato e non è stato indicato nessun errore. L’accettazione avviene senza riserve.
+
+nullnullL’oggetto in accettazione è stato controllato e accettato con riserve. I difetti sono da eliminare entro il termine prestabilito e la soluzione va accettato a seguito di un’ulteriore verifica.
+
+null nullL’oggetto in accettazione è stato controllato. L’accettazione è stata rifiutata.
+
+[[firma]]
+= Firma
+
+[cols=",,,",options="header",]
+|======================================================================
+|Cognome e nome |Funzione |Luogo e data |Firma
+|……………………………………… |………………………………………. |………………………………………. |………………………………………….
+|……………………………………… |………………………………………. |………………………………………. |………………………………………….
+|……………………………………… |………………………………………. |………………………………………. |………………………………………….
+|======================================================================

@@ -1,0 +1,70 @@
+
+# Hermes 5 Asciidoc Templates
+
+[quote, From Wikipedia, the free encyclopedia]
+____________________________________________________________________
+
+HERMES 5 is a project management method for IT, services, products
+and business organisations and was developed by the federal administration
+of Switzerland.
+
+This method is an open standard available to all.
+Many cantons, cities, educational institutions and private sector
+companies have successfully introduced HERMES 5.
+
+HERMES 5 is an open eGovernment Switzerland Programme Office (eGov) standard,
+no. 0054 and is the standard in the Federal Administration for
+project management.
+____________________________________________________________________
+
+
+## About this repository
+
+This repository holds all current Hermes Word templates converted to AsciiDoc format.
+
+++++
+You can find them in  the directory <a href="./templates/"><tt>./templates/</tt></a><br/>
+++++
+
+
+## Prerequisites for converting the documents yourself
+
+* `ruby`
+* `rake`
+* `pandoc`
+
+## Installation
+
+  $ ruby --version
+  ruby 2.1.8p440
+  $ gem install rake
+  $ brew install pandoc
+
+## Converting .docx to asciidoc templates
+
+  . Go to the bottom of the page at
+    http://www.hermes.admin.ch/anwenderloesung/szenarien-overview.xhtml[scenarios: applying]
+    to the section `All modules`
+  . Click `Download scenario`
+  . Select the preferred languages and submit.
+  . Move the downloaded file to the root of this repository and unzip it.
+  .. _Unzip will create the directory ./Hermes/... where the converter finds the original Word-templates._
+  . Run the converter
+
+      $ rake docx
+
+  . Check results
+
+      $ find templates
+
+## Links
+
+* http://www.hermes.admin.ch/[The HERMES portal] - HERMES is a project management method for IT,
+                                                   services, products and business organisations.
+* http://pandoc.org[Pandoc] - a universal document converter
+* http://asciidoctor.org/[Asciidoctor] - A fast text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook & more.
+
+## Copyright & License
+
+HERMES is an open standard of the Swiss Federal Administration. The Swiss Confederation, represented by the Federal IT Strategy Unit (FITSU), is the owner of the intellectual property rights. Private use is governed by Article 19 of the Federal Law on Copyright and Related Rights (Swiss Copyright Act, CopA). This edition may contain errors or inconsistencies. Liability claims or breach of warranty claims against the Swiss Confederation are excluded, subject to mandatory statutory provisions of applicable law. Errors, problems, or suggestions for changes may be brought to the attention of the publishers via HERMES Online, www.hermes.admin.ch.
+

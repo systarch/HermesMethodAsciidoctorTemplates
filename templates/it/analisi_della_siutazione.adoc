@@ -1,0 +1,132 @@
+Analisi della situazione
+
+[cols=",",options="header",]
+|=========================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, ad uso interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|=========================================================================
+
+Elenco delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Descrizione del sistema attuale 2
+
+1.1 Documentazione 2
+
+1.2 Descrizione del sistema 2
+
+1.2.1 Descrizione dell’ambiente e dell’architettura del sistema 2
+
+1.2.2 Sistema: S01 nome del sistema 2
+
+1.3 Descrizione dell’organizzazione operativa 3
+
+2 Analisi dei punti forti e dei punti deboli 3
+
+[[descrizione-del-sistema-attuale]]
+=  +
+Descrizione del sistema attuale
+
+Spiegazioni scritte concernenti il sistema attuale
+
+[[documentazione]]
+== Documentazione
+
+Documentazione sul sistema e sull’organizzazione
+
+[cols=",",options="header",]
+|===========================================================================================================
+|Nome del documento |Descrizione
+|_Manuale d’uso-V7_ |_Descrizione dell’applicazione IT che comprenda casi di applicazione ed esempi pratici_
+| |
+|===========================================================================================================
+
+*Condizioni quadro e direttive*
+
+[cols=",",options="header",]
+|=======================================================================================
+|Nome del documento |Descrizione
+|_Direttiva di sicurezza_ |_Descrizione delle direttive riguardo al salvataggio e alla +
+protezione dei dati_
+| |
+|=======================================================================================
+
+[[descrizione-del-sistema]]
+== Descrizione del sistema
+
+[[descrizione-dellambiente-e-dellarchitettura-del-sistema]]
+=== Descrizione dell’ambiente e dell’architettura del sistema
+
+Testo e figure generali
+
+[[sistema-s01-nome-del-sistema]]
+=== Sistema: S01 nome del sistema
+
+Informazioni tecniche del sistema nnn
+
+[cols=",",options="header",]
+|=======================================================================
+|Tema |Informazione dettagliata
+|Modello architettura |_Architettura a tre livelli, standard xyz_
+|Software |_Applicazione IT standard ‘xyz’_
+|Luogo |_Berna_
+|Operatore |_Gestione interna_
+|Fornitore |_Ditta xyz_
+|Sviluppatore |_Ditta aaa_
+|Utenti |_132_
+|Dimensione della banca dati |_6,5 GB_
+a|
+Costi di esercizio
+
+anno nn
+
+ |_32 000_
+|Altri costi di +
+esercizio |_Carta: 25 000 all’anno_
+|Costi di sviluppo Totale |_370 000_
+|Costi di supporto anno nn |_55 000_
+|Costi d’investimento, dall’avvio dell’esercizio fino ad oggi |_490 000_
+|=======================================================================
+
+[[descrizione-dellorganizzazione-operativa]]
+== Descrizione dell’organizzazione operativa
+
+Organigramma, descrizione delle funzioni, mappa dei processi, descrizione dei processi +
+attuali, struttura quantitativa dei casi aziendali, collaboratori, clienti, ecc.
+
+[[analisi-dei-punti-forti-e-dei-punti-deboli]]
+= Analisi dei punti forti e dei punti deboli
+
+*Punti forti*
+
+[cols=",,",options="header",]
+|==================================================
+|N. |Descrizione |Causa
+|01 |_Versamenti praticamente senza +
+errori_ |_Qualificazione elevata dei collaboratori_
+|==================================================
+
+*Punti deboli*
+
+[cols=",,,",options="header",]
+|===========================================================================
+|N. |Descrizione |Causa |Possibilità di +
+soluzione
+|_01_ |_Esecuzione inefficiente del processo aziendale abc_ |_Funzionalità +
+mancante +
+nell’applicazione IT_ |_Elevata_
+| | | |
+|===========================================================================

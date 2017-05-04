@@ -1,0 +1,363 @@
+Projektmanagementplan
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Projektbeschreibung 3
+
+2 Szenario mit Phasen und Meilensteinen 3
+
+3 Organisation 3
+
+4 Projektergebnisstrukturplan 3
+
+5 Szenario mit Projektstrukturplan 4
+
+5.1 Phasen, Module, Aufgaben, Ergebnisse, Rollen 4
+
+5.2 Abhängigkeiten 4
+
+6 Prüfplan 4
+
+7 Terminplan 5
+
+8 Kostenplan 5
+
+9 Ressourcenplan 5
+
+10 Beschaffungsplan 5
+
+11 Kommunikationsplan 5
+
+12 Reporting 6
+
+13 Vorgaben, Methoden und Werkzeuge 6
+
+14 Anhang 7
+
+14.1 Qualitätssicherung 7
+
+14.2 Risikomanagement 7
+
+14.3 Dokumentenmanagement 9
+
+14.3.1 Dokumentenablage 9
+
+14.3.2 Namenskonventionen 9
+
+14.3.3 Versionen von Dokumenten 9
+
+14.4 Änderungsmanagement 10
+
+[[projektbeschreibung]]
+=  +
+Projektbeschreibung
+
+Kurze Beschreibung des Projektinhalts
+
+[[szenario-mit-phasen-und-meilensteinen]]
+= Szenario mit Phasen und Meilensteinen
+
+Abbildung Phasen und Meilensteine (Muster in der Vorlage Projektpräsentation)
+
+[[organisation]]
+= Organisation
+
+[cols=",,,",options="header",]
+|========================================================================================
+|Rolle in der Projektorganisation |Name |Kürzel |Funktion/Vertretene Organisationseinheit
+|_Auftraggeber_ |_Kurt Müller_ |_muk_ |_Leiter Direktion xyz_
+|_Projektausschuss_ | | |
+|_Projektleiter_ | | |
+|_ISDS-Verantwortlicher_ | | |
+|_Fachspezialist Anwendervertreter_ | | |
+|_Fachspezialist Geschäftsprozess­verantwortlicher_ | | |
+| | | |
+|========================================================================================
+
+[cols=",,,",options="header",]
+|==================================================================
+|Rolle in der Stammorganisation |Name |Kürzel |Organisationseinheit
+|Leitung: | | |
+a|
+Controlling- und Vorgabestellen:
+
+_Interne Revision_
+
+ |_P. Hauser_ | |_ABC_
+|Kompetenzzentrum für Projektmanagement: | | |
+|==================================================================
+
+Eskalationen finden im Rahmen der Projektorganisation statt.
+
+_Kann ein Problem nicht auf einer Stufe innerhalb von 5 Tagen gelöst werden, wird es an die nächste Stufe eskaliert._
+
+[[projektergebnisstrukturplan]]
+= Projektergebnisstrukturplan
+
+Mindmap, hierarchische Darstellung
+
+Der Projektergebnisstrukturplan ist die hierarchisch gegliederte Darstellung des Projektinhalts (Produkt-Breakdown-Structure PBS).
+
+[[szenario-mit-projektstrukturplan]]
+= Szenario mit Projektstrukturplan
+
+[[phasen-module-aufgaben-ergebnisse-rollen]]
+== Phasen, Module, Aufgaben, Ergebnisse, Rollen
+
+Projektstrukturplan aus HERMES online, bzw. Hinweis auf separates Dokument
+
+[[abhängigkeiten]]
+== Abhängigkeiten
+
+[cols=",",options="header",]
+|===============================================
+|Projekt / Vorhaben |Abhängigkeit
+|Projekt relevante Themen |
+|Projekt relevantes Ergebnis/Entscheidung/Fakt |
+|Termin |
+|Auswirkungen auf Projekt |
+|Ansprechperson |_Projektleiter_
+|===============================================
+
+[[prüfplan]]
+= Prüfplan
+
+Ergebnisse aus Projektstrukturplan übernehmen
+
+[cols=",,,,,",options="header",]
+|====================================================================================
+a|
+Phase /
+
+Ergebnis
+
+ |Prüfmethode |Verantwortlich |Prüfer |Termin |Status
+|*Konzept* | | | | |
+|_Phasenbericht_ |_Review_ |_Auftraggeber_ |_Sutter, Huber_ |_15.5.2015_ |_genehmigt_
+|====================================================================================
+
+Prüfmethoden gemäss Kapitel QS-Plan
+
+[[terminplan]]
+= Terminplan
+
+Detailplanung für aktuelle bzw. nächste Projektphase
+
+Hinweis auf externes Dokument
+
+[[kostenplan]]
+= Kostenplan
+
+In der Regel in einem separaten Dokument, gemäss den Vorgaben der Stammorganisation
+
+[[ressourcenplan]]
+= Ressourcenplan
+
+*Personalressourcen*
+
+[cols=",,,,,,,",options="header",]
+|============================================================================================
+|Rolle / Person |Monat 1 |Monat 2 |Monat 3 |Monat 4 |Monat 5 |Total |Bestätigung Vorgesetzter
+|Name | | | | | | |
+|Name | | | | | | |
+|============================================================================================
+
+*Sachmittel*
+
+Räume, IT-Infrastruktur, Spezifische Software, etc.
+
+[[beschaffungsplan]]
+= Beschaffungsplan
+
+[cols=",,,,",options="header",]
+|========================================================================================================
+|Bedarf / Bezeichnung |Menge |Wert CHF |Zeitpunkt |Beschaffungsart
+|_Business-Analyst_ |_20 AT_ |_20’000_ |_20.1.-30.3.2014_ |_Freihändiges Verfahren mit mehreren Offerten_
+|_Entwickler_ |_300 AT_ |_280‘000_ |_01.04.2014-30.06.2015_ |_Offenes Verfahren, WTO_
+|_DB-Analyse_ |_100 Std_ |_18‘000_ |_20.01.-30.03.2014_ |_Abruf auf Rahmenvertrag_
+|_Tools & Services_ |_400 Std_ |_48‘000_ |_01.07.2014-30.06.2015_ |_Einladungsverfahren_
+|========================================================================================================
+
+[[kommunikationsplan]]
+= Kommunikationsplan
+
+[cols=",,,,,",options="header",]
+|=============================================================================================================================================================================
+|Adressat der Information |Verantwortlich für die Kommunikation |Inhalt |Ziel |Mittel / Medium |Termin
+|_Alle Mitarbeitenden_ |_Auftraggeber_ |_Einführung der neuen Lösung_ |_Alle Mitarbeitenden kennen Vorgehen, Termine und Supportorganisation_ |_Flyer (per mail)_ |_12.3.2015_
+| | | | | |
+|=============================================================================================================================================================================
+
+[[reporting]]
+= Reporting
+
+[cols=",,,,",options="header",]
+|====================================================================================================
+|Ergebnis |Periodizität |Verantwortlich |Empfänger |Termin
+|_Projektstatusbericht_ |_Monatlich_ |_Projektleiter_ |_Auftraggeber_ |_Erster Arbeitstag des Monats_
+|_Phasenbericht_ |_Ende der Phase Konzept_ |_Projektleiter_ |_Auftraggeber_ |_Siehe Planung_
+| | | | |
+|====================================================================================================
+
+[[vorgaben-methoden-und-werkzeuge]]
+= Vorgaben, Methoden und Werkzeuge
+
+[cols=",,",options="header",]
+|============================================
+|Titel |Vorgabe / Methode / Werkzeug |Version
+|_Projektmanagement_ |_HERMES_ |_HERMES 5_
+|_Beschaffung_ |_BöB, VöB_ |
+|_Software für xyz_ |_Tool aaa_ |_10.2_
+|============================================
+
+[[anhang]]
+= Anhang
+
+[[qualitätssicherung]]
+== Qualitätssicherung
+
+Das Testen wird im Testkonzept festgelegt.
+
+Die Prüfungen werden im Kapitel Prüfplan des Projektmanagementplans festgelegt.
+
+Die folgenden Prüfmethoden werden im Projekt eingesetzt.
+
+[cols=",",options="header",]
+|======================================================================================================================================================================================================================================================================================================
+|Prüfmethode |Beschreibung
+a|
+_Schriftlicher Review_
+
+_(SR)_
+
+ |_Das Ergebnis wird den Prüfern per Email zugestellt. Diese prüfen das Ergebnis unabhängig voneinander und erstellen einen Prüfbericht mit den Befunden. Die Befunde werden vom Autor korrigiert oder mit einer schriftlichen Begründung zurückgewiesen, welche dem Prüfer per Email zugestellt wird._
+a|
+_Mündlicher Review_
+
+_(MR)_
+
+ a|
+_In einem Review-Meeting werden die schriftlichen Befunde besprochen. Dabei werden die nötigen Anpassungen / Massnahmen beschlossen, Verantwortlichen zugewiesen und terminiert._
+
+_Ein schriftlicher Review (SR) ist immer Basis für einen mündlichen Review (MR)._
+
+_Als Resultat eines MR entsteht ein Reviewprotokoll, das von MR-Teilnehmern unterschrieben werden muss._
+
+a|
+_Walk-Trough_
+
+_(WT)_
+
+ |_Ein Walk-Through ist eine weniger formale Prüfung als ein Review. Indem durch die zu einem bestimmten Zeitpunkt vorliegenden Resultate gegangen wird, versucht sich der Prüfende ein Bild über den aktuellen Stand der Arbeiten zu verschaffen._
+|======================================================================================================================================================================================================================================================================================================
+
+_Werden Resultate durch eine Vernehmlassung von Fachvertretern abgenommen, wird diese Prüfung mittels eines schriftlichen Reviews durchgeführt._
+
+[[risikomanagement]]
+== Risikomanagement
+
+Die Projektrisiken werden im Statusreport geführt.
+
+Um Risiken beurteilen zu können, muss jedes Risiko in Bezug auf seine Eintretenswahr-scheinlichkeit und der Auswirkungsgrad beurteilt werden. Hier werden die Variablen dazu festgelegt.
+
+*Bewertungsskale Eintretenswahrscheinlichkeit*
+
+[cols=",",options="header",]
+|========================================================
+|Bewertung |Beschreibung der Eintretenswahrscheinlichkeit
+|1 = niedrig |_unwahrscheinlich, bzw. unter 20%_
+|2 = mittel |_mässig wahrscheinlich, bzw. 20-50%_
+|3 = hoch |_hoch wahrscheinlich, bzw. über 50%_
+|========================================================
+
+*Bewertungsskala Auswirkungsgrad*
+
+[cols=",,,",options="header",]
+|===========================================================================================
+|Bewertung |Auswirkung auf Projektergebnis |Auswirkung auf Termin |Auswirkung auf Kosten
+|1 = niedrig |_Geringfügige Mängel_ |_bis 1 Monat, bzw. geringfügig_ |_keine_
+|2 = mittel |_Wesentliche Mängel_ |_1-3 Monate bzw. wesentlich_ |_5-20% bzw. wesentlich_
+|3 = hoch |_Gravierende Mängel_ |_über 3 Monate bzw. gravierend_ |_über 20% bzw. gravierend_
+|===========================================================================================
+
+Aus diesen Werten ergeben sich anschliessend die Koordinaten um das Risiko in der Matrix abzubilden. Mit dem Pfeil (Bsp. Risiko 2) kann die Veränderung zur letzten Beurteilung aufgezeigt werden.
+
+*Risikomatrix*
+
+Die identifizierten und bewerteten Projektrisiken werden analog der nachfolgenden Tabelle im Projektstatusbericht geführt. Für jedes Risiko werden die Massnahmen geplant.
+
+[cols=",,,,,,,",options="header",]
+|=======================================================
+|Nr |A |EW |RZ |Beschreibung |Massnahme |Verantw |Termin
+|1 |3 |3 |9 | | | |
+|2 |2 |2 |4 | | | |
+|=======================================================
+
+[[dokumentenmanagement]]
+== Dokumentenmanagement
+
+[[dokumentenablage]]
+=== Dokumentenablage
+
+Tools, Ablageort, Zugriffsverwaltung
+
+[[namenskonventionen]]
+=== Namenskonventionen
+
+Damit projektbezogene Dokumente eindeutig und einfach identifiziert werden können, werden die folgenden Namenskonventionen für Dateinamen angewendet:
+
+_Projektname-Dokumentbezeichnung.Dateityp_
+
+Beispiel:
+
+_HMH-Projektauftrag.doc_
+
+[[versionen-von-dokumenten]]
+=== Versionen von Dokumenten
+
+Änderungen an Dokumenten sollen im Änderungsverzeichnis des Dokuments aufgeführt werden.
+
+Verwendung von Versionsnummern
+
+Versionsnummern V0.1, V0.2, V0.3….V0.9 bezeichnen Versionen von Dokumenten in Arbeit.
+
+Versionsnummer V1.0 ist die erste abgenommene Version des Dokuments.
+
+Versionsnummer V1.1 ist die erste geänderte Version nach der Abnahme.
+
+Versionsnummer V2.0 ist die zweite abgenommene Version des Dokuments.
+
+*Dokumente mit Zeitbezug*
+
+Dokumente mit einem klaren Zeitbezug enthalten das Datum im Dateinamen.
+
+Beispiel eines Sitzungsprotokolls:
+
+_HMH-Protokoll-Kernteammeeting-2011-12-05.doc_
+
+Bei Verwendung des Datums im Dateinamen wird immer das Format JJJJ-MM-TT verwen-det, damit Dokumente in Verzeichnissen sortiert angezeigt werden.
+
+[[änderungsmanagement]]
+== Änderungsmanagement
+
+_Mit Microsoft PowerPoint anpassbar (rechte Maustaste – Objekt Presentation – edit)_

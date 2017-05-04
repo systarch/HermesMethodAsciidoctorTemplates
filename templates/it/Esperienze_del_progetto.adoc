@@ -1,0 +1,40 @@
+Esperienze del progetto
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Esperienze del progetto 1
+
+[[esperienze-del-progetto]]
+= Esperienze del progetto
+
+[cols=",,,,,",options="header",]
+|================================================================================================================================================
+|Data |Interlocutore |Settore |Esperienza |Rilevanza |Suggerimenti
+|_12.3.2015_ |_K. Müller_ |_Acquisti_ |_La consulenza con il servizio acquisti, durante la pianificazione degli acquisti, è stata molto utile_ a|
+_Altri progetti;_
+
+_Project Management Office (PMO)_
+
+ |_Da registrare nella lista di controllo xyz_
+| | | | | |
+|================================================================================================================================================

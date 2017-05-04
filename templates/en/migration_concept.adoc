@@ -1,0 +1,127 @@
+Migration Concept
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Purpose 2
+
+2 Migration Requirements 2
+
+3 Migration Objects 2
+
+4 Data analysis 2
+
+5 Migration Procedure 2
+
+5.1 Overview 2
+
+5.2 Concept (for each procedure) 2
+
+6 Migration Plan 2
+
+7 Feasibility 3
+
+7.1 Risks 3
+
+7.2 Fallback Scenario 3
+
+8 Archiving and Decommissioning of Legacy System 3
+
+[[purpose]]
+=  +
+Purpose
+
+Initial situation for data migration
+
+[[migration-requirements]]
+= Migration Requirements
+
+Information on system requirements
+
+[cols=",,,",options="header",]
+|=================================
+| |Requirement
+|Ref. |ID |Description |Weighting*
+|1 | | |
+|2 | | |
+|=================================
+
+*Weighting: M=must haves, C=can haves with prioritization 1-3, in which 1=high priority
+
+[[migration-objects]]
+= Migration Objects
+
+Description of migration objects
+
+[[data-analysis]]
+= Data analysis
+
+Analysis of data to be migrated
+
+Volumes, frequencies
+
+Quality of data
+
+[[migration-procedure]]
+= Migration Procedure
+
+[[overview]]
+== Overview
+
+[cols=",,,",options="header",]
+|===============================================================
+|Migration Object |Requirements |Migration Procedure |Evaluation
+| | | |
+| | | |
+|===============================================================
+
+[[concept-for-each-procedure]]
+== Concept (for each procedure)
+
+Conceptional description of procedures, infrastructure required, etc.
+
+[[migration-plan]]
+= Migration Plan
+
+Procedure for the migration, schedule, interdependencies, and quality tests
+
+[[feasibility]]
+= Feasibility
+
+[[risks]]
+== Risks
+
+Assessment of feasibility and migration risks
+
+[[fallback-scenario]]
+== Fallback Scenario
+
+Fallback option in the case of migration problems
+
+[[archiving-and-decommissioning-of-legacy-system]]
+= Archiving and Decommissioning of Legacy System
+
+Archiving concept
+
+Planning of decommissioning process
+
+Disposal

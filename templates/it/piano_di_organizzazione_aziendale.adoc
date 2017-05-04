@@ -1,0 +1,147 @@
+Piano di organizzazione aziendale
+
+[cols=",",options="header",]
+|=========================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, ad uso interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|=========================================================================
+
+Elenco delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Requisiti organizzativi 2
+
+2 Organizzazione strutturale 2
+
+2.1 Principi e varianti organizzative 2
+
+2.2 Descrizione dell’organizzazione 2
+
+3 Organizzazione procedurale (processi) 2
+
+3.1 Mappa dei processi 2
+
+3.2 Descrizione dei processi 3
+
+4 Panoramica delle modifiche 3
+
+5 Copertura dei requisiti 3
+
+[[requisiti-organizzativi]]
+=  +
+Requisiti organizzativi
+
+Per requisito:
+
+[cols=",",options="header",]
+|===========================================================================================================================================================================
+|Requisito di massima: _n_ |Requisito: _n.nn_ |Fonte: |Autore:
+|Nome |_Conferma del corso_
+|Descrizione a|
+_Conferme del corso per e-mail:_
+
+_le conferme del corso devono essere spedite in giornata. Le iscrizioni che pervengono entro le ore 12.00 vengono +
+confermate entro le ore 17.00 dello stesso giorno. Le iscrizioni che pervengono dopo le ore 12.00 vengono confermate al più tardi entro le ore 12.00 del giorno successivo._
+
+_Conferme del corso per posta:_
+
+_le conferme del corso devono essere spedite in giornata. Le iscrizioni che pervengono entro le ore 17.00 vengono +
+confermate lo stesso giorno._
+
+_La conferma viene inviata dal responsabile dei processi +
+operativi._
+
+|Criteri di accettazione |_Conferme dei corsi per posta: devono essere consegnate all’ufficio postale lo stesso giorno prima della chiusura degli sportelli._
+|Importanza (5-1): |Urgenza (5−1): |Dipendenza da:
+|Rischio / criticità (5-1): |Entità della spesa (5−1): |Versione |Stato
+|===========================================================================================================================================================================
+
+[[organizzazione-strutturale]]
+= Organizzazione strutturale
+
+[[principi-e-varianti-organizzative]]
+== Principi e varianti organizzative
+
+Principi organizzativi (ad es. struttura organizzativa centralizzata / decentralizzata)
+
+Varianti organizzative, valutazione
+
+[[descrizione-dellorganizzazione]]
+== Descrizione dell’organizzazione
+
+Descrizione della variante organizzativa scelta
+
+Organigramma
+
+Panoramica delle funzioni (descrizione sommaria)
+
+[[organizzazione-procedurale-processi]]
+= Organizzazione procedurale (processi)
+
+[[mappa-dei-processi]]
+== Mappa dei processi
+
+*Panoramica*
+
+Mappa dei processi dell’organizzazione
+
+Descrizione dello stato attuale e dello stato auspicato
+
+*Processi da supportare*
+
+[cols=",,",options="header",]
+|====================================
+a|
+Riferimento
+
+(n. processo)
+
+ |Tipo di +
+processo* |Denominazione del processo
+| | |
+| | |
+|====================================
+
+*Tipo di processo: centrale, di gestione, di supporto
+
+[[descrizione-dei-processi]]
+== Descrizione dei processi
+
+Descrizione sommaria dei processi (stato attuale)
+
+[[panoramica-delle-modifiche]]
+= Panoramica delle modifiche
+
+Riassunto degli adattamenti necessari dell’organizzazione strutturale e procedurale
+
+Valutazione delle modifiche inerenti alle funzioni e ai servizi
+
+[[copertura-dei-requisiti]]
+= Copertura dei requisiti
+
+[cols=",,,",options="header",]
+|===========================================================
+|ID |Requisito |Assegnazione a un +
+sottosistema / componente |Valutazione della copertura dei +
+requisiti
+|_nn_ | | |
+|_nn_ | | |
+| | | |
+| | | |
+|===========================================================
+
+[[section]]
+=

@@ -1,0 +1,162 @@
+Test Concept
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Test Objectives 2
+
+2 Test Objects 2
+
+3 Test Types 2
+
+4 Test Coverage 2
+
+5 Test Framework 2
+
+5.1 Test Conditions 2
+
+5.2 Defect Classes 2
+
+5.3 Start 3
+
+6 Test Infrastructure 3
+
+6.1 Test System 3
+
+6.2 Test Data 3
+
+6.3 Test Resources 3
+
+7 Test Case Descriptions 3
+
+8 Test Plan 3
+
+[[test-objectives]]
+=  +
+Test Objectives
+
+[[test-objects]]
+= Test Objects
+
+[cols=",,",options="header",]
+|========================
+|No. |Object |Description
+|1 | |
+|2 | |
+|========================
+
+[[test-types]]
+= Test Types
+
+[cols=",,",options="header",]
+|===========================
+|No. |Test Type |Description
+|1 | |
+|2 | |
+|===========================
+
+[[test-coverage]]
+= Test Coverage
+
+*Overview of Test Cases*
+
+[cols=",,",options="header",]
+|============================
+|No. |Test Object |Test Cases
+|1 | |
+|2 | |
+|============================
+
+*Evaluation of Test Objectives and Test Coverage*
+
+[[test-framework]]
+= Test Framework
+
+[[test-conditions]]
+== Test Conditions
+
+Tester, previous knowledge
+
+[[defect-classes]]
+== Defect Classes
+
+_Defects identified are assigned to defect classes 0-4_
+
+[cols=",,",options="header",]
+|================================
+|No. |Defect Classes |Description
+|_0_ |_No defect_ |
+|_1_ |_Negligible defect_ |
+|_2_ |_Minor defect_ |
+|_3_ |_Major defect_ |
+|_4_ |_Critical defect_ |
+|================================
+
+[[start]]
+== Start
+
+Prerequisites for start of test
+
+[[test-infrastructure]]
+= Test Infrastructure
+
+[[test-system]]
+== Test System
+
+[[test-data]]
+== Test Data
+
+[[test-resources]]
+== Test Resources
+
+Software for test management
+
+List of reports
+
+[[test-case-descriptions]]
+= Test Case Descriptions
+
+[cols=",",options="header",]
+|=========================
+|ID / Description |T-001 |
+|Description |
+|Test Condition |
+|Test Steps |
+|Expected Result |
+|=========================
+
+[[test-plan]]
+= Test Plan
+
+[cols=",,,,",options="header",]
+|=========================================================
+|No. |Activity |Responsible Person |Participants |Deadline
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+|=========================================================

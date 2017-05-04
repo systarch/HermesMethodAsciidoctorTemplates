@@ -1,0 +1,41 @@
+Lessons Learned
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Lessons Learned 2
+
+[[lessons-learned]]
+=  +
+Lessons Learned
+
+[cols=",,,,,",options="header",]
+|===============================================================================================================================
+|Date |Contact Person |Area |Lesson |Relevance |Recom-mendations
+|_12.3.2015_ |_K. Müller_ |_Procure-ment_ |_The advice received from procurement was very useful in planning our procurement_ a|
+_Other projects;_
+
+_PM competence center_
+
+ |_Add to checklist xyz_
+| | | | | |
+|===============================================================================================================================

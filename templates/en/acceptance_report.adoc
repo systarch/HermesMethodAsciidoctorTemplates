@@ -1,0 +1,146 @@
+Acceptance Report
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, accepted
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|=============================
+|Date |Version |Change |Author
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|=============================
+
+List of contents
+
+1 Object 2
+
+2 Parties 2
+
+3 Framework 2
+
+4 Acceptance Procedure 2
+
+5 Acceptance Criteria 2
+
+5.1 Defect Types 2
+
+5.2 Definition of Acceptance 2
+
+6 Deliverables and Defects 4
+
+7 Acceptance Outcome 5
+
+8 Signature 5
+
+[[object]]
+=  +
+Object
+
+[cols=",",options="header",]
+|=====================================================
+|Object |Description
+|_Software product xy_ |_Application used in area xyz_
+| |
+|=====================================================
+
+[[parties]]
+= Parties
+
+[cols=",",options="header",]
+|============================
+|Role |Name
+|Project sponsor / customer |
+|Project manager |
+|Supplier |
+|============================
+
+[[framework]]
+= Framework
+
+[cols=",",options="header",]
+|======================================
+|Description |Version No. / Name / Date
+|_Offer_ |_30.12.2015_
+| |
+|======================================
+
+[[acceptance-procedure]]
+= Acceptance Procedure
+
+Text
+
+[[acceptance-criteria]]
+= Acceptance Criteria
+
+[[defect-types]]
+== Defect Types
+
+_Categorization of discovered defects: defect types 0-4_
+
+[cols=",,",options="header",]
+|=============================
+|No. |Defect Type |Description
+|_0_ |_No defect_ |
+|_1_ |_Negligible defect_ |
+|_2_ |_Minor defect_ |
+|_3_ |_Major defect_ |
+|_4_ |_Critical defect_ |
+|=============================
+
+[[definition-of-acceptance]]
+== Definition of Acceptance
+
+_If the discovered defects are type 0-3 defects, the system can be accepted with reservation. However, measures must be taken to correct the defects. Re-inspection is compulsory._
+
+_If any type 4 defects are discovered, the project sponsor must take immediate measures to correct these defects. In addition, the project sponsor must arrange for the acceptance process to be repeated._
+
+[[section]]
+=
+
+[[deliverables-and-defects]]
+= Deliverables and Defects
+
+[cols=",,,,,,",options="header",]
+|=========================================================================================================================
+|Ref. No. |Deliverable - Description - Function |Defect Type |Description of Defect |Measures |To be Handled by |Deadlines
+|_01_ a|
+_Customer Administration_
+
+_Registration of New Customers_
+
+ |_3_ |_Address is not recorded correctly_ |_Defect Correction_ |_Müller_ |_15.06.2016_
+| | | | | | |
+| | | | | | |
+|=========================================================================================================================
+
+[[acceptance-outcome]]
+= Acceptance Outcome
+
+The object was tested and no defect was found. Acceptance is given without reservation.
+
+The object was tested and accepted with reservation. The defects must be corrected within the given timeframe and the acceptance process must be repeated through re-inspection.
+
+The object was tested. Acceptance is refused.
+
+[[signature]]
+= Signature
+
+[cols=",,,",options="header",]
+|======================================================================
+|Name |Function |Place and Date |Signature
+|……………………………………… |………………………………………. |………………………………………. |………………………………………….
+|……………………………………… |………………………………………. |………………………………………. |………………………………………….
+|……………………………………… |………………………………………. |………………………………………. |………………………………………….
+|======================================================================

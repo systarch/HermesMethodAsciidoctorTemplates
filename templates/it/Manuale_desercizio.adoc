@@ -1,0 +1,99 @@
+Manuale d’esercizio
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|====================================
+|Datanull |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|====================================
+
+Indice
+
+1 Panoramica del sistema 2
+
+2 Messa in esercizio 2
+
+3 Esecuzione e controllo dell‘esercizio 2
+
+4 Interruzione o fine dell‘esercizio 2
+
+5 Organizzazione di supporto 2
+
+6 Gestione delle modifiche 2
+
+7 Norme di sicurezza 2
+
+[[panoramica-del-sistema]]
+=  +
+Panoramica del sistema
+
+Sintesi delle componenti di sistema più importanti per l’esercizio e delle sue relazioni (tecniche, organizzative)
+
+[[messa-in-esercizio]]
+= Messa in esercizio
+
+Presupposti per la messa in esercizio
+
+Svolgimento della messa in esercizio
+
+Garanzia della qualità dopo la messa in esercizio
+
+Direttive per l’accettazione del sistema
+
+[[esecuzione-e-controllo-dellesercizio]]
+= Esecuzione e controllo dell‘esercizio
+
+Controllo dell’esercizio con monitoraggio, sistema di allarme, ecc.
+
+Salvataggio dei dati
+
+Controllo per la protezione dei dati
+
+Statistiche, numeri di riferimento, grandezza di misura
+
+Procedura in caso d‘errore (inclusi gli aspetti organizzativi come la comunicazione, ecc.)
+
+Riferimento ai processi operativi
+
+[[interruzione-o-fine-dellesercizio]]
+= Interruzione o fine dell‘esercizio
+
+Interrompere il sistema operativo
+
+Svolgimento per la rimessa in servizio
+
+Garanzia della qualità in seguito alla rimessa in servizio
+
+Disinstallazione del sistema, archiviazione, consegna
+
+[[organizzazione-di-supporto]]
+= Organizzazione di supporto
+
+Processi di supporto
+
+Organizzazione con ruoli
+
+[[gestione-delle-modifiche]]
+= Gestione delle modifiche
+
+Processo di gestione delle modifiche
+
+Organizzazione di gestione delle modifiche con ruoli, informazioni di contatto
+
+[[norme-di-sicurezza]]
+= Norme di sicurezza
+
+Direttive per la protezione e la sicurezza dei dati

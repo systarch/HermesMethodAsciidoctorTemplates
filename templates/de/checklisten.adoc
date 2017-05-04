@@ -1,0 +1,884 @@
+Checklisten
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Initialisierung beauftragen und steuern
+
+[cols=",,",options="header",]
+|======================================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|Projektinitialisierungsauftrag a|
+________________________________________________________________________
+Ressourcen (personell und finanziell) für die Initialisierung vorhanden?
+________________________________________________________________________
+
+ |
+| a|
+_______________________________________________________________________________________________________
+Projektinitialisierungsauftrag mit Zielen der Initialisierung, Vorgaben und Rahmenbedingungen erstellt?
+_______________________________________________________________________________________________________
+
+ |
+| a|
+______________________________________________________________________________________
+Projektleiter und Team für die Phase Initialisierung bestimmt und Erwartungen geklärt?
+______________________________________________________________________________________
+
+ |
+| a|
+___________________________________________________________________________
+Ansprechpersonen innerhalb und ausserhalb der Stammorganisation informiert?
+___________________________________________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|======================================================================================================
+
+Entscheid zur Variantenwahl treffen
+
+[cols=",,",options="header",]
+|==================================================================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|Studie a|
+_________________________________________________________________________
+Ziele und Rahmenbedingungen mit Auftraggeber und Stakeholdern abgestimmt?
+_________________________________________________________________________
+
+ |
+| a|
+______________________________________________________________________________________________
+Bezug der Projektziele zu Strategie und Zielen der Stammorganisation gegeben und dokumentiert?
+______________________________________________________________________________________________
+
+ |
+| a|
+__________________________________________________________________________________________________
+Anforderungen umfassend und so detailliert festgelegt, dass die Varianten beurteilt werden können?
+__________________________________________________________________________________________________
+
+ |
+| a|
+_________________________________________________
+Stärken, Schwächen und deren Ursachen analysiert?
+_________________________________________________
+
+ |
+| a|
+______________________________________________________
+Alle relevanten Lösungsvarianten umfassend analysiert?
+______________________________________________________
+
+ |
+| a|
+_________________________________________
+Bewertungskriterien umfassend festgelegt?
+_________________________________________
+
+* Berücksichtigen sie die Nachhaltigkeit?
+* Berücksichtigen sie die Risiken?
+
+ |
+| a|
+___________________________________
+Varianten nachvollziehbar bewertet?
+___________________________________
+
+ |
+| a|
+____________________________________________________________________________________________________________________
+Machbarkeit der favorisierten Variante organisatorisch, finanziell, wirtschaftlich, technisch und politisch gegeben?
+____________________________________________________________________________________________________________________
+
+ |
+|Rechtsgrundlagenanalyse a|
+___________________________________________________________________________________________________________________________________
+Rechtsgrundlagenanalyse mit dem Rechtsdienst oder einer entsprechenden Stelle abgestimmt und Ergebnis in der Studie berücksichtigt?
+___________________________________________________________________________________________________________________________________
+
+ |
+| | |
+|Schutzbedarfsanalyse a|
+____________________________________________________________________________
+Schutzbedarfsanalyse durchgeführt und Ergebnis in der Studie berücksichtigt?
+____________________________________________________________________________
+
+ |
+| | |
+|*Projektspezifische Prüfpunkte*
+| | |
+|==================================================================================================================================
+
+Entscheid zur Projektfreigabe treffen
+
+[cols=",,",options="header",]
+|========================================================================================================
+|*Ergebnis* |*Kriterium* |*Bewertung*
+|Projektauftrag a|
+______________________________________________
+Projektziele vollständig und widerspruchsfrei?
+______________________________________________
+
+ |
+| a|
+______________________________________________________________________________
+Projektauftrag mit den Zielen und Strategien der Stammorganisation abgestimmt?
+______________________________________________________________________________
+
+ |
+| a|
+_____________________________________________________________________________________________
+Risiken identifiziert, analysiert und Massnahmen definiert. Risiken als vertretbar beurteilt?
+_____________________________________________________________________________________________
+
+ |
+|Liste der Stakeholder a|
+_____________________________________________________________________________________________________
+Stakeholder identifiziert, analysiert und Interessen stehen mit den Projektzielen in Übereinstimmung?
+_____________________________________________________________________________________________________
+
+ |
+|Rechtsgrundlagenanalyse a|
+________________________________________________________________
+Rechtliche Grundlagen vorhanden oder Massnahmen dazu festgelegt?
+________________________________________________________________
+
+ |
+|Schutzbedarfsanalyse a|
+______________________________________________________________________________
+Schutzbedarf analysiert und geklärt, ob ein ISDS-Konzept erstellt werden muss?
+______________________________________________________________________________
+
+ |
+|Studie a|
+____________________________________________________________________________________________________
+Die gewählte Variante beschrieben und auf der Grundlage der Ziele und groben Anforderungen bewertet?
+____________________________________________________________________________________________________
+
+ |
+| a|
+________________________________________
+Projektumfang und Abgrenzung festgelegt?
+________________________________________
+
+ |
+| a|
+_______________________________________________________________________________________
+Wirtschaftlichkeit unter Berücksichtigung der Investitions- und Betriebskosten gegeben?
+_______________________________________________________________________________________
+
+ |
+| a|
+_________________________________________
+Bewertungskriterien umfassend festgelegt?
+_________________________________________
+
+* Berücksichtigen sie die Nachhaltigkeit?
+* Berücksichtigen sie die Risiken?
+
+ |
+|Projektmanagementplan a|
+_____________________________________________________________________
+Projektorganisation definiert und berücksichtigt sie die Stakeholder?
+_____________________________________________________________________
+
+ |
+| a|
+_________________________________________________________________________________________________________
+Personelle Ressourcen bei allen Partnern mit genügend Kapazität und den benötigten Fähigkeiten vorhanden?
+_________________________________________________________________________________________________________
+
+ |
+| a|
+__________________________________________________________________________________________________
+Alle Pläne (Beschaffungen, Ergebnisse, Kommunikation, Prüfungen, Termine) vorhanden und plausibel?
+__________________________________________________________________________________________________
+
+ |
+| a|
+_______________________________________________________________________________________________________
+Methoden und Techniken für die Erarbeitung der Ergebnisse festgelegt und unter den Partnern vereinbart?
+_______________________________________________________________________________________________________
+
+ |
+| a|
+____________________________________________________________________
+Reporting im Projekt und gegenüber der Stammorganisation festgelegt?
+____________________________________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|========================================================================================================
+
+Entscheid zur Systemarchitektur treffen
+
+[cols=",,",options="header",]
+|===============================================================================================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|Systemanforderungen a|
+______________________________________________________________________________
+Anforderungen entlang von Anforderungskategorien dokumentiert und priorisiert?
+______________________________________________________________________________
+
+ |
+| a|
+________________________________________________________________________________________________________________________________________________________________
+Anforderungen vollständig und so detailliert dokumentiert, dass sie als Grundlage für die Erarbeitung der Systemarchitektur und der Detailspezifikation genügen?
+________________________________________________________________________________________________________________________________________________________________
+
+ |
+|Systemarchitektur a|
+________________________________________________________________
+Architektur des Systems mit seinen Modellen beschrieben mit z.B.
+
+Geschäftsprozessmodell,
+
+Funktionsmodell / Servicemodell,
+
+Datenarchitektur / Datenmodell?
+________________________________________________________________
+
+ |
+| a|
+__________________________________________________________________
+Architektur des Systems mit seinen Lösungskomponenten beschrieben?
+__________________________________________________________________
+
+ |
+| a|
+___________________________________
+Sicherheitsarchitektur beschrieben?
+___________________________________
+
+ |
+| a|
+___________________________________________________________________________________
+Anforderungen den Lösungskomponenten zugeordnet und Anforderungserfüllung bewertet?
+___________________________________________________________________________________
+
+ |
+| a|
+_______________________________
+Architekturvarianten beurteilt?
+_______________________________
+
+ |
+|Detailstudie a|
+____________________________________________________________________
+Detailstudien für alle zu konzipierenden Systemkomponenten erstellt?
+____________________________________________________________________
+
+ |
+| a|
+______________________________________________________________________________
+Varianten beschrieben und basierend auf den Zielen und Anforderungen bewertet?
+______________________________________________________________________________
+
+ |
+|Integrationskonzept a|
+_________________________________________________________________________
+Integrationsobjekte, Schnittstellen, Integrationsumgebungen dokumentiert?
+_________________________________________________________________________
+
+ |
+| a|
+__________________________________________________
+Integrationsvorgehen mit Massnahmen, dokumentiert?
+__________________________________________________
+
+ |
+| a|
+______________________________________________________________________
+Integrationsorganisation, Transportkonzept und –prozesse dokumentiert?
+______________________________________________________________________
+
+ |
+|Prototyp-Dokumentation a|
+_______________________________________________
+Machbarkeit der Systemarchitektur nachgewiesen?
+_______________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|===============================================================================================================================================================
+
+Entscheid zum ISDS-Konzept treffen
+
+[cols=",,",options="header",]
+|=====================================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|ISDS-Konzept a|
+__________________________________________________________________
+Risikoanalyse und Risikoabdeckung projektspezifisch ausgearbeitet?
+__________________________________________________________________
+
+ |
+| a|
+__________________________________________________________________
+Bedarf bezüglich Notfallkonzept und Bearbeitungsreglement geklärt?
+__________________________________________________________________
+
+ |
+| a|
+_________________________________________________________________________
+Restrisiken ausgewiesen und durch den Auftraggeber zur Kenntnis genommen?
+_________________________________________________________________________
+
+ |
+| a|
+______________________________________________________________________________________________________
+ISDS-Konzept durch die Controlling- und Vorgabestellen geprüft und keine kritischen Befunde vorhanden?
+______________________________________________________________________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|=====================================================================================================
+
+Entscheid zur agilen Entwicklung mit SCRUM treffen
+
+[cols=",,",options="header",]
+|==============================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+| a|
+_______________________________________________________________________________
+Auswirkungen der agilen Arbeitsweise auf den Entwicklungsprozess identifiziert?
+_______________________________________________________________________________
+
+ |
+| a|
+______________________________________
+Rollenbesetzung und Werkzeuge geklärt?
+______________________________________
+
+ |
+| a|
+_____________________________________________________________________
+Empfehlungen des Erstellers, des Anwenders und Betreibers vorliegend?
+_____________________________________________________________________
+
+ |
+| a|
+_____________________________________________________
+Einführungsmassnahmen und Einführungsplan festgelegt?
+_____________________________________________________
+
+ |
+| a|
+____________________________________________________________________________
+Auswirkungen auf das Projekt und mögliche Risiken identifiziert und tragbar?
+____________________________________________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|==============================================================================
+
+Entscheid zur Ausschreibung treffen
+
+[cols=",,",options="header",]
+|===================================================================================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|Ausschreibungsunterlagen a|
+____________________________________________________________________________________________________________________________________________________
+Lastenheft und Kriterienkatalog so umfassend und detailliert erarbeitet, dass die Angebote nach einem einheitlichen Massstab bewertet werden können?
+____________________________________________________________________________________________________________________________________________________
+
+ |
+| a|
+_______________________________________________________________________________________________________________________________
+Anforderungen der Nachhaltigkeit in Lastenheft (in der Schweiz auch Pflichtenheft genannt) und Kriterienkatalog berücksichtigt?
+_______________________________________________________________________________________________________________________________
+
+ |
+| a|
+______________________________________________________________________________________________________________________________
+Ausschreibungsunterlagen so detailliert erarbeitet, dass sie als Spezifikation der geforderten Leistung / des Systems genügen?
+______________________________________________________________________________________________________________________________
+
+ |
+| a|
+____________________________________________________________________________________________________________________________
+Ausschreibungsunterlagen mit der Beschaffungsstelle, dem Rechtsdienst und weiteren Stellen der Stammorganisation abgestimmt?
+____________________________________________________________________________________________________________________________
+
+ |
+|Projektmanagementplan a|
+___________________________________________________________________
+Beschaffungsplanung erstellt und mit der Projektplanung abgestimmt?
+___________________________________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|===================================================================================================================================================
+
+Entscheid zum Zuschlag treffen
+
+[cols=",,",options="header",]
+|==============================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|Evaluationsbericht a|
+_______________________________________________________________________________________________
+Projektziele, Machbarkeit und Nutzen mit dem gewählten Angebot realistisch und Risiken tragbar?
+_______________________________________________________________________________________________
+
+ |
+| a|
+________________________________________________________
+Evaluation transparent und nachvollziehbar dokumentiert?
+________________________________________________________
+
+ |
+| a|
+_____________________________________________________________________________________
+Antrag auf Zuschlagserteilung an einen Anbieter mit der Stammorganisation abgestimmt?
+_____________________________________________________________________________________
+
+ |
+| a|
+__________________________________________________________
+Beschaffungs- und vertragsrechtliche Vorgaben eingehalten?
+__________________________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|==============================================================================================
+
+Entscheid zur Phasenfreigabe treffen (Realisierung)
+
+[cols=",,",options="header",]
+|==========================================================================================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|Phasenbericht a|
+______________________________________________________________
+Phasenbericht vorhanden und von allen Projektpartnern geprüft?
+______________________________________________________________
+
+ |
+| a|
+__________________________________________________________________________________
+Bezug der Projektziele zu Strategie und Zielen der Stammorganisation noch gegeben?
+__________________________________________________________________________________
+
+ |
+| a|
+_______________________________________
+Projektrisiken ausgewiesen und tragbar?
+_______________________________________
+
+ |
+| a|
+_________________________________________________________________________________________
+Machbarkeit organisatorisch, finanziell, wirtschaftlich, technisch und politisch gegeben?
+_________________________________________________________________________________________
+
+ |
+|ISDS-Konzept a|
+______________________________________________________________________________________________________
+ISDS-Konzept durch die Controlling- und Vorgabestellen geprüft und keine kritischen Befunde vorhanden?
+______________________________________________________________________________________________________
+
+ |
+|Systemarchitektur a|
+___________________________________________________________________________________________________________
+Systemarchitektur durch die Controlling- und Vorgabestellen geprüft und keine kritischen Befunde vorhanden?
+___________________________________________________________________________________________________________
+
+ |
+|Einführungskonzept a|
+___________________________________________________________________________________________________________________________________________________________
+Einführungsvorgehen, Einführungsorganisation und Einführungsmassnahmen so detailliert beschrieben, dass die Einführungsmassnahmen realisiert werden können?
+___________________________________________________________________________________________________________________________________________________________
+
+ |
+|Projektmanagementplan a|
+_______________________________________________________________________________________________
+Projektorganisation an die Aufgaben der Phase angepasst und berücksichtigt sie die Stakeholder?
+_______________________________________________________________________________________________
+
+ |
+| a|
+_________________________________________________________________________________________________________
+Personelle Ressourcen bei allen Partnern mit genügend Kapazität und den benötigten Fähigkeiten vorhanden?
+_________________________________________________________________________________________________________
+
+ |
+| a|
+__________________________________________________________________________________________________
+Alle Pläne (Beschaffungen, Ergebnisse, Kommunikation, Prüfungen, Termine) vorhanden und plausibel?
+__________________________________________________________________________________________________
+
+ |
+| a|
+_______________________________________________________________________________________________________
+Methoden und Techniken für die Erarbeitung der Ergebnisse festgelegt und unter den Partnern vereinbart?
+_______________________________________________________________________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|==========================================================================================================================================================
+
+Entscheid zur Vorabnahme treffen
+
+[cols=",,",options="header",]
+|======================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|Testprotokoll a|
+___________________________________________________
+Keine abnahmeverhindernde Testergebnisse vorhanden?
+___________________________________________________
+
+ |
+|Abnahmeprotokoll a|
+___________________
+Mängel ausgewiesen?
+___________________
+
+ |
+| a|
+_________________________________________________________________________________
+Massnahmen mit Terminen und Verantwortlichkeit für die Mängelbehebung festgelegt?
+_________________________________________________________________________________
+
+ |
+| a|
+_______________________________________________________________________________________
+Verantwortliche für die Nutzung des Systems / Produkts in Tests und Abnahme einbezogen?
+_______________________________________________________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|======================================================================================
+
+Entscheid zur Phasenfreigabe treffen (Einführung)
+
+[cols=",,",options="header",]
+|========================================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|Phasenbericht a|
+______________________________________________________________
+Phasenbericht vorhanden und von allen Projektpartnern geprüft?
+______________________________________________________________
+
+ |
+| a|
+__________________________________________________________________________________
+Bezug der Projektziele zu Strategie und Zielen der Stammorganisation noch gegeben?
+__________________________________________________________________________________
+
+ |
+| a|
+_______________________________________
+Projektrisiken ausgewiesen und tragbar?
+_______________________________________
+
+ |
+| a|
+_________________________________________________________________________________________
+Machbarkeit organisatorisch, finanziell, wirtschaftlich, technisch und politisch gegeben?
+_________________________________________________________________________________________
+
+ |
+|Einführungsmassnahmen und -organisation a|
+______________________________________________________________________________________________
+Einführungsmassnahmen und –organisation so weit realisiert, dass die Einführung erfolgen kann?
+______________________________________________________________________________________________
+
+ |
+|ISDS-Konzept a|
+______________________________________________________
+ISDS-Konzept aktualisiert und Restrisiken ausgewiesen?
+______________________________________________________
+
+ |
+| a|
+_____________________________________________________________________
+ISDS-Konzept mit Auftraggeber abgestimmt und durch ihn unterzeichnet?
+_____________________________________________________________________
+
+ |
+|Systemarchitektur a|
+____________________________________________________________________________________________________
+Systemarchitektur nachgeführt und Dokumentation des IT-Systems (Detailspezifikation etc.) vorhanden?
+____________________________________________________________________________________________________
+
+ |
+|Projektmanagementplan a|
+_______________________________________________________________________________________________
+Projektorganisation an die Aufgaben der Phase angepasst und berücksichtigt sie die Stakeholder?
+_______________________________________________________________________________________________
+
+ |
+| a|
+_________________________________________________________________________________________________________
+Personelle Ressourcen bei allen Partnern mit genügend Kapazität und den benötigten Fähigkeiten vorhanden?
+_________________________________________________________________________________________________________
+
+ |
+| a|
+_______________________________________________________________________________________________________
+Alle Pläne (Ergebnisse, Kommunikation, Prüfplan, Terminplan, Beschaffungen...) vorhanden und plausibel?
+_______________________________________________________________________________________________________
+
+ |
+| a|
+_______________________________________________________________________________________________________
+Methoden und Techniken für die Erarbeitung der Ergebnisse festgelegt und unter den Partnern vereinbart?
+_______________________________________________________________________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|========================================================================================================
+
+Entscheid zur Betriebsaufnahme treffen
+
+[cols=",,",options="header",]
+|============================================================================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|Betriebshandbuch a|
+_____________________________________________________________________________________________________________________________________________
+Betriebshandbuch vollständig und so detailliert auf das zu betreibende System ausgerichtet, dass es die Anforderungen des Betreibers erfüllt?
+_____________________________________________________________________________________________________________________________________________
+
+ |
+| a|
+____________________________________________________________________________________________
+Betriebshandbuch von den zuständigen Stellen geprüft und keine kritischen Befunde vorhanden?
+____________________________________________________________________________________________
+
+ |
+|System integriert a|
+_____________________________________
+Integration vollständig durchgeführt?
+_____________________________________
+
+ |
+|Betriebsorganisation a|
+_____________________________________________________________
+Betriebsorganisation realisiert und Mitarbeitende instruiert?
+_____________________________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|============================================================================================================================================
+
+Entscheid zur Abnahme der Migration treffen
+
+[cols=",,",options="header",]
+|======================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|Testprotokoll a|
+____________________________________________________
+Keine abnahmeverhindernden Testergebnisse vorhanden?
+____________________________________________________
+
+ |
+|Abnahmeprotokoll a|
+___________________
+Mängel ausgewiesen?
+___________________
+
+ |
+| a|
+_________________________________________________________________________________
+Massnahmen mit Terminen und Verantwortlichkeit für die Mängelbehebung festgelegt?
+_________________________________________________________________________________
+
+ |
+| a|
+_______________________________________________________________________________________
+Verantwortliche für die Nutzung des Systems / Produkts in Tests und Abnahme einbezogen?
+_______________________________________________________________________________________
+
+ |
+| a|
+______________________________________________________
+Stellungnahmen von den zuständigen Stellen vorliegend?
+______________________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|======================================================================================
+
+Entscheid zur Abnahme treffen
+
+[cols=",,",options="header",]
+|======================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|Testprotokoll a|
+____________________________________________________
+Keine abnahmeverhindernden Testergebnisse vorhanden?
+____________________________________________________
+
+ |
+|Abnahmeprotokoll a|
+_________________________________________
+Mängel mit den Mängelklassen ausgewiesen?
+_________________________________________
+
+ |
+| a|
+_________________________________________________________________________________
+Massnahmen mit Terminen und Verantwortlichkeit für die Mängelbehebung festgelegt?
+_________________________________________________________________________________
+
+ |
+| a|
+_______________________________________________________________________________________
+Verantwortliche für die Nutzung des Systems / Produkts in Tests und Abnahme einbezogen?
+_______________________________________________________________________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|======================================================================================
+
+Entscheid zum Projektabschluss treffen
+
+[cols=",,",options="header",]
+|=====================================================================================================================================
+|*Ergebnis* a|
+___________
+*Kriterium*
+___________
+
+ |*Bewertung*
+|Allgemeines a|
+______________________________________________________________________________________________________________________________________
+Dokumentenablage bereinigt, Systemdokumentation an die Stammorganisation übergeben und Dokumentation der Projektabwicklung archiviert?
+______________________________________________________________________________________________________________________________________
+
+ |
+| a|
+_______________________________________________________________________________________
+Nicht benötigte Ressourcen (Infrastruktur etc.) an die Stammorganisation zurückgegeben?
+_______________________________________________________________________________________
+
+ |
+| a|
+__________________________________
+Zugriffsberechtigungen aufgehoben?
+__________________________________
+
+ |
+| a|
+________________________________________________________________
+Aufwanderfassungssysteme, Projektbuchhaltung etc. abgeschlossen?
+________________________________________________________________
+
+ |
+|Projektschlussbeurteilung a|
+_______________________________________________________________________________________________
+Erfahrungen in der Schlussbeurteilung zusammengefasst und mit der Stammorganisation abgestimmt?
+_______________________________________________________________________________________________
+
+ |
+| a|
+__________________________________________________________
+Projektschlussbeurteilung mit den Stakeholdern abgestimmt?
+__________________________________________________________
+
+ |
+| a|
+__________________________________________________________________________________________________________________________
+Massnahmen zur Projekterfolgskontrolle nach Projektabschluss festgelegt, einem Verantwortlichen zugewiesen und terminiert?
+__________________________________________________________________________________________________________________________
+
+ |
+| a|
+_____________________________________
+Projektabschlusssitzung durchgeführt?
+_____________________________________
+
+ |
+| a|
+______________________________
+Projektorganisation aufgelöst?
+______________________________
+
+ |
+|*Projektspezifische Prüfpunkte*
+| | |
+|=====================================================================================================================================

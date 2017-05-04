@@ -1,0 +1,123 @@
+Produktkonzept
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Ausgangslage 2
+
+2 Produktbeschreibung 2
+
+2.1 Übersicht des Produkts 2
+
+3 Detailanforderungen 2
+
+3.1 Anforderungen der Geschäftsorganisation 2
+
+3.2 Funktionale Anforderungen 2
+
+3.3 Qualitätsanforderung, Rahmenbedingung 3
+
+4 Anforderungsabdeckung 3
+
+[[ausgangslage]]
+=  +
+Ausgangslage
+
+Hinweis auf Studie
+
+* Hinweis auf Grobanforderungen
+* Hinweis auf gewählte Variante
+
+1.  [[produktbeschreibung]]
+= Produktbeschreibung
+1.  [[übersicht-des-produkts]]
+== Übersicht des Produkts
+
+Konzeptionelle Grobbeschreibung des Produkts (Produkteigenschaften / -merkmale).
+
+Eine grafische Übersicht des Systems hilft, die Detailanforderungen strukturiert zu erfassen. Die grafische Übersicht kann mit unterschiedlichen Techniken erstellt werden.
+
+[[detailanforderungen]]
+= Detailanforderungen
+
+Detaillierte Beschreibung der Produkteigenschaften
+
+[[anforderungen-der-geschäftsorganisation]]
+== Anforderungen der Geschäftsorganisation
+
+Organisationsanforderungen werden hier nicht beschrieben. Sie sind im Geschäftsorganisationskonzept dokumentiert.
+
+[[funktionale-anforderungen]]
+== Funktionale Anforderungen
+
+Es können unterschiedliche Techniken für die Beschreibung der Anforderungen verwendet werden.
+
+Pro Anforderung
+
+[cols=",",options="header",]
+|===================================================================================================================================================================================
+|Grobanfor­derung: n |Anforderung: n.nn |Quelle: |Autor:
+|Name |Vernichtung von Papierakten
+|Funktionale Kurzbeschreibung |Akten sind nicht reproduzierbar vernichtet, Sicherheitsstandard XY ist eingehalten
+|Input |Für die Vernichtung ausgesonderte Papierakten
+|Verarbeitungsschritte /-regeln a|
+\1. Papierakten für Vernichtung vorbereiten (Büroklammern entfernen)
+
+\2. Akten mit Aktenvernichter vernichten
+
+\3. Aktenvernichterschublade leeren und Material entsorgen
+
+|Output: |Vernichtete und entsorgte Akten
+|Abnahmekriterien |Papierakten mindestens 3 cm hoch, Papierformat A3, Papierschnitzel nicht reproduzierbar gemäss Sicherheitsstandard XY, Vernichtung von 10 Laufmetern in 1 Stunde.
+|Wichtigkeit (5-1): 3 |Dringlichkeit (5-1): 2 |Abhängigkeit zu:
+|Risiko/Kritikalität (5-1): 2 |Aufwandgrösse (5-1): 2 |Version |Status
+|===================================================================================================================================================================================
+
+[[qualitätsanforderung-rahmenbedingung]]
+== Qualitätsanforderung, Rahmenbedingung
+
+Pro Anforderung:
+
+[cols=",",options="header",]
+|===============================================================
+|Grobanfor­derung: n |Anforderung: n.nn |Quelle: |Autor:
+|Name |
+|Beschreibung |
+|Abnahmekriterien |
+|Wichtigkeit (5-1): |Dringlichkeit (5-1): |Abhängigkeit zu:
+|Risiko/Kritikalität (5-1) |Aufwandgrösse (5-1) |Version |Status
+|===============================================================
+
+[[anforderungsabdeckung]]
+= Anforderungsabdeckung
+
+[cols=",,,",options="header",]
+|============================================================================================
+|ID |Anforderung |Zuordnung zu Subsystem / Komponente |Beurteilung der Anfor-derungsabdeckung
+|nn | | |
+|nn | | |
+| | | |
+| | | |
+|============================================================================================
+
+[[section]]
+=

@@ -1,0 +1,37 @@
+Liste der Stakeholder
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===================================
+|Datumnull |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===================================
+
+Inhaltsverzeichnis
+
+1 Stakeholder 2
+
+[[stakeholder]]
+= Stakeholder
+
+[cols=",",options="header",]
+|====================
+|Organisation |Person
+| |
+| |
+| |
+| |
+|====================

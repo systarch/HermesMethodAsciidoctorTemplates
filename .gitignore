@@ -1,2 +1,13 @@
-\.gems
-\Hermes
+# ignore intellij configuration files
+\.idea/
+/*.iml
+
+# ignore the installed gems
+\.gems/
+Gemfile.lock
+
+# ignore the downloaded and extracted Hermes templates
+/Hermes/
+
+
+

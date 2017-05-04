@@ -1,0 +1,147 @@
+Rapporto di fase
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Situazione iniziale 2
+
+2 Obiettivi e soluzioni 2
+
+3 Rapporto con la strategia e attuazione delle direttive 2
+
+4 Basi legali 3
+
+5 Utilità e redditività 3
+
+6 Pianificazione 3
+
+7 Organizzazione 3
+
+8 Rischi 3
+
+9 Richieste 3
+
+10 Allegati 4
+
+[[situazione-iniziale]]
+= Situazione iniziale
+
+Riassunto dello svolgimento precedente del progetto
+
+[[obiettivi-e-soluzioni]]
+= Obiettivi e soluzioni
+
+*Obiettivi di sistema*
+
+[cols=",,,,,",options="header",]
+|=========================================================================================================================================================================================================================================================
+|Nr. |Categoria |Descrizione |Unità di misura |Priorità |Previsione grado di raggiungimento
+|_1_ |_Posizionamento sul mercato_ |_Riduzione del periodo di svolgimento del processo, a partire dall’entrata dell’ordine fino alla consegna_ |_Dagli attuali 4 giorni, ridotto a 3 giorni; a partire da un mese dopo la messa in esercizio_ |_O_ |_100%_
+| | | | | |
+|=========================================================================================================================================================================================================================================================
+
+Legenda: priorità: O=obbligatorio /1=alta, 2=media, 3=bassa
+
+*Obiettivi di procedimento*
+
+[cols=",,,,,",options="header",]
+|================================================================================================================================================================================
+|Nr. |Categoria |Descrizione |Unità di misura |Priorità |Previsione grado di raggiungimento
+|_1_ |_Qualità dello sviluppo del test_ |_La fattibilità è provata mediante l’installazione di un test_ |_Elaborazione senza errori di un caso commerciale definito_ |_2_ |_100%_
+| | | | | |
+|================================================================================================================================================================================
+
+*Descrizione della soluzione*
+
+Descrizione sommaria dell’alternativa, riferimenti allo studio o al mandato di progetto
+
+[[rapporto-con-la-strategia-e-attuazione-delle-direttive]]
+= Rapporto con la strategia e attuazione delle direttive
+
+Riferimento al mandato di progetto
+
+Rapporto con la strategia:
+
+* Gli obiettivi del progetto sono in sintonia con la strategia dell’organizzazione permanente?
+
+Attuazione delle direttive:
+
+* Le direttive sono state rispettate oppure ci sono delle irregolarità?
+
+[[basi-legali]]
+= Basi legali
+
+Riferimento al mandato di progetto
+
+Spiegazione delle modifiche riguardo alle basi legali o alla conferma dell’ulteriore validità.
+
+[[utilità-e-redditività]]
+= Utilità e redditività
+
+Riferimento al mandato di progetto
+
+Nuovo calcolo della redditività secondo le direttive dell’organizzazione permanente: generalmente costi e carico di lavoro per il progetto e l’esercizio, utilità (quantificabile, non quantificabile)
+
+[[pianificazione]]
+= Pianificazione
+
+Riferimento al rapporto dello stato relativo alle scadenze, ai costi, all’impiego di personale e ai risultati
+
+[[organizzazione]]
+= Organizzazione
+
+*Organizzazione della fase seguente*
+
+Riferimento al piano di gestione del progetto
+
+[cols=",,,",options="header",]
+|=======================================================================================================
+|Ruolo nell’organizzazione del progetto |Nome |Abbreviazione |Funzione/unità organizzativa rappresentata
+|_Committente_ |_Kurt Müller_ |_muk_ |_Direttore xyz_
+|_Comitato del progetto_ | | |
+|_Project manager_ | | |
+|_Responsabile SIPD_ | | |
+|_Specialista rappresentate degli utenti_ | | |
+|_Specialista responsabile dei processi operativi_ | | |
+| | | |
+|=======================================================================================================
+
+[[rischi]]
+= Rischi
+
+Riferimento al rapporto sullo stato
+
+[[richieste]]
+= Richieste
+
+Richiesta di approvazione del rapporto di fase
+
+Richiesta di chiusura della fase attuale
+
+Richiesta di avvio della fase seguente
+
+[[allegati]]
+= Allegati
+
+Rapporto sullo stato del progetto

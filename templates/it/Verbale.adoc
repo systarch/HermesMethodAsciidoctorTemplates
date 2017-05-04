@@ -1,0 +1,52 @@
+Verbale
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+|==================================================================
+
+Riunione:null
+
+Data:null
+
+Ora:null
+
+Luogo:null
+
+Presenti:null
+
+Assenti:null
+
+*Trattande*
+
+1 Trattanda 1
+
+2 Trattanda 1
+
+Tipo: P=pendenze, D=decisione, I=informazione, D=discussione
+
+[[trattanda]]
+= Trattanda
+
+[cols=",,,",options="header",]
+|================================================
+|Descrizione |Tipo |Responsabile |Scadenza finale
+| | | |
+| | | |
+|================================================
+
+[[trattanda-1]]
+= Trattanda
+
+[cols=",,,",options="header",]
+|================================================
+|Descrizione |Tipo |Responsabile |Scadenza finale
+| | | |
+| | | |
+|================================================
+
+Allegati:

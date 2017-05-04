@@ -1,0 +1,41 @@
+Decisioni del progetto
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+*1* Decisioni della guida e della gestione del progetto 2
+
+[[decisioni-della-guida-e-della-gestione-del-progetto]]
+= Decisioni della guida e della gestione del progetto
+
+*Lista delle decisioni*
+
+[cols=",,,,",options="header",]
+|====================================================================================================================================================================================
+|Nr. |Decisione |Organo decisionale |Documenti per la decisione |Data
+|_1_ |_Scelta delle alternative_ |_PM Nome xyz_ |_Studio, analisi delle basi legali, analisi delle esigenze di protezione, offerta sommaria dell’offerente aaa, bbb, ccc_ |_1.1.1111_
+| | | | |
+| | | | |
+| | | | |
+|====================================================================================================================================================================================

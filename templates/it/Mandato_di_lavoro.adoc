@@ -1,0 +1,123 @@
+Mandato di lavoro
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|====================================
+|Datanull |Versione |Modifica |Autore
+| | | |
+| | | |
+|====================================
+
+Indice
+
+1 Obiettivi di lavoro 2
+
+2 Risultati 2
+
+3 Delimitazione 2
+
+4 Presupposti e dipendenze 2
+
+5 Attività 2
+
+6 Impiego 3
+
+7 Rappresentazione dei risultati 3
+
+[[obiettivi-di-lavoro]]
+= Obiettivi di lavoro
+
+[cols=",",options="header",]
+|==============================================================================================================
+|Nr. |Obiettivo
+|1 |_Criteri di valutazione: elaborati in modo così dettagliato da poter essere eseguita un’analisi di mercato_
+|2 |_Analisi di mercato: prodotti disponibili all’interno dell’organizzazione e sul mercato_
+|==============================================================================================================
+
+[[risultati]]
+= Risultati
+
+[cols=",,",options="header",]
+|=============================
+|Nr. |Risultati |Descrizione
+|1 |_Criteri di valutazione_ |
+|2 |_Analisi di mercato_ |
+|=============================
+
+[[delimitazione]]
+= Delimitazione
+
+Delimitazione del mandato di lavoro
+
+_Non viene eseguita alcuna valutazione dei prodotti. Non viene raccolta nessuna offerta. Questo è oggetto della prossima fase._
+
+[[presupposti-e-dipendenze]]
+= Presupposti e dipendenze
+
+*Presupposti per l’inizio del lavoro*
+
+*Dipendenze da o verso qualcosa*
+
+[cols=",,,,",options="header",]
+|=============================================================
+|Nr. |Dipendenza da |Risultato |Scadenza |Responsabile
+|_A-01_ |_Progetto xyz_ |_Requisiti_ |_31.3.2015_ |_R. Kuster_
+| | | | |
+|=============================================================
+
+[cols=",,,,",options="header",]
+|========================================================
+|Nr. |Dipendenza verso |Risultato |Scadenza |Responsabile
+|_B-01_ |_Studio_ |_Analisi di mercato_ |_21.4.2015_ |
+| | | | |
+|========================================================
+
+[[attività]]
+= Attività
+
+[cols=",,,,,,",options="header",]
+|===================================================================================================================================================
+|Nr. |Risultato |Attività* |Responsabile, collaboratore |Carico (ore) |Scadenza |Stato
+|_1_ |_Criteri di valutazione_ |_Trasformare i requisiti in criteri di valutazione_ |_Huber_ |_6_ |_1.4.2015_ |_OK_
+|_2_ | |_Walk-Through dei criteri di valutazione_ |_Huber, Graf_ |_2_ |_3.4.2015_ |_OK_
+|_3_ |_Analisi di mercato_ |_Definire se nell’organizzazione permanente siano disponibili possibili prodotti_ |_Huber, Meier_ |_4_ |_5.4.2015_ |_OK_
+|_4_ | |_Colloquio riguardante il risultato intermedio_ |_Huber, Graf_ |_1_ |_8.4.2015_ |_aperto_
+|5 | | | | | |
+|Totale |13 | |
+|===================================================================================================================================================
+
+Legenda: * incluse misure di garanzia della qualità come Walk-Throughs e revisioni (secondo il piano di verifica nel piano di gestione del progetto)
+
+[[impiego]]
+= Impiego
+
+*Risorse umane (ore)*
+
+[cols=",,,",options="header",]
+|=======================================
+|Ruolo / persona |Mese 1 |Mese 2 |Totale
+|_Huber_ |_14_ |_12_ |_26_
+|Nome | | |
+|=======================================
+
+*Mezzi materiali necessari*
+
+Locali, infrastruttura IT, software specifici, ecc.
+
+[[rappresentazione-dei-risultati]]
+= Rappresentazione dei risultati
+
+Nei documenti: struttura del capitolo
+
+Nel caso di altri risultati: descrizione scritta

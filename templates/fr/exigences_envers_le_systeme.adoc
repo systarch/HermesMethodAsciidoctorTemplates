@@ -1,0 +1,452 @@
+Exigences envers le système
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Exigences générales 3
+
+2 Aperçu 3
+
+2.1 Technique 1 : arborescence des fonctions 3
+
+2.2 Technique 2 : Use-Case 4
+
+2.2.1 Package de Use-Case diagramme 4
+
+2.2.2 Use-Case Diagramme 4
+
+3 Exigences détaillées 5
+
+3.1 Exigences envers les structures organisationnelles 5
+
+3.2 Exigences fonctionnelles 5
+
+3.2.1 Technique 1 : description dans un formulaire standard 5
+
+3.2.2 Technique 2: description dans un formulaire pour User-Story 5
+
+3.2.3 Technique 3: description dans un formulaire pour Use-Case 6
+
+3.3 Exigences qualité 6
+
+3.4 Exigences envers le concept d’exploitation 6
+
+3.5 Exigences envers l’architecture du système 7
+
+3.6 Exigences envers le concept de migration 7
+
+3.7 Exigences envers le concept SIPD 7
+
+3.7.1 Attribution des types d’affaires à des actions / à des éléments de processus 8
+
+4 Exigences fonctionnelles 9
+
+5 Exigences non fonctionnelles / Exigences envers la qualité 9
+
+5.1 Exigences liées aux utilisateurs 9
+
+5.2 Exigences liées à l‘exploitation 9
+
+5.3 Exigences liées à l‘architecture 9
+
+5.4 Exigences liées à la migration 10
+
+5.5 Exigences envers l’environnement de développement et de maintenance 10
+
+5.6 Exigences envers les interfaces externes 10
+
+6 Exigences de sécurité 10
+
+6.1 Exigences résultant de l’analyse des risques (concept SIPD) 10
+
+6.2 Exigences résultant des mesures de protection 11
+
+[[exigences-générales]]
+=  +
+Exigences générales
+
+Reprises de l’étude
+
+[cols=",,,,,",options="header",]
+|===========================================================================================================================
+|ID |Exigence |Type (G,F,Q,S,M, A,B) |Critère d’acceptance a|
+Importance
+
+5-1
+
+ a|
+Urgence
+
+5-1
+
+|nn |Saisir inscription au cours |F |Tests réussis selon les spécifications de test |5 |5
+|nn |Confirmation de la publication |Q |Dans un environnement en production dans 90% des tests en 2 secondes |3 |4
+|nn |Les confirmations doivent être envoyées dans les 24 heures |G |Après la décision d’activer un cours dans les 24h. |3 |3
+|nn |Transmettre les données cryptées. |S |Tests réussis selon les spécifications de test |5 |4
+|nn |Les accès externes doivent être logués. |S |Preuve avec succès lors des tests. |4 |4
+|===========================================================================================================================
+
+* Type = Type d‘exigence: G = Système organisationnel, F = Fonctionnelle, Q = Qualité, S = Sécurité, M= Migration, A= Architecture, B = Maintenance
+* Importance: 5 = doit absolument être réalisé ; 4 = très important, 3 = important, 2 = moins important, 1 = pourrait être abandonné
+* Urgence: 5 = doit absolument être réalisé dans le délai, 4 = respect du délai très important, 2 = moins important, 1 = pas important
+
+[[aperçu]]
+= Aperçu
+
+Un aperçu graphique du système aide à saisir de manière structurée les exigences détaillées. L’aperçu graphique peut être réalisé selon différentes techniques :
+
+[[technique-1-arborescence-des-fonctions]]
+== Technique 1 : arborescence des fonctions
+
+[[technique-2-use-case]]
+== Technique 2 : Use-Case
+
+[[package-de-use-case-diagramme]]
+=== Package de Use-Case diagramme
+
+image:templates/fr/media/media/image2.png[image,width=588,height=343]
+
+[[use-case-diagramme]]
+=== Use-Case Diagramme
+
+image:templates/fr/media/media/image3.png[image,width=604,height=503]
+
+[[exigences-détaillées]]
+= Exigences détaillées
+
+[[exigences-envers-les-structures-organisationnelles]]
+== Exigences envers les structures organisationnelles
+
+Les structures organisationnelles structurelles (organigramme) et fonctionnelles (processus) ne sont pas décrites ici. Elles sont documentées dans le résultat concept d’organisation.
+
+[[exigences-fonctionnelles]]
+== Exigences fonctionnelles
+
+Différentes techniques peuvent être utilisées pour décrire les exigences fonctionnelles.
+
+[[technique-1-description-dans-un-formulaire-standard]]
+=== Technique 1 : description dans un formulaire standard
+
+_Par exigence:_
+
+[cols=",",options="header",]
+|==========================================================
+|Exigence générale: _n_ |Exigence: _n.nn_ |Source: |Auteur:
+|Nom |
+|Courte description fonctionnelle |
+|Input |_de la Base de données_
+|Etapes de travail / Règles a|
+1.
+
+2.
+
+3.
+
+|Output |
+|Critères de réception |
+|Importance (5-1): |Urgence (5-1): |Dépendance:
+|Risque/criticité (5-1): |Charge (5-1): |Version |Etat
+|==========================================================
+
+[[technique-2-description-dans-un-formulaire-pour-user-story]]
+=== Technique 2: description dans un formulaire pour User-Story
+
+[cols=",",options="header",]
+|===================================================================================================
+|Exigence générale: _n_ |Exigence: _n.nn_ |Source: |Auteur:
+|Nom |_Nom de la User-Story_
+|Descriptions et remarques |
+|Critères de réception |
+|En tant que <rôle de l’utilisateur> je veux que <l’objectif> afin que < raison pour l’objection> a|
+1.
+
+2.
+
+3.
+
+|Importance (5-1): |Urgence (5-1): |Dépendance:
+|Risque/criticité (5-1): |Charge (5-1): |Version |Etat
+|===================================================================================================
+
+[[technique-3-description-dans-un-formulaire-pour-use-case]]
+=== Technique 3: description dans un formulaire pour Use-Case
+
+[cols=",",options="header",]
+|=============================================================
+|Exigence générale: _n_ |Exigence: _(N° UC)_ |Source: |Auteur:
+|Producteur du Use-Case et contact |
+|Courte description
+|Déclencheur métier
+|Acteurs
+|Pré conditions
+|Déroulement / Interactions
+|Post conditions
+a|
+Cas spéciaux (autres déroulements 1-n)
+
+(inclus post conditions)
+
+|Critères de réception |
+|Importance (5-1): |Urgence (5-1): |Dépendance:
+|Risque/criticité (5-1): |Charge (5-1): |Version |Etat
+|=============================================================
+
+[[exigences-qualité]]
+== Exigences qualité
+
+Exigences non fonctionnelles liées à l’utilisateur comme l’ergonomie, le temps de réponse, facilité d’utilisation, etc.
+
+[cols=",",options="header",]
+|==========================================================
+|Exigence générale: _n_ |Exigence: _n.nn_ |Source: |Auteur:
+|Nom |
+|Descriptions |
+|Critères de réception |
+|Importance (5-1): |Urgence (5-1): |Dépendance:
+|Risque/criticité (5-1): |Charge (5-1): |Version |Etat
+|==========================================================
+
+[[exigences-envers-le-concept-dexploitation]]
+== Exigences envers le concept d’exploitation
+
+Exigences non fonctionnelles liées au concept d’exploitation comme la fiabilité, la disponibilité, etc.
+
+[cols=",",options="header",]
+|==========================================================
+|Exigence générale: _n_ |Exigence: _n.nn_ |Source: |Auteur:
+|Nom |
+|Descriptions |
+|Critères de réception |
+|Importance (5-1): |Urgence (5-1): |Dépendance:
+|Risque/criticité (5-1): |Charge (5-1): |Version |Etat
+|==========================================================
+
+[[exigences-envers-larchitecture-du-système]]
+== Exigences envers l’architecture du système
+
+[cols=",",options="header",]
+|==========================================================
+|Exigence générale: _n_ |Exigence: _n.nn_ |Source: |Auteur:
+|Nom |
+|Descriptions |
+|Critères de réception |
+|Importance (5-1): |Urgence (5-1): |Dépendance:
+|Risque/criticité (5-1): |Charge (5-1): |Version |Etat
+|==========================================================
+
+[[exigences-envers-le-concept-de-migration]]
+== Exigences envers le concept de migration
+
+[cols=",",options="header",]
+|==========================================================
+|Exigence générale: _n_ |Exigence: _n.nn_ |Source: |Auteur:
+|Nom |
+|Descriptions |
+|Critères de réception |
+|Importance (5-1): |Urgence (5-1): |Dépendance:
+|Risque/criticité (5-1): |Charge (5-1): |Version |Etat
+|==========================================================
+
+[[exigences-envers-le-concept-sipd]]
+== Exigences envers le concept SIPD
+
+Exigences liés à la sûreté de l’information et protection des données
+
+[cols=",",options="header",]
+|==========================================================
+|Exigence générale: _n_ |Exigence: _n.nn_ |Source: |Auteur:
+|Nom |
+|Descriptions |
+|Critères de réception |
+|Importance (5-1): |Urgence (5-1): |Dépendance:
+|Risque/criticité (5-1): |Charge (5-1): |Version |Etat
+|==========================================================
+
+[[attribution-des-types-daffaires-à-des-actions-à-des-éléments-de-processus]]
+=== Attribution des types d’affaires à des actions / à des éléments de processus
+
+[cols="",options="header",]
+|====================================================
+|Objet |Type de l’affaire |Type de la démarche a|
+________
+Action a
+________
+
+ a|
+________
+Action b
+________
+
+ a|
+________
+Action c
+________
+
+ a|
+________
+Action d
+________
+
+ | | | | | | | | | | | | | | | | |
+|Organisation:
+| | | |_x_ |_x_ | | | | | | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | | | | | | | | | | |
+|====================================================
+
+[[exigences-fonctionnelles-1]]
+= Exigences fonctionnelles
+
+Conformément à la méthode de Requirements Engineering utilisée (p. ex. diagrammes, tableaux, description de cas d’utilisation)
+
+[cols=",,,",options="header",]
+|=============================
+| |Exigence
+|Réf. |ID |Description |Poids*
+|1 | | |
+|=============================
+
+[[exigences-non-fonctionnelles-exigences-envers-la-qualité]]
+= Exigences non fonctionnelles / Exigences envers la qualité
+
+[[exigences-liées-aux-utilisateurs]]
+== Exigences liées aux utilisateurs
+
+Exigences non fonctionnelles liées aux utilisateurs, telles que convivialité, ergonomie, temps de réponse, etc.
+
+[cols=",,,",options="header",]
+|=============================
+| |Exigence
+|Réf. |ID |Description |Poids*
+|1 | | |
+|2 | | |
+|=============================
+
+*Poids: O=obligatoire, F=facultatif avec priorités 1-3, 1=haute
+
+[[exigences-liées-à-lexploitation]]
+== Exigences liées à l‘exploitation
+
+Exigences non fonctionnelles liées à l’exploitation, telles que fiabilité, disponibilité, etc.
+
+[cols=",,,",options="header",]
+|===============================================================
+| |Exigence
+|Réf. |ID |Description |Poids*
+|_1_ |_B-001_ |_Heures de support 7 h 30 – 12 h 00 / 13 h 30 – +
+18 h 00_ |_O_
+|2 | | |
+|===============================================================
+
+*Poids: O=obligatoire, F=facultatif avec priorités 1-3, 1=haute
+
+[[exigences-liées-à-larchitecture]]
+== Exigences liées à l‘architecture
+
+[cols=",,,",options="header",]
+|=============================
+| |Exigence
+|Réf. |ID |Description |Poids*
+|1 | | |
+|2 | | |
+|=============================
+
+*Poids: O=obligatoire, F=facultatif avec priorités 1-3, 1=haute
+
+[[exigences-liées-à-la-migration]]
+== Exigences liées à la migration
+
+Exigences envers la reprise ou la qualité des données, etc.
+
+[cols=",,,",options="header",]
+|=============================
+| |Exigence
+|Réf. |ID |Description |Poids*
+|1 | | |
+|2 | | |
+|=============================
+
+*Poids: O=obligatoire, F=facultatif avec priorités 1-3, 1=haute
+
+[[exigences-envers-lenvironnement-de-développement-et-de-maintenance]]
+== Exigences envers l’environnement de développement et de maintenance
+
+[cols=",,,",options="header",]
+|=============================
+| |Exigence
+|Réf. |ID |Description |Poids*
+|1 | | |
+|2 | | |
+|=============================
+
+*Poids: O=obligatoire, F=facultatif avec priorités 1-3, 1=haute
+
+[[exigences-envers-les-interfaces-externes]]
+== Exigences envers les interfaces externes
+
+Exigences métier, techniques et organisationnelles envers les interfaces, p. ex.: protocole et infrastructure, formats, restrictions et conditions aux limites, comportement temporel, synchronisme de l’interface, volume de données (minimal, moyen, maximal), traitement des erreurs, sécurité
+
+[cols=",,,",options="header",]
+|=============================
+| |Exigence
+|Réf. |ID |Description |Poids*
+|1 | | |
+|2 | | |
+|3 | | |
+|=============================
+
+*Poids: O=obligatoire, F=facultatif avec priorités 1-3, 1=haute
+
+[[exigences-de-sécurité]]
+= Exigences de sécurité
+
+[[exigences-résultant-de-lanalyse-des-risques-concept-sipd]]
+== Exigences résultant de l’analyse des risques (concept SIPD)
+
+[cols=",,,",options="header",]
+|=============================
+| |Exigence
+|Réf. |ID |Description |Poids*
+|1 | | |
+|2 | | |
+|3 | | |
+|=============================
+
+*Poids: O=obligatoire, F=facultatif avec priorités 1-3, 1=haute
+
+[[exigences-résultant-des-mesures-de-protection]]
+== Exigences résultant des mesures de protection
+
+[cols=",,,",options="header",]
+|=============================
+| |Exigence
+|Réf. |ID |Description |Poids*
+|1 | | |
+|2 | | |
+|3 | | |
+|=============================
+
+*Poids: O=obligatoire, F=facultatif avec priorités 1-3, 1=haute
+
+[[section]]
+=

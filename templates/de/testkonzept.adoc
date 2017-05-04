@@ -1,0 +1,164 @@
+Testkonzept
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Testziele 2
+
+2 Testobjekte 2
+
+3 Testarten 2
+
+4 Testabdeckung 2
+
+5 Testrahmen 2
+
+5.1 Testvoraussetzungen 2
+
+5.2 Fehlerklassen 2
+
+5.3 Start- und Abbruchbedingungen 3
+
+6 Testinfrastruktur 3
+
+6.1 Testsystem 3
+
+6.2 Testdaten 3
+
+6.3 Testhilfsmittel 3
+
+7 Testfallbeschreibungen 3
+
+8 Testplan 3
+
+1.  [[testziele]]
+=  +
+Testziele
+2.  [[testobjekte]]
+= Testobjekte
+
+[cols=",,",options="header",]
+|========================
+|Nr |Objekt |Beschreibung
+|1 | |
+|2 | |
+|========================
+
+[[testarten]]
+= Testarten
+
+[cols=",,",options="header",]
+|=========================
+|Nr |Testart |Beschreibung
+|1 | |
+|2 | |
+|=========================
+
+[[testabdeckung]]
+= Testabdeckung
+
+*Übersicht Testfälle*
+
+[cols=",,",options="header",]
+|=========================
+|Nr |Testobjekt |Testfälle
+|1 | |
+|2 | |
+|=========================
+
+*Beurteilung Testziele und Testabdeckung*
+
+1.  [[testrahmen]]
+= Testrahmen
+1.  [[testvoraussetzungen]]
+== Testvoraussetzungen
+
+Tester, Vorkenntnisse
+
+[[fehlerklassen]]
+== Fehlerklassen
+
+_Festgestellte Fehler werden in Klassen 0-4 eingestuft_
+
+[cols=",,",options="header",]
+|================================
+|Nr. |Fehlerklassen |Beschreibung
+|_0_ |_Fehlerfrei_ |
+|_1_ |_Unwesentlicher Mangel_ |
+|_2_ |_Leichter Mangel_ |
+|_3_ |_Schwerer Mangel_ |
+|_4_ |_Kritischer Mangel_ |
+|================================
+
+[[start--und-abbruchbedingungen]]
+== Start- und Abbruchbedingungen
+
+Vorbedingungen für Teststart
+
+1.  [[testinfrastruktur]]
+= Testinfrastruktur
+1.  [[testsystem]]
+== Testsystem
+2.  [[testdaten]]
+== Testdaten
+3.  [[testhilfsmittel]]
+== Testhilfsmittel
+
+Software für das Testmanagement
+
+Liste der Reports
+
+[[testfallbeschreibungen]]
+= Testfallbeschreibungen
+
+[cols=",",options="header",]
+|========================================================================
+|ID / Bezeichnung |_T-001_ |Referenz zu Anforderung & Abnahmekriterium a|
+_Nn_
+
+_z.B. die Qualitätsanforderungen im Ergebnis Systemanforderungen_
+
+|Beschreibung |
+|Testvoraussetzung |
+|Testschritte |
+|Erwartetes Ergebnis |
+|========================================================================
+
+[[testplan]]
+= Testplan
+
+[cols=",,,,",options="header",]
+|================================================
+|Nr |Aktivität |Verantwortlich |Mitarbeit |Termin
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+|================================================
+
+[[section]]
+=

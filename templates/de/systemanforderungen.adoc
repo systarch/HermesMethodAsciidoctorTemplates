@@ -1,0 +1,263 @@
+Systemanforderungen
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Grobanforderungen 2
+
+2 Übersicht 2
+
+2.1 Technik 1: Funktionsbaum 3
+
+2.2 Technik 2: Use-Case 3
+
+2.2.1 Use-Case Paket-Diagramm 3
+
+2.2.2 Use-Case-Diagramm 3
+
+3 Detailanforderungen 4
+
+3.1 Anforderungen der Geschäftsorganisation 4
+
+3.2 Funktionale Anforderungen 4
+
+3.2.1 Technik 1: Beschreibung mittels allgemeinem Schema 4
+
+3.2.2 Technik 2: Beschreibung mittels User-Story-Formular 5
+
+3.2.3 Technik 3: Beschreibung mittels Use-Case Formular 5
+
+3.3 Qualitätsanforderungen 5
+
+3.4 Anforderungen zum Betriebskonzept 6
+
+3.5 Anforderungen zur Systemarchitektur 6
+
+3.6 Anforderungen zum Migrationskonzept 6
+
+3.7 Anforderungen aus dem ISDS-Konzept 7
+
+[[grobanforderungen]]
+=  +
+Grobanforderungen
+
+Aus der Studie
+
+[cols=",,,,,",options="header",]
+|=========================================================================================================================================
+|ID |Anforderung |Anf.-Art (G,F,Q,S,M, A,B) |Abnahmekriterium a|
+Wichtigkeit
+
+5-1
+
+ a|
+Dringlichkeit
+
+5-1
+
+|_nn_ |_Kursanmeldung erfassen_ |_F_ |_Erfolgreiche Tests gemäss Testfallspezifikation_ |_5_ |_5_
+|_nn_ |_Anzeigen Bestätigung_ |_Q_ |_In einer realen Systemumgebung in 90% Tests innerhalb von 2 Sek._ |_3_ |_4_
+|_nn_ |_Die Bestätigungen müssen tagfertig versendet werden_ |_G_ |_Nach dem Entscheid für eine Kursdurchführung innert 24 Std._ |_3_ |_3_
+|_nn_ |_Daten verschlüsselt übermitteln_ |_S_ |_Erfolgreiche Tests gemäss Testfallspezifikation_ |_5_ |_4_
+|_nn_ |_Die externen Zugriffe müssen geloggt werden_ |_S_ |_Erfolgreicher Nachweis nach Tests_ |_4_ |_4_
+|=========================================================================================================================================
+
+* Anf.-Art = Anforderungsart: G = Geschäftsorganisation, F = Funktional, Q = Qualität, S = Sicherheit, M= Migration, A= Architektur, B = Betrieb
+* Wichtigkeit: 5 = muss zwingend umgesetzt werden; 4 = sehr wichtig, 3 = wichtig, 2 = weniger wichtig, 1 = könnte weggelassen werden
+* Dringlichkeit: 5 = muss gemäss Termin zwingend umgesetzt sein, 4 = Termineinhaltung ist sehr wichtig, 2 = weniger wichtig, 1 = könnte weggelassen werden
+
+[[übersicht]]
+= Übersicht
+
+Eine grafische Übersicht des Systems hilft, die Detailanforderungen strukturiert zu erfassen. Die grafische Übersicht kann mit unterschiedlichen Techniken erstellt werden.
+
+[[technik-1-funktionsbaum]]
+== Technik 1: Funktionsbaum
+
+[[technik-2-use-case]]
+== Technik 2: Use-Case
+
+[[use-case-paket-diagramm]]
+=== Use-Case Paket-Diagramm
+
+image:templates/de/media/media/image2.png[image,width=604,height=332]
+
+[[use-case-diagramm]]
+=== Use-Case-Diagramm
+
+[[_Toc389058938]]image:templates/de/media/media/image3.png[image,width=475,height=266]
+
+[[detailanforderungen]]
+= Detailanforderungen
+
+[[anforderungen-der-geschäftsorganisation]]
+== Anforderungen der Geschäftsorganisation
+
+Organisationsanforderungen werden hier nicht beschrieben. Sie sind im Geschäftsorganisationskonzept dokumentiert.
+
+[[funktionale-anforderungen]]
+== Funktionale Anforderungen
+
+Es können unterschiedliche Techniken für die Beschreibung der Anforderungen verwendet werden.
+
+[[technik-1-beschreibung-mittels-allgemeinem-formular]]
+=== Technik 1: Beschreibung mittels allgemeinem Formular
+
+[cols=",",options="header",]
+|================================================================
+|Grobanfor­derung: _n_ |Anforderung: _n.nn_ |Quelle: |Autor:
+|Name |
+|Funktionale Kurz-beschreibung |
+|Input |Aus DB
+|Verarbeitungsschritte / -regeln a|
+1.
+
+2.
+
+3.
+
+|Output |
+|Abnahmekriterien |
+|Wichtigkeit (5-1): |Dringlichkeit (5-1): |Abhängigkeit zu:
+|Risiko/Kritikalität (5-1): |Aufwandgrösse (5-1) |Version |Status
+|================================================================
+
+[[technik-2-beschreibung-mittels-user-story-formular]]
+=== Technik 2: Beschreibung mittels User-Story-Formular
+
+[cols=",",options="header",]
+|===========================================================================
+|Grobanfor­derung: _n_ |Anforderung (US-Nr) |Quelle: |Autor:
+|Name |US-Name
+|Beschreibungen und Anmerkungen |
+|Abnahme - /Akzeptanzkriterien |
+|Als <Benutzerrolle> will ich <das Ziel> [, so dass <Grund für das Ziel>] a|
+1.
+
+2.
+
+3.
+
+|Wichtigkeit (5-1): |Dringlichkeit (5-1): |Abhängigkeit zu:
+|Risiko/Kritikalität (5-1): |Aufwandgrösse (5-1) |Version |Status
+|===========================================================================
+
+[[technik-3-beschreibung-mittels-use-case-formular]]
+=== Technik 3: Beschreibung mittels Use-Case Formular
+
+[cols=",",options="header",]
+|================================================================
+|Grobanfor­derung: _n_ |Anforderung (UC-Nr) |Quelle: |Autor:
+|Ersteller und Ansprechpartner |
+|Kurzbeschreibung
+|Fachlicher Auslöser (Ereignis)
+|Actors
+|Preconditions
+|Ablauf/Interaktion
+|Postconditions
+a|
+Sonderfälle (Alternativverläufe 1 - n)
+
+(inkl. Postconditions)
+
+|Abnahmekriterien |
+|Wichtigkeit (5-1): |Dringlichkeit (5-1): |Abhängigkeit zu:
+|Risiko/Kritikalität (5-1): |Aufwandgrösse (5-1) |Version |Status
+|================================================================
+
+[[qualitätsanforderungen]]
+== Qualitätsanforderungen
+
+Benutzerbezogene Nicht-funktionale Anforderungen wie Benutzerfreundlichkeit, Ergonomie, Antwortzeiten etc.
+
+[cols=",",options="header",]
+|================================================================
+|Grobanfor­derung: _n_ |Anforderung: _n.nn_ |Quelle: |Autor:
+|Name |
+|Beschreibung |
+|Abnahmekriterien |
+|Wichtigkeit (5-1): |Dringlichkeit (5-1): |Abhängigkeit zu:
+|Risiko/Kritikalität (5-1): |Aufwandgrösse (5-1) |Version |Status
+|================================================================
+
+[[section]]
+==
+
+[[anforderungen-zum-betriebskonzept]]
+== Anforderungen zum Betriebskonzept
+
+Betriebsbezogene Nicht-funktionale Anforderungen wie Zuverlässigkeit, Verfügbarkeit etc.
+
+[cols=",",options="header",]
+|================================================================
+|Grobanfor­derung: _n_ |Anforderung: _n.nn_ |Quelle: |Autor:
+|Name |
+|Beschreibung |
+|Abnahmekriterien |
+|Wichtigkeit (5-1): |Dringlichkeit (5-1): |Abhängigkeit zu:
+|Risiko/Kritikalität (5-1): |Aufwandgrösse (5-1) |Version |Status
+|================================================================
+
+[[anforderungen-zur-systemarchitektur]]
+== Anforderungen zur Systemarchitektur
+
+[cols=",",options="header",]
+|================================================================
+|Grobanfor­derung: _n_ |Anforderung: _n.nn_ |Quelle: |Autor:
+|Name |
+|Beschreibung |
+|Abnahmekriterien |
+|Wichtigkeit (5-1): |Dringlichkeit (5-1): |Abhängigkeit zu:
+|Risiko/Kritikalität (5-1): |Aufwandgrösse (5-1) |Version |Status
+|================================================================
+
+[[anforderungen-zum-migrationskonzept]]
+== Anforderungen zum Migrationskonzept
+
+Migrationsbezogene Anforderungen
+
+[cols=",",options="header",]
+|================================================================
+|Grobanfor­derung: _n_ |Anforderung: _n.nn_ |Quelle: |Autor:
+|Name |
+|Beschreibung |
+|Abnahmnkriterien |
+|Wichtigkeit (5-1): |Dringlichkeit (5-1): |Abhängigkeit zu:
+|Risiko/Kritikalität (5-1): |Aufwandgrösse (5-1) |Version |Status
+|================================================================
+
+[[anforderungen-aus-dem-isds-konzept]]
+== Anforderungen aus dem ISDS-Konzept
+
+Anforderungen der Informationssicherheit und des Datenschutzes
+
+[cols=",",options="header",]
+|================================================================
+|Grobanfor­derung: _n_ |Anforderung: _n.nn_ |Quelle: |Autor:
+|Name |
+|Beschreibung |
+|Abnahmekriterien |
+|Wichtigkeit (5-1): |Dringlichkeit (5-1): |Abhängigkeit zu:
+|Risiko/Kritikalität (5-1): |Aufwandgrösse (5-1) |Version |Status
+|================================================================
+
+[[section-1]]
+=

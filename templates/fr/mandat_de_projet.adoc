@@ -1,0 +1,198 @@
+Mandat de projet
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Situation de départ 2
+
+2 Objectifs 2
+
+3 Description de la solution 2
+
+4 Rapport à la stratégie et mise en application de directives 2
+
+5 Bases légales 3
+
+6 Moyens nécessaires 3
+
+7 Rentabilité 3
+
+8 Planification 3
+
+9 Organisation 4
+
+10 Risques 4
+
+11 Conséquences 4
+
+[[situation-de-départ]]
+=  +
+Situation de départ
+
+Référence à l’étude avec la variante choisie
+
+[[objectifs]]
+= Objectifs
+
+*Objectifs du système*
+
+[cols=",,,,",options="header",]
+|============================================================================================================================================================================================================================
+|N° |Catégorie |Description |Grandeur de mesure |Priorité
+|_1_ |_Positionnement sur le marché_ |_Réduction de la durée du processus entre la réception de la commande et la livraison_ |_Réduction de 4 jours actuellement à 3 jours; à partir d’un mois après la mise en service_ |_M_
+| | | | |
+|============================================================================================================================================================================================================================
+
+Légende: Priorité: O=obligatoire /1=haute, 2=moyenne, 3=basse
+
+*Objectifs de la démarche*
+
+[cols=",,,,",options="header",]
+|=====================================================================================================================================================================
+|N° |Catégorie |Description |Grandeur de mesure |Priorité
+|_1_ |_Qualité du déroulement du projet_ |_La faisabilité est attestée au moyen d’une installation de test._ |_Traitement sans erreur d’un cas commercial défini_ |_2_
+| | | | |
+|=====================================================================================================================================================================
+
+*Conditions générales*
+
+Texte
+
+*Délimitation*
+
+Texte
+
+[[description-de-la-solution]]
+= Description de la solution
+
+Description sommaire de la variante choisie, référence à l’étude
+
+[[rapport-à-la-stratégie-et-mise-en-application-de-directives]]
+= Rapport à la stratégie et mise en application de directives
+
+Rapport à la stratégie:
+
+* Rapport des objectifs du projet à la stratégie de l’organisation permanente
+
+Mise en application de directives:
+
+* Respect des directives de l’organisation permanente
+
+[[bases-légales]]
+= Bases légales
+
+Conclusion de l’analyse des bases légales
+
+[[moyens-nécessaires]]
+= Moyens nécessaires
+
+Coûts (CHF)
+
+[cols=",",options="header",]
+|====================
+|Phase |Planification
+|Initialisation* |
+|Conception |
+|Réalisation |
+|Déploiement |
+|Total |
+|====================
+
+*Prestation préalable (état effectif)
+
+Charges de personnel
+
+[cols=",",options="header",]
+|====================
+|Phase |Planification
+|Initialisation* |
+|Conception |
+|Réalisation |
+|Déploiement |
+|Total |
+|====================
+
+*Prestation préalable (état effectif)
+
+*Moyens matériels*
+
+Locaux, infrastructure informatique, logiciels spécifiques, etc.
+
+[[rentabilité]]
+= Rentabilité
+
+Selon les directives de l’organisation permanente: en règle générale, coûts et charge de travail pour le projet et l’exploitation, utilité (quantifiable, non quantifiable)
+
+[[planification]]
+= Planification
+
+Jalons et délais
+
+[cols=",",options="header",]
+|====================================
+|Jalons |Prévu le
+|_Libération du projet_ |_12.12.2015_
+| |
+|====================================
+
+[[organisation]]
+= Organisation
+
+[cols=",,,",options="header",]
+|==================================================================================================
+|Rôle dans l’organisation du projet |Nom |Abréviation |Fonction/Unité organisationnelle représentée
+|_Mandant_ |_Kurt Müller_ |_muk_ |_Resp. direction xyz_
+|_Comité de projet_ | | |
+|_Chef de projet_ | | |
+|_Responsable SIPD_ | | |
+|_Spécialiste représentant les utilisateurs_ | | |
+|_Spécialiste responsable des processus métier_ | | |
+| | | |
+|==================================================================================================
+
+[[risques]]
+= Risques
+
+[cols=",,,,,,,",options="header",]
+|======================================================================================================
+|N° |Description du risque |PS |DI |FR |Mesures |Responsable |Délai
+|_R1_ |_Système informatique pas assez performant_ |_2_ |_3_ |_6_ |_Tests de performance_ |CP |01.01.01
+| | | | | | | |
+|======================================================================================================
+
+Légende: PS=probabilité de survenue: 1 basse / 2 moyenne / 3 haute; DI=degré d’impact: 1 faible / 2 moyen / 3 grand, FR=facteur de risque
+
+[[conséquences]]
+= Conséquences
+
+*En cas de libération du projet*
+
+Texte
+
+*Si le projet n’est pas libéré ou ne l’est qu’ultérieurement*
+
+Texte
+
+[[section]]
+=

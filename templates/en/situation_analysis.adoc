@@ -1,0 +1,116 @@
+Situation Analysis
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Description of Current System 2
+
+1.1 Documentation 2
+
+1.2 System Description 2
+
+1.2.1 Description of System Landscape and System Architecture 2
+
+1.2.2 System: S01 _System Name_ 2
+
+1.3 Description of Organizational Structure 3
+
+2 Analysis of Strengths and Weaknesses 3
+
+[[description-of-current-system]]
+=  +
+Description of Current System
+
+Narrative description explaining the current system
+
+[[documentation]]
+== Documentation
+
+Documentation on system and organization
+
+[cols=",",options="header",]
+|============================================================================================
+|Document Title |Description
+|_V7 User Manual_ |_Describes the IT application including user cases and practical examples_
+| |
+|============================================================================================
+
+*Requirements*
+
+[cols=",",options="header",]
+|==============================================================================================================
+|Document Title |Description
+|_Security Instructions_ |_Description of requirements with regard to information security and data protection_
+| |
+|==============================================================================================================
+
+[[system-description]]
+== System Description
+
+[[description-of-system-landscape-and-system-architecture]]
+=== Description of System Landscape and System Architecture
+
+Text and Visuals
+
+[[system-s01-system-name]]
+=== System: S01 _System Name_
+
+Technical details of nnn system
+
+[cols=",",options="header",]
+|=======================================================
+|Item |Details
+|Architecture Model |_3-tier architecture, xyz standard_
+|Software |_xyz Standard IT application_
+|Location |_Bern_
+|Operator |_Internal operation_
+|Supplier |_xyz_
+|Developer |_aaa_
+|User |_132_
+|Size of Database |_6.5 GB_
+|Operating Costs in nn (year) |_32,000_
+|Other Operating Costs |_Paper: 25,000 p.a._
+|Total Development Costs |_370,000_
+|Support Costs in nn (year) |_55,000_
+|Investment from Launch to Current Date |_490,000_
+|=======================================================
+
+[[description-of-organizational-structure]]
+== Description of Organizational Structure
+
+Organizational chart, description of functions, process map, current process description, quantity structure of business events, employees, customers, etc.
+
+[[analysis-of-strengths-and-weaknesses]]
+= Analysis of Strengths and Weaknesses
+
+*Strengths*
+
+Text
+
+*Weaknesses*
+
+[cols=",,,",options="header",]
+|=================================================================================================================================================================
+|No. |Description |Evaluation |Cause
+|_01_ |_Inefficient handling of abc business process_ |_High potential for optimization if processing time is improved_ |_Lack of functionality in IT application_
+| | | |
+|=================================================================================================================================================================

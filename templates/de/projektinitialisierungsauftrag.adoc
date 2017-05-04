@@ -1,0 +1,129 @@
+Projektinitialisierungsauftrag
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Ausgangslage 2
+
+2 Ziele 2
+
+3 Rahmenbedingungen 2
+
+4 Ergebnisse und Termine 2
+
+5 Aufwand 2
+
+6 Kosten 2
+
+7 Ressourcen 3
+
+8 Kommunikation 3
+
+9 Risiken 3
+
+[[ausgangslage]]
+=  +
+Ausgangslage
+
+Anlass für die Projektinitialisierung
+
+[[ziele]]
+= Ziele
+
+Ziele der Phase Initialisierung
+
+[[rahmenbedingungen]]
+= Rahmenbedingungen
+
+Rahmenbedingungen Phase Initialisierung
+
+* Anwendung von HERMES
+* Vorgaben für die Durchführung der Phase Initialisierung (z.B. Kostenrahmen, Ecktermine)
+
+[[ergebnisse-und-termine]]
+= Ergebnisse und Termine
+
+Ergebnisse der Phase Initialisierung
+
+[cols=",,",options="header",]
+|================================================================
+|Nr |Ergebnis |Termin
+|1 |_Stakeholder Liste_ |
+|2 |_Studie_ |
+|3 |_Rechtsgrundlagenanalyse_ |
+|4 |_Schutzbedarfsanalyse_ |
+|5 |_Entscheid zur Variantenwahl (mit Checkliste)_ |
+|6 |_Projektmanagementplan_ |
+|7 |_Projektauftrag_ |
+|8 |_Entscheid Projektauftrag (mit Checkliste Projektfreigabe)_ |
+|================================================================
+
+[[aufwand]]
+= Aufwand
+
+Geschätzter Personalaufwand
+
+[[kosten]]
+= Kosten
+
+Geschätzte Kosten der Phase Initialisierung
+
+[cols=",",options="header",]
+|=======================
+|Phase |Geplant
+|Initialisierung |10’000
+|=======================
+
+[[ressourcen]]
+= Ressourcen
+
+*Personalressourcen*
+
+[cols=",,,,,,,",options="header",]
+|============================================================================================
+|Rolle / Person |Monat 1 |Monat 2 |Monat 3 |Monat 4 |Monat 5 |Total |Bestätigung Vorgesetzter
+|Name | | | | | | |
+|Name | | | | | | |
+|============================================================================================
+
+*Sachmittel*
+
+Räume, IT-Infrastruktur, Spezifische Software, etc.
+
+[[kommunikation]]
+= Kommunikation
+
+Reporting während der Phase Initialisierung, Information Auftraggeber,
+
+Information der Betroffenen Stellen und Stakeholder
+
+[cols=",,,,,",options="header",]
+|==============================================================================================================================================================================
+|Adressat der Information |Verantwort­lich für die Kommunikation |Inhalt |Ziel |Mittel / Medium |Termin
+|_Abteilungsleiter_ |_Auftraggeber_ |_Ziel und Planung der Projektinitialisierung_ |_Die Abteilungen kennen den Auftrag an den Projektleiter_ |_Abteilungsmeeting_ |_12.3.2015_
+| | | | | |
+|==============================================================================================================================================================================
+
+[[risiken]]
+= Risiken
+
+Risiken der Phase Initialisierung

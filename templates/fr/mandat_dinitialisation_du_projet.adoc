@@ -1,0 +1,138 @@
+Mandat d’initialisation du projet
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Situation de départ 2
+
+2 Objectifs 2
+
+3 Conditions générales 2
+
+4 Résultats et délais 2
+
+5 Charge de travail 2
+
+6 Coûts 2
+
+7 Ressources 3
+
+8 Communication 3
+
+9 Risques 3
+
+[[situation-de-départ]]
+=  +
+Situation de départ
+
+Raison de l’initialisation du projet
+
+[[objectifs]]
+= Objectifs
+
+Objectifs de la phase initialisation
+
+[[conditions-générales]]
+= Conditions générales
+
+Conditions générales de la phase initialisation
+
+* Utilisation de HERMES
+* Directives pour l’exécution de la phase initialisation
+
+Conditions générales de la phase initialisation
+
+* Directives pour l’exécution du projet (p. ex. cadre de coûts, jalons)
+
+[[résultats-et-délais]]
+= Résultats et délais
+
+Résultats de la phase initialisation
+
+[cols=",,",options="header",]
+|============================================================================================
+|N° |Résultat |Délai
+|1 |_Liste des parties prenantes_ |
+|2 |_Etude_ |
+|3 |_Analyse des bases légales_ |
+|4 |_Analyse des besoins de protection_ |
+|5 |_Décision concernant le choix d’une variante (avec liste de contrôle)_ |
+|6 |_Plan de gestion du projet_ |
+|7 |_Mandat de projet_ |
+|8 |_Décision concernant le mandat de projet (avec liste de contrôle Libération du projet)_ |
+|============================================================================================
+
+[[charge-de-travail]]
+= Charge de travail
+
+Charge de personnel estimée
+
+[[coûts]]
+= Coûts
+
+Coûts estimés pour la phase initialisation
+
+[cols=",",options="header",]
+|======================
+|Phase |Planifié
+|Initialisation |10’000
+|======================
+
+[[ressources]]
+= Ressources
+
+*Ressources en personnel*
+
+[cols=",,,,,,,",options="header",]
+|=========================================================================================
+|Rôle / Personne |Mois 1 |Mois 2 |Mois 3 |Mois 4 |Mois 5 |Total |Confirmation du supérieur
+|Nom | | | | | | |
+|Nom | | | | | | |
+|=========================================================================================
+
+*Moyens matériels*
+
+Locaux, infrastructure informatique, logiciels spécifiques, etc.
+
+[[communication]]
+= Communication
+
+Reporting pendant la phase initialisation, information du mandant,
+
+information des services concernés et des parties prenantes
+
+[cols=",,,,,",options="header",]
+|=============================================================================================================================================================================================
+|Destinataire de l’information |Responsable de la communication |Contenu |Objectif |Moy-en / Support |Délai
+|_Chef de division_ |_Mandant_ |_Objectif et planification de l’initialisation du projet_ |_Les divisions connaissent le mandat donné au chef de projet_ |_Réu-nion de divi-sion_ |_12.3.2015_
+| | | | | |
+|=============================================================================================================================================================================================
+
+[[risques]]
+= Risques
+
+Risques de la phase initialisation
+
+[[section]]
+=

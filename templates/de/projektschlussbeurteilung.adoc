@@ -1,0 +1,195 @@
+Projektschlussbeurteilung
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Ausgangslage 2
+
+2 Beurteilung der Zielerreichung 2
+
+3 Wirtschaftlichkeit 2
+
+4 Soll/Ist-Vergleich 2
+
+4.1 Termine 2
+
+4.2 Kosten 3
+
+4.3 Aufwand 3
+
+4.4 Ergebnisse 3
+
+5 Projekterfahrung 4
+
+6 Pendenzen und Massnahmen 4
+
+7 Antrag 4
+
+[[ausgangslage]]
+=  +
+Ausgangslage
+
+Beschreibung, Hinweis auf Studie und Situationsanalyse
+
+[[beurteilung-der-zielerreichung]]
+= Beurteilung der Zielerreichung
+
+*Systemziele*
+
+[cols=",,,,,",options="header",]
+|================================================================================================================================================================================================
+|Nr |Kategorie |Beschreibung |Messgrösse |Prio­rität |Erreichungs­grad
+|_1_ |_Marktpositionierung_ |_Reduktion der Prozessdurchlaufzeit ab Bestelleingang bis Auslieferung_ |_Von heute 4 Tagen auf 3 Tage reduziert; ab einem Monat nach Betriebsaufnahme_ |_M_ |_100%_
+| | | | | |
+|================================================================================================================================================================================================
+
+Legende: Priorität: M=Muss /1=hoch, 2=mittel, 3=tief
+
+*Vorgehensziele*
+
+[cols=",,,,,",options="header",]
+|========================================================================================================================================================================
+|Nr |Kategorie |Beschreibung |Messgrösse |Priorität |Erreichungs­grad
+|_1_ |_Qualität der Projektabwicklung_ |_Machbarkeit wird mit einer Testinstallation bewiesen._ |_Fehlerfreie Bearbeitung eines definierten Geschäftsfalles_ |_2_ |_100%_
+| | | | | |
+|========================================================================================================================================================================
+
+Beurteilung zu notwendigen Folgemassnahmen, falls Ziele nicht erreicht wurden.
+
+[[wirtschaftlichkeit]]
+= Wirtschaftlichkeit
+
+Beurteilung der Wirtschaftlichkeit (gemäss den Vorgaben der Stammorganisation)
+
+* Geplante und effektive/voraussichtliche Kosten und Aufwand für Projekt und Betrieb
+* Geplanter und effektiver/voraussichtlicher Nutzen
+
+[[sollist-vergleich]]
+= Soll/Ist-Vergleich
+
+[[termine]]
+== Termine
+
+[cols=",,",options="header",]
+|=================================================
+|Meilensteine |Plandatum |IST-Datum
+|_Freigabe Projektauftrag_ | |_5.1.2015_
+|_Systemarchitektur_ |_30.3.2015_ |_14.3.2015_
+|_Freigabe Realisierung_ |_30.5.2015_ |_20.5.2015_
+|=================================================
+
+Erläuterung von Abweichungen
+
+[[kosten]]
+== Kosten
+
+Kosten (CHF)
+
+[cols=",,,",options="header",]
+|======================================
+|Phase |Geplant |IST |Abweichung
+|Initialisierung |10’000 |9’000 |-1’000
+|Konzept | | |
+|Realisierung | | |
+|Einführung | | |
+|Total | | |
+|======================================
+
+Erläuterung von Abweichungen
+
+[[aufwand]]
+== Aufwand
+
+Personalaufwand
+
+[cols=",,,",options="header",]
+|===============================
+|Phase |Geplant |IST |Abweichung
+|_Initialisierung_ |20 |17 |-3
+|Konzept | | |
+|Realisierung | | |
+|Einführung | | |
+|Total | | |
+|===============================
+
+Erläuterung von Abweichungen
+
+[[ergebnisse]]
+== Ergebnisse
+
+[cols=",,,",options="header",]
+|======================================
+|Phase |Geplant |IST |Abweichung
+|_Studie_ |1.12.2015 |_4.12.2015_ |_+3_
+|_Ergebnis 2_ | | |
+|_Ergebnis 3_ | | |
+|======================================
+
+[[projekterfahrung]]
+= Projekterfahrung
+
+[cols=",,,,",options="header",]
+|=========================================================================================================
+|Nr |Bereich |Erfahrung |Relevanz |Empfehlung
+|_1_ |_Beschaffung_ |_Beratung durch Beschaffungsstelle bei der Beschaffungsplanung war sehr hilfreich_ a|
+_Andere Projekte;_
+
+_Kompetenzzentrum PM_
+
+ |_In Checkliste xyz aufnehmen_
+| | | | |
+|=========================================================================================================
+
+[[pendenzen-und-massnahmen]]
+= Pendenzen und Massnahmen
+
+*Pendenzen aus dem Projekt*
+
+[cols=",,,,",options="header",]
+|=======================================================================================================================================
+|Nr |Offener Punkt |Massnahme |Verantwortlich |Termin
+|_1_ |_Übergabe Testsystem und Hilfsmittel an Anwendungsverantwortlichen_ |_Übergabe durchführen_ |_Name des Mitarbeiters_ |_15.12.2015_
+| | | | |
+|=======================================================================================================================================
+
+*Weitere Massnahmen nach Projektabschluss*
+
+[cols=",,,",options="header",]
+|=========================================================================
+|Nr |Massnahme |Verantwortlich |Termin
+|_1_ a|
+_Kontrolle des Projekterfolgs (nach einer Betriebszeit von nn Monaten):_
+
+_Ermittlung der effektiven Wirtschaftlichkeit in einer Nachkalkulation_
+
+_Ermittlung der effektiven Nachhaltigkeit in einem Nachhaltigkeitsbericht_
+
+_Kundenzufriedenheit ermitteln und analysieren; Bericht an Stelle xyz_
+
+ |_Name des Mitarbeiters_ |_30.5.2016_
+| | | |
+|=========================================================================
+
+[[antrag]]
+= Antrag
+
+Antrag zum Projektabschluss

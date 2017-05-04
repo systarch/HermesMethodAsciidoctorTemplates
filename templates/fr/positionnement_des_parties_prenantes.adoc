@@ -1,0 +1,52 @@
+Intérêts des parties prenantes
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Parties prenantes *Erreur ! Signet non défini.*
+
+[[positionnement-des-parties-prenantes]]
+=  +
+Positionnement des parties prenantes
+
+[[section]]
+=
+
+[[section-1]]
+=
+
+[[section-2]]
+=
+
+[[description-des-parties-prenantes]]
+= Description des parties prenantes
+
+[cols=",,,,,,,,",options="header",]
+|=========================================================================================================================================================================================
+|Organi­sation |Nom |Langue |Fonction |Domaine de connaissance |Influence |Motivation |Intégration / rôle dans le projet |Disponibilité
+|_Office xy_ |_yxyx_ |_D, F_ |_Controller_ |_Spécialiste achats_ |_Directe / Indirecte_ |_Profite de la nouvelle solution_ |_Représentant de l’organisation permanente_ |_Absent mai-juin_
+|=========================================================================================================================================================================================
+
+[[section-3]]
+=

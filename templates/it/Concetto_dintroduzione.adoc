@@ -1,0 +1,73 @@
+Documento per la concezione dell’integrazione
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|====================================
+|Datanull |Versione |Modifica |Autore
+| | | |
+| | | |
+|====================================
+
+Indice
+
+1 Panoramica del sistema e oggetti dell‘integrazione 2
+
+2 Interfacce 2
+
+3 Ambienti dell‘integrazione 2
+
+4 Procedimento d‘integrazione 2
+
+5 Condizioni quadro e dipendenze 2
+
+6 Organizzazione dell‘integrazione 2
+
+7 Procedure e processi di trasporto 2
+
+8 Garanzia della qualità 2
+
+[[panoramica-del-sistema-e-oggetti-dellintegrazione]]
+= Panoramica del sistema e oggetti dell‘integrazione
+
+[[interfacce]]
+= Interfacce
+
+[[ambienti-dellintegrazione]]
+= Ambienti dell‘integrazione
+
+[[procedimento-dintegrazione]]
+= Procedimento d‘integrazione
+
+Tappe d’integrazione con misure
+
+[[condizioni-quadro-e-dipendenze]]
+= Condizioni quadro e dipendenze
+
+[[organizzazione-dellintegrazione]]
+= Organizzazione dell‘integrazione
+
+[cols=",,",options="header",]
+|===========================
+|Ruolo |Nome |Organizzazione
+| | |
+| | |
+|===========================
+
+[[procedure-e-processi-di-trasporto]]
+= Procedure e processi di trasporto
+
+[[garanzia-della-qualità]]
+= Garanzia della qualità
+
+Descrizione delle misure di garanzia della qualità

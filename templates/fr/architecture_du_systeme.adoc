@@ -1,0 +1,90 @@
+Architecture du système
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Aperçu et structure du système 2
+
+1.1 Aperçu 2
+
+1.2 Sous-systèmes et composantes 2
+
+1.3 Architectures / Modèles 2
+
+2 Interfaces et délimitation 2
+
+3 Faisabilité 2
+
+4 Conformité avec des directives 2
+
+5 Attribution et couverture des exigences 2
+
+1.  [[aperçu-et-structure-du-système]]
+=  +
+Aperçu et structure du système
+1.  [[aperçu]]
+== Aperçu
+
+Diagrammes d’ensemble selon les méthodes du producteur
+
+[[sous-systèmes-et-composantes]]
+== Sous-systèmes et composantes
+
+Représentation de la structure du système selon les méthodes du producteur
+
+[[architectures-modèles]]
+== Architectures / Modèles
+
+Référence aux études détaillées
+
+Suivant le résultat du projet. Par exemple modèle des processus métier, modèle des fonctions (p. ex. avec cas d’utilisation/user stories), architecture des données/modèle de données, etc.
+
+Architecture technique du système informatique
+
+Produits utilisés, versions
+
+[[interfaces-et-délimitation]]
+= Interfaces et délimitation
+
+Interfaces envers les systèmes environnants
+
+Référence au concept d’intégration
+
+[[faisabilité]]
+= Faisabilité
+
+Evaluation de la faisabilité, référence à la documentation du prototypage
+
+[[attribution-et-couverture-des-exigences]]
+= Attribution et couverture des exigences
+
+[cols=",,,,",options="header",]
+|============================================================================================================================
+|ID |Catégorie d’exigence |Description |Attribution à un sous-système / Composants |Evaluation de la couverture de l’exigence
+| | | | |
+| | | | |
+|============================================================================================================================
+
+[[section]]
+=

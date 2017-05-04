@@ -1,0 +1,197 @@
+Valutazione finale del progetto
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Situazione iniziale 2
+
+2 Valutazione del raggiungimento degli obiettivi 2
+
+3 Redditività 2
+
+4 Confronto situazione attuale/situazione auspicata 2
+
+4.1 Scadenze 2
+
+4.2 Costi 3
+
+4.3 Carico di lavoro 3
+
+4.4 Risultati 3
+
+5 Esperienze del progetto 4
+
+6 Pendenze e misure 4
+
+7 Richiesta 4
+
+[[situazione-iniziale]]
+= Situazione iniziale
+
+Descrizione, riferimento allo studio e all’analisi della situazione
+
+[[valutazione-del-raggiungimento-degli-obiettivi]]
+= Valutazione del raggiungimento degli obiettivi
+
+*Obiettivi di sistema*
+
+[cols=",,,,,",options="header",]
+|====================================================================================================================================================================================================================================================
+|Nr |Categoria |Descrizione |Unità di misura |Priorità |Grado di raggiungimento
+|_1_ |_Posizionamento sul mercato_ |_Riduzione del tempo di svolgimento del processo, a partire dall’entrata dell’ordine fino alla consegna_ |_Dagli attuali 4 giorni si è ridotto a 3; a partire da un mese dopo la messa in esercizio_ |_O_ |_100%_
+| | | | | |
+|====================================================================================================================================================================================================================================================
+
+Legenda: priorità: O=obbligatorio /1=alta, 2=media, 3=bassa
+
+*Obiettivi procedurali*
+
+[cols=",,,,,",options="header",]
+|===============================================================================================================================================================================
+|Nr |Categoria |Descrizione |Unità di misura |Priorità |Grado di raggiungimento
+|_1_ |_Qualità dell’esecuzione del progetto_ |_Fattibilità dimostrata mediante un’installazione di test_ |_Elaborazione senza errori di un caso aziendale definito_ |_2_ |_100%_
+| | | | | |
+|===============================================================================================================================================================================
+
+Valutazione delle misure necessarie in caso di un mancato raggiungimento degli obiettivi.
+
+[[redditività]]
+= Redditività
+
+Valutazione della redditività (secondo le direttive dell’organizzazione permanente)
+
+* Costi e carico di lavoro pianificato ed effettivo/prevedibile per il progetto e l’esercizio
+* Utilità pianificata ed effettiva/prevedibile
+
+[[confronto-situazione-attualesituazione-auspicata]]
+= Confronto situazione attuale/situazione auspicata
+
+[[scadenze]]
+== Scadenze
+
+[cols=",,",options="header",]
+|=====================================================
+|Milestone |Data pianificata |Data attuale
+|_Avvio del mandato del progetto_ | |_5.1.2015_
+|_Architettura del sistema_ |_30.3.2015_ |_14.3.2015_
+|_Avvio della realizzazione_ |_30.5.2015_ |_20.5.2015_
+|=====================================================
+
+Spiegazione delle differenze
+
+[[costi]]
+== Costi
+
+Costi (CHF)
+
+[cols=",,,",options="header",]
+|======================================
+|Fase |Pianificati |Attuali |Differenza
+|Avvio |10’000 |9’000 |-1’000
+|Concezione | | |
+|Realizzazione | | |
+|Introduzione | | |
+|Totale | | |
+|======================================
+
+Spiegazione delle differenze
+
+[[carico-di-lavoro]]
+== Carico di lavoro
+
+Carico di lavoro del personale
+
+[cols=",,,",options="header",]
+|======================================
+|Fase |Pianificato |Attuale |Differenza
+|Avvio |20 |17 |-3
+|Concezione | | |
+|Realizzazione | | |
+|Introduzione | | |
+|Totale | | |
+|======================================
+
+Spiegazione delle differenze
+
+[[risultati]]
+== Risultati
+
+[cols=",,,",options="header",]
+|======================================
+|Fase |Pianificati |Attuali |Differenza
+|_Studio_ |1.12.2015 |_4.12.2015_ |_+3_
+|_Risultato 2_ | | |
+|_Risultato 3_ | | |
+|======================================
+
+[[esperienze-del-progetto]]
+= Esperienze del progetto
+
+[cols=",,,,",options="header",]
+|=====================================================================================================================================
+|Nr |Settore |Esperienza |Rilevanza |Indicazioni
+|_1_ |_Acquisti_ |_La consulenza del servizio acquisti, a proposito della pianificazione degli acquisti, si è rivelata molto utile_ a|
+_Altri progetti;_
+
+_Project Management Office (PMO)_
+
+ |_Registrare nella lista di controllo xyz_
+| | | | |
+|=====================================================================================================================================
+
+[[pendenze-e-misure]]
+= Pendenze e misure
+
+*Pendenze dal progetto*
+
+[cols=",,,,",options="header",]
+|====================================================================================================================================================
+|Nr |Punti aperti |Misura |Responsabile |Scadenza
+|_1_ |_Consegna del sistema di test e degli strumenti al responsabile dell‘applicazione_ |_Consegna eseguita_ |_Nome del collaboratore_ |_15.12.2015_
+| | | | |
+|====================================================================================================================================================
+
+*Altre misure dopo la fine del progetto*
+
+[cols=",,,",options="header",]
+|===============================================================================
+|Nr |Misura |Responsabile |Scadenza
+|_1_ a|
+_Controllo del successo del progetto (dopo un periodo d’esercizio di nn mesi):_
+
+_Rilevare e analizzare la soddisfazione del cliente; rapporto al servizio xyz_
+
+ |_Nome del collaboratore_ |_30.5.2016_
+| a|
+_Valutazione della redditività effettiva in un calcolo retrospettivo_
+
+_Valutazione della sosteni-bilità effettiva in un rapporto sulla so-stenibilità_
+
+_Rilevare e analizzare la soddisfazione del cliente; rapporto al servizio xyz_
+
+ | |
+|===============================================================================
+
+[[richiesta]]
+= Richiesta
+
+Richiesta di chiusura del progetto

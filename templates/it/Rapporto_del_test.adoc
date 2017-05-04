@@ -1,0 +1,52 @@
+Rapporto del test
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Casi di test 2
+
+2 Esecuzione del test e risultato del test 2
+
+[[casi-di-test]]
+= Casi di test
+
+Riferimento alla concetto del test
+
+[cols=",",options="header",]
+|=============================
+|ID / Denominazione |_T-001_ |
+|Descrizione |
+|Presupposti del test |
+|Tappe del test |
+|Risultato atteso |
+|=============================
+
+[[esecuzione-del-test-e-risultato-del-test]]
+= Esecuzione del test e risultato del test
+
+[cols=",",options="header",]
+|=======================================
+|Tester |
+|Data dell’esecuzione del test |
+|Classi di errore (risultato del test) |
+|Descrizione del test |
+|=======================================

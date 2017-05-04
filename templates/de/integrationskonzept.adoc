@@ -1,0 +1,74 @@
+Integrationskonzept
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Systemübersicht und Integrationsobjekte 2
+
+2 Schnittstellen 2
+
+3 Integrationsumgebungen 2
+
+4 Integrationsvorgehen 2
+
+5 Rahmenbedingungen und Abhängigkeiten 2
+
+6 Integrationsorganisation 2
+
+7 Transportkonzept und –prozesse 2
+
+8 Qualitätssicherung 2
+
+[[systemübersicht-und-integrationsobjekte]]
+=  +
+Systemübersicht und Integrationsobjekte
+
+[[schnittstellen]]
+= Schnittstellen
+
+[[integrationsumgebungen]]
+= Integrationsumgebungen
+
+[[integrationsvorgehen]]
+= Integrationsvorgehen
+
+Integrationsschritte mit Massnahmen
+
+[[rahmenbedingungen-und-abhängigkeiten]]
+= Rahmenbedingungen und Abhängigkeiten
+
+[[integrationsorganisation]]
+= Integrationsorganisation
+
+[cols=",,",options="header",]
+|=========================
+|Rolle |Name |Organisation
+| | |
+| | |
+|=========================
+
+[[transportkonzept-und-prozesse]]
+= Transportkonzept und –prozesse
+
+[[qualitätssicherung]]
+= Qualitätssicherung
+
+Beschreibung der QS-Massnahmen

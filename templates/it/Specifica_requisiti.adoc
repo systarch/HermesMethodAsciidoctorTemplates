@@ -1,0 +1,96 @@
+Capitolato d'oneri
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Situazione iniziale 2
+
+2 Stato auspicato 2
+
+2.1 Obiettivi e requisiti 2
+
+2.2 Criteri obbligatori per l’idoneità e per la specifica tecnica 2
+
+2.3 Criteri facoltativi per la qualificazione 2
+
+2.4 Ambito 2
+
+2.5 Prezzo 2
+
+3 Scadenze 2
+
+4 Offerta 2
+
+4.1 Indicazioni generali riguardo all‘offerta 2
+
+4.2 Tassonomia dei criteri di aggiudicazione 2
+
+4.3 Struttura dell‘offerta 2
+
+4.4 Presentazione e trattativa 2
+
+5 Allegati 2
+
+[[situazione-iniziale]]
+= Situazione iniziale
+
+[[stato-auspicato]]
+= Stato auspicato
+
+[[obiettivi-e-requisiti]]
+== Obiettivi e requisiti
+
+[[criteri-obbligatori-per-lidoneità-e-per-la-specifica-tecnica]]
+== Criteri obbligatori per l’idoneità e per la specifica tecnica
+
+[[criteri-facoltativi-per-la-qualificazione]]
+== Criteri facoltativi per la qualificazione
+
+[[ambito]]
+== Ambito
+
+[[prezzo]]
+== Prezzo
+
+[[scadenze]]
+= Scadenze
+
+Riferimento allo svolgimento dell‘acquisto
+
+[[offerta]]
+= Offerta
+
+[[indicazioni-generali-riguardo-allofferta]]
+== Indicazioni generali riguardo all‘offerta
+
+[[tassonomia-dei-criteri-di-aggiudicazione]]
+== Tassonomia dei criteri di aggiudicazione
+
+[[struttura-dellofferta]]
+== Struttura dell‘offerta
+
+[[presentazione-e-trattativa]]
+== Presentazione e trattativa
+
+[[allegati]]
+= Allegati
+
+Formulari, fogli d‘istruzione, condizioni generali di contratto, modello di contratto, catalogo dei criteri, piani/studi/descrizione della prestazione

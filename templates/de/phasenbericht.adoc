@@ -1,0 +1,148 @@
+Phasenbericht
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Ausgangslage 2
+
+2 Ziele und Lösungen 2
+
+3 Strategiebezug und Umsetzung von Vorgaben 2
+
+4 Rechtliche Grundlagen 3
+
+5 Nutzen und Wirtschaftlichkeit 3
+
+6 Planung 3
+
+7 Organisation 3
+
+8 Risiken 3
+
+9 Antrag 3
+
+10 Beilagen 4
+
+[[ausgangslage]]
+=  +
+Ausgangslage
+
+Zusammenfassung des bisherigen Projektablaufs.
+
+[[ziele-und-lösungen]]
+= Ziele und Lösungen
+
+*Systemziele*
+
+[cols=",,,,,",options="header",]
+|================================================================================================================================================================================================
+|Nr |Kategorie |Beschreibung |Messgrösse |Priorität |Prognose Erreichungs­grad
+|_1_ |_Marktpositionierung_ |_Reduktion der Prozessdurchlaufzeit ab Bestelleingang bis Auslieferung_ |_Von heute 4 Tagen auf 3 Tage reduziert; ab einem Monat nach Betriebsaufnahme_ |_M_ |_100%_
+| | | | | |
+|================================================================================================================================================================================================
+
+Legende: Priorität: M=Muss /1=hoch, 2=mittel, 3=tief
+
+*Vorgehensziele*
+
+[cols=",,,,,",options="header",]
+|========================================================================================================================================================================
+|Nr |Kategorie |Beschreibung |Messgrösse |Priorität |Prognose Erreichungs­grad
+|_1_ |_Qualität der Projektabwicklung_ |_Machbarkeit wird mit einer Testinstallation bewiesen._ |_Fehlerfreie Bearbeitung eines definierten Geschäftsfalles_ |_2_ |_100%_
+| | | | | |
+|========================================================================================================================================================================
+
+*Lösungsbeschreibung*
+
+Grobe Beschreibung der Variante, Hinweis auf Studie oder Projektauftrag
+
+[[strategiebezug-und-umsetzung-von-vorgaben]]
+= Strategiebezug und Umsetzung von Vorgaben
+
+Hinweis auf Projektauftrag
+
+Strategiebezug:
+
+* Sind die Projektziele noch in Übereinstimmung mit der Strategie der Stammorganisation?
+
+Umsetzung von Vorgaben:
+
+* Sind die Vorgaben eingehalten oder gibt es Abweichungen?
+
+[[rechtliche-grundlagen]]
+= Rechtliche Grundlagen
+
+Hinweis auf Projektauftrag
+
+Erläuterung von Veränderungen bezüglich Rechtsgrundlagen oder Bestätigung der weiteren Gültigkeit.
+
+[[nutzen-und-wirtschaftlichkeit]]
+= Nutzen und Wirtschaftlichkeit
+
+Hinweis auf Projektauftrag
+
+Neuberechnung der Wirtschaftlichkeit gemäss den Vorgaben der Stammorganisation: in der Regel Kosten und Aufwand für Projekt und Betrieb, Nutzen (quantifizierbar, nicht quantifizierbar)
+
+[[planung]]
+= Planung
+
+Hinweis auf Statusbericht bezüglich Termin, Kosten, Personalaufwand und Ergebnisse
+
+[[organisation]]
+= Organisation
+
+*Organisation nächste Phase*
+
+Hinweis auf Projektmanagementplan
+
+[cols=",,,",options="header",]
+|========================================================================================
+|Rolle in der Projektorganisation |Name |Kürzel |Funktion/Vertretene Organisationseinheit
+|_Auftraggeber_ |_Kurt Müller_ |_muk_ |_Leiter Direktion xyz_
+|_Projektausschuss_ | | |
+|_Projektleiter_ | | |
+|_ISDS-Verantwortlicher_ | | |
+|_Fachspezialist Anwendervertreter_ | | |
+|_Fachspezialist Geschäftsprozess­verantwortlicher_ | | |
+| | | |
+|========================================================================================
+
+[[risiken]]
+= Risiken
+
+Hinweis auf Statusbericht
+
+[[antrag]]
+= Antrag
+
+Antrag zur Genehmigung des Phasenberichts
+
+Antrag zum Abschluss der aktuellen Phase
+
+Antrag zur Freigabe der nächsten Phase
+
+[[beilagen]]
+= Beilagen
+
+Projektstatusbericht

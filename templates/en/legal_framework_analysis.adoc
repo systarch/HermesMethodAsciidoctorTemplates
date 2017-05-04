@@ -1,0 +1,62 @@
+Analysis of Legal Framework
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Existing Legal Framework 2
+
+2 Upcoming Changes 2
+
+3 Identified Gaps 2
+
+4 Suggestions for Filling Potential Gaps 2
+
+5 Evaluation of Consequences 2
+
+6 Recommendation 2
+
+[[existing-legal-framework]]
+=  +
+Existing Legal Framework
+
+Provide information about the current legal framework which is relevant for the new system. Data protection and information security requirements do not have to be included.
+
+[[upcoming-changes]]
+= Upcoming Changes
+
+List any upcoming changes to the legal framework that may be relevant for the new system and indicate trends. Such changes may result in increased technical or other requirements for the IT project. At the same time, they are often an opportunity for closing gaps in the legal framework (see Points 4 and 5 below).
+
+[[identified-gaps]]
+= Identified Gaps
+
+By comparing the current legal framework with upcoming changes, if any, as well as with system requirements, gaps can be identified and filled by means of a legislation project. It must be kept in mind that in the course of its implementation, an IT project may change as it is reinterpreted or expanded. As a result, it may no longer be covered by the existing legal framework. It may thus be worthwhile to take precautions in order to prevent delays in introducing a new IT solution due to gaps in the legal framework.
+
+[[suggestions-for-filling-potential-gaps]]
+= Suggestions for Filling Potential Gaps
+
+When a gap has been identified, a legislative concept must be designed (legislation to be changed, key legislative content) and a project organization established in order to fill the gap in question. Existing instructions and resources must be taken into account.
+
+[[evaluation-of-consequences]]
+= Evaluation of Consequences
+
+[[recommendation]]
+= Recommendation

@@ -1,0 +1,106 @@
+Einführungskonzept
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Ausgangslage 2
+
+2 Auswirkung auf die Organisation 2
+
+3 Einführungsvorgehen 2
+
+4 Einführungsmassnahmen 2
+
+5 Einführungsorganisation 2
+
+6 Einführungsplanung 2
+
+7 Notfallmassnahmen und Notfallorganisation 2
+
+8 Planung der Vorabnahme und der Abnahme 2
+
+9 Abnahmekriterien 3
+
+[[ausgangslage]]
+=  +
+Ausgangslage
+
+Beschreibung der Ausgangslage für das Einführungskonzept, Hinweis auf Studie und gewählte Lösung.
+
+[[auswirkung-auf-die-organisation]]
+= Auswirkung auf die Organisation
+
+Analyse der Auswirkungen auf die Stakeholder (Betroffenheitsanalyse)
+
+[[einführungsvorgehen]]
+= Einführungsvorgehen
+
+Beschreibung des Vorgehens
+
+* Einführungsstrategie, z.B. Stichtag oder stufenweise (Gebietsweise, Funktionale Staffelung, Benutzergruppen etc)
+* Beschreibung der Übergangsphase und der Übergangsregelung
+
+[[einführungsmassnahmen]]
+= Einführungsmassnahmen
+
+*Organisationstransition / Organisations-Changemanagement*
+
+Massnahmen zur Überführung vom alten in den neuen Zustand der Organisation
+
+Massnahmen zur Unterstützung in der Umstellungsphase
+
+Informationskonzept (Hinweis auf Kommunikationsplan im Projektmanagementplan)
+
+Ausbildungskonzept mit Ausbildungszielen, Ausbildungsinhalte, Drehbuch, Trainer, Ausbildungsunterlagen, Ausbildungsinfrastruktur,
+
+Übergangsregelungen vom bestehenden in den neuen Zustand
+
+[[einführungsorganisation]]
+= Einführungsorganisation
+
+Unterstützende Rollen für die Einführung (z.B. Einführungsverantwortllche, Superuser)
+
+[[einführungsplanung]]
+= Einführungsplanung
+
+Grobplanung mit Meilensteinen
+
+Detailplanung
+
+Hinweis auf Arbeitsaufträge
+
+[[notfallmassnahmen-und-notfallorganisation]]
+= Notfallmassnahmen und Notfallorganisation
+
+Massnahmen und Organisation für den Krisenfall während der Phase Einführung
+
+[[planung-der-vorabnahme-und-der-abnahme]]
+= Planung der Vorabnahme und der Abnahme
+
+Vorgehen, Abnahmeorganisation (Rollen, Verantwortlichkeiten)
+
+[[abnahmekriterien]]
+= Abnahmekriterien
+
+Hinweis auf Anforderungen
+
+Hinweis auf Testfallbeschreibungen im Testkonzept

@@ -1,0 +1,274 @@
+Requisiti di sistema
+
+[cols=",",options="header",]
+|=========================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, ad uso interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|=========================================================================
+
+Elenco delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Requisiti di massima 2
+
+2 Panoramica 2
+
+2.1 Tecnica 1: Albero delle funzioni 2
+
+2.2 Tecnica 2: Caso d’uso 3
+
+2.2.1 Diagramma del pacchetto relativo al caso d’uso 3
+
+2.2.2 Diagramma relativo al caso d’uso 3
+
+3 Requisiti dettagliati 3
+
+3.1 Requisiti dell’organizzazione operativa 3
+
+3.2 Requisiti funzionali 3
+
+3.2.1 Tecnica 1: Descrizione con un modulo generico 4
+
+3.2.2 Tecnica 2: Descrizione con il modulo per documentare la storia dell’utente (US) 4
+
+3.2.3 Tecnica 3: Descrizione con il modulo per il caso d’uso (UC) 4
+
+3.3 Requisiti qualitativi 5
+
+3.4 Requisiti del concetto d’esercizio 5
+
+3.5 Requisiti dell’architettura di sistema 6
+
+3.6 Requisiti del concetto di migrazione 6
+
+3.7 Requisiti dal piano SIPD 6
+
+[[requisiti-di-massima]]
+=  +
+Requisiti di massima
+
+Dallo studio
+
+[cols=",,,,,",options="header",]
+|============================================================================================================================================
+|ID |Requisito |Tipo di requisito (G,F,Q,S,M, A,B) |Criterio di +
+accettazione a|
+Importanza
+
+5−1
+
+ a|
+Urgenza
+
+5−1
+
+|_nn_ a|
+_Predisposizione_
+
+_dell’iscrizione al corso_
+
+ |_F_ |_Test completati con successo secondo la specifica dei test_ |_5_ |_5_
+|_nn_ a|
+_Conferma delle_
+
+_visualizzazioni_
+
+ |_Q_ |_In un ambiente reale di sistema nel 90 per cento dei test entro 2 secondi_ |_3_ |_4_
+|_nn_ |_Le conferme devono essere inviate il giorno stesso._ |_G_ |_Dopo aver preso la decisione di svolgere un corso entro 24 ore_ |_3_ |_3_
+|_nn_ |_Trasmissione di dati crittografati_ |_S_ |_Test completati con successo secondo la specifica dei test_ |_5_ |_4_
+|_nn_ |_Gli accessi esterni de-vono essere registrati._ |_S_ |_Prova dei test comple-tata con successo_ |_4_ |_4_
+|============================================================================================================================================
+
+* Tipo di requisito: G = organizzazione operativa, F = funzionale, Q = qualità, S = sicurezza, M = migrazione, A = architettura, B = esercizio
+* Importanza: 5 = deve essere attuata imperativamente; 4 = molto importante, 3 = importante, 2 = meno importante, 1 = potrebbe essere tralasciata
+* Urgenza: 5 = deve essere attuata imperativamente entro la scadenza, 4 = il rispetto della scadenza è molto importante, 2 = meno importante, 1 = irrilevante
+
+[[rappresentazione]]
+= Rappresentazione
+
+Una rappresentazione grafica del sistema è utile per comprendere la struttura dei requisiti dettagliati. Essa può essere realizzata con tecniche diverse.
+
+[[tecnica-1-albero-delle-funzioni]]
+== Tecnica 1: Albero delle funzioni
+
+[[tecnica-2-caso-duso-use-case]]
+== Tecnica 2: Caso d’uso (_use case_)
+
+[[diagramma-del-pacchetto-relativo-al-caso-duso]]
+=== Diagramma del pacchetto relativo al caso d’uso
+
+image:templates/it/media/media/image2.png[image,width=604,height=332]
+
+[[diagramma-relativo-al-caso-duso]]
+=== Diagramma relativo al caso d’uso
+
+[[_Toc389058938]]image:templates/it/media/media/image3.png[image,width=475,height=266]
+
+[[requisiti-dettagliati]]
+= Requisiti dettagliati
+
+[[requisiti-dellorganizzazione-operativa]]
+== Requisiti dell’organizzazione operativa
+
+I requisiti organizzativi non sono descritti in questa sezione, ma sono documentati nel concetto dell’organizzazione operativa.
+
+[[requisiti-funzionali]]
+== Requisiti funzionali
+
+Per descrivere i requisiti si possono utilizzare diverse tecniche.
+
+[[tecnica-1-descrizione-con-un-modulo-generico]]
+=== Tecnica 1: Descrizione con un modulo generico
+
+[cols=",",options="header",]
+|=====================================================================
+|Requisito di massima: _n_ |Requisito: _n.nn_ |Fonte: |Autore:
+|Nome |
+|Breve descrizione funzionale |
+|Input |da DB
+|Passi / regole per l’elaborazione a|
+1.
+
+2.
+
+3.
+
+|Output |
+|Criteri d’accettazione |
+|Importanza (5−1): |Urgenza (5−1): |Dipendenza da:
+|Rischio / Criticità (5−1): |Entità della spesa (5−1) |Versione |Stato
+|=====================================================================
+
+[[tecnica-2-descrizione-con-il-modulo-per-documentare-la-storia-dellutente-us]]
+=== Tecnica 2: Descrizione con il modulo per documentare la storia dell’utente (US)
+
+[cols=",",options="header",]
+|=================================================================================================
+|Requisito di massima: _n_ |Requisito (n. US) |Fonte: |Autore:
+|Nome |Nome della US
+|Descrizioni e note |
+|Criteri di accettazione |
+|In qualità di <ruolo dell’utente> desidero <obiettivo> [, in modo che <motivo dell’obiettivo>] a|
+1.
+
+2.
+
+3.
+
+|Importanza (5−1): |Urgenza (5−1): |Dipendenza da:
+|Rischio / Criticità (5−1): |Entità della spesa (5−1) |Versione |Stato
+|=================================================================================================
+
+[[tecnica-3-descrizione-con-il-modulo-per-il-caso-duso-uc]]
+=== Tecnica 3: Descrizione con il modulo per il caso d’uso (UC)
+
+[cols=",",options="header",]
+|=====================================================================
+|Requisito di massima: _n_ |Requisito (n. di UC) |Fonte: |Autore:
+|Autore e referente |
+|Breve descrizione
+|Motivo tecnico (evento)
+|Attori
+|Condizioni preliminari
+|Svolgimento / Interazione
+|Condizioni a posteriori
+a|
+Casi speciali (sviluppi alternativi 1 - n)
+
+(comprese le condizioni a posteriori)
+
+|Criteri di accettazione |
+|Importanza (5−1): |Urgenza (5−1): |Dipendenza da:
+|Rischio / Criticità (5−1): |Entità della spesa (5−1) |Versione |Stato
+|=====================================================================
+
+[[requisiti-qualitativi]]
+== Requisiti qualitativi
+
+Requisiti non funzionali legati all’utente come intuitività, ergonomia, tempi di risposta ecc.
+
+[cols=",",options="header",]
+|=====================================================================
+|Requisito di massima: _n_ |Requisito: _n.nn_ |Fonte: |Autore:
+|Nome |
+|Descrizione |
+|Criteri di accettazione |
+|Importanza (5−1): |Urgenza (5−1): |Dipendenza da:
+|Rischio / Criticità (5−1): |Entità della spesa (5−1) |Versione |Stato
+|=====================================================================
+
+[[section]]
+==
+
+[[requisiti-del-concetto-desercizio]]
+== Requisiti del concetto d’esercizio
+
+Requisiti non funzionali, legati all’esercizio come affidabilità, disponibilità ecc.
+
+[cols=",",options="header",]
+|=====================================================================
+|Requisito di massima: _n_ |Requisito: _n.nn_ |Fonte: |Autore:
+|Nome |
+|Descrizione |
+|Criteri di accettazione |
+|Importanza (5−1): |Urgenza (5−1): |Dipendenza da:
+|Rischio / Criticità (5−1): |Entità della spesa (5−1) |Versione |Stato
+|=====================================================================
+
+[[requisiti-dellarchitettura-di-sistema]]
+== Requisiti dell’architettura di sistema
+
+[cols=",",options="header",]
+|=====================================================================
+|Requisito di massima: _n_ |Requisito: _n.nn_ |Fonte: |Autore:
+|Nome |
+|Descrizione |
+|Criteri di accettazione |
+|Importanza (5−1): |Urgenza (5−1): |Dipendenza da:
+|Rischio / Criticità (5−1): |Entità della spesa (5−1) |Versione |Stato
+|=====================================================================
+
+[[requisiti-del-concetto-di-migrazione]]
+== Requisiti del concetto di migrazione
+
+Requisiti correlati alla migrazione
+
+[cols=",",options="header",]
+|=====================================================================
+|Requisiti massima: _n_ |Requisito: _n.nn_ |Fonte: |Autore:
+|Nome |
+|Descrizione |
+|Criteri di accettazione |
+|Importanza (5−1): |Urgenza (5−1): |Dipendenza da:
+|Rischio / Criticità (5−1): |Entità della spesa (5−1) |Versione |Stato
+|=====================================================================
+
+[[requisiti-dal-piano-sipd]]
+== Requisiti dal piano SIPD
+
+Requisiti relativi alla sicurezza delle informazioni e alla protezione dei dati
+
+[cols=",",options="header",]
+|=====================================================================
+|Requisito di massima: _n_ |Requisito: _n.nn_ |Fonte: |Autore:
+|Nome |
+|Descrizione |
+|Criteri di accettazione |
+|Importanza (5−1): |Urgenza (5−1): |Dipendenza da:
+|Rischio / Criticità (5−1): |Entità della spesa (5−1) |Versione |Stato
+|=====================================================================
+
+[[section-1]]
+=

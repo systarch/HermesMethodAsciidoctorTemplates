@@ -1,0 +1,41 @@
+Projekterfahrungen
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Projekterfahrungen 2
+
+[[projekterfahrungen]]
+=  +
+Projekterfahrungen
+
+[cols=",,,,,",options="header",]
+|==============================================================================================================================
+|Datum |Ansprech­person |Bereich |Erfahrung |Relevanz |Empfehlung
+|_12.3.2015_ |_K. Müller_ |_Beschaffung_ |_Beratung durch Beschaffungsstelle bei der Beschaffungsplanung war sehr hilfreich_ a|
+_Andere Projekte;_
+
+_Kompetenzzentrum PM_
+
+ |_In Checkliste xyz aufnehmen_
+| | | | | |
+|==============================================================================================================================

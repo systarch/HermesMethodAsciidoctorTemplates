@@ -1,0 +1,284 @@
+Study
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Situation Analysis 2
+
+1.1 Background 2
+
+1.2 Strengths 2
+
+1.3 Weaknesses 2
+
+2 Objectives 2
+
+3 Requirements 3
+
+4 Solution Options 3
+
+4.1 Overview of Options 3
+
+4.2 Description of Options 3
+
+5 Evaluation of Options 3
+
+6 Description of Solution 5
+
+7 Recommendations 5
+
+[[situation-analysis]]
+=  +
+Situation Analysis
+
+[[background]]
+== Background
+
+Description of current situation
+
+Rough quantity frameworks
+
+[[strengths]]
+== Strengths
+
+Text
+
+[[weaknesses]]
+== Weaknesses
+
+[cols=",,,",options="header",]
+|===================================================================================================================================================================
+|No. |Description |Evaluation |Cause
+|_01_ |_Inefficient handling of abc business process_ |_High optimization potential in terms of improving lead time_ |_Insufficient functionality of IT application_
+| | | |
+|===================================================================================================================================================================
+
+[[objectives]]
+= Objectives
+
+*System Objectives*
+
+[cols=",,,,",options="header",]
+|================================================================================================================================================================================
+|No. |Category |Description |Quantity |Priority
+|_1_ |_Positioning_ |_Reduction of process lead time from receipt of order to delivery_ |_Reduced to 3 days from currently 4 days; after one month from launching operation_ |_M_
+| | | | |
+|================================================================================================================================================================================
+
+Explanation: Priority: M=must haves/1=high, 2=medium, 3=low
+
+*Process Objectives*
+
+[cols=",,,,",options="header",]
+|==============================================================================================================================================================
+|No. |Category |Description |Quantity |Priority
+|_1_ |_Quality of process handling_ |_Feasibility to be established by means of test installation_ |_Error-free handling of predefined business situation_ |_2_
+| | | | |
+|==============================================================================================================================================================
+
+[[_Toc224380116]]**Strategy Reference and Realization of Requirements**
+
+Strategy Reference:
+
+* How project objectives relate to core organization strategy
+
+Realization of requirements:
+
+* Compliance with core organization requirements
+
+*General Requirements*
+
+Text
+
+*Delimitation*
+
+Text
+
+[[requirements]]
+= Requirements
+
+[cols=",,,",options="header",]
+|================================================================
+|Requirement
+|ID |Requirement Category |Requirement Description |Weighting*
+|_F-001_ |_Functional_ |_Administration of customer details_ |_M_
+|_F-002_ | | |
+|================================================================
+
+*Weighting: M=must haves, C=can haves with prioritization 1-3, in which 1=high priority
+
+[[solution-options]]
+= Solution Options
+
+[[overview-of-options]]
+== Overview of Options
+
+[[description-of-options]]
+== Description of Options
+
+[[evaluation-of-options]]
+= Evaluation of Options
+
+_The options were evaluated by the project team as follows:_
+
+[cols=",,,,,",options="header",]
+|=================================================================================================
+|*Achievement of Objectives*
+|*No.* |*Description* |*Priority* |*V1* |*V2* |*V3*
+|_1_ |_Reduction of process lead time from receipt of order to delivery_ |_M_ |_Yes_ |_Yes_ |_Yes_
+|_2_ |_Human resources required should be reduced_ |_1_ |_No_ |_No_ |_Yes_
+|3 |… | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+|=================================================================================================
+
+[cols=",,,,,",options="header",]
+|=======================================================================
+|*Meeting Requirements*
+|*ID* |*Requirement Description* |*G* |*V1* |*V2* |*V3*
+|_F-001_ |_Administration of customer details_ |_M_ |_Yes_ |_Yes_ |_Yes_
+|_F-002_ | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+|=======================================================================
+
+[cols=",,,",options="header",]
+|================================================================
+|*Evaluation Criteria* |*V1* |*V2* |*V3*
+|Costs | | |
+a|
+* _Project costs_
+
+ a|
+* _CHF XX.- to XX.-_
+
+ a|
+* _CHF XX.- to XX.-_
+
+ a|
+* _CHF XX.- to XX.-_
+
+a|
+* _Repeat costs_
+
+ a|
+* _CHF.- to XX.-_
+
+ a|
+* _CHF XX.- to XX.-_
+
+ a|
+* _CHF XX.- to XX.-_
+
+a|
+_Benefits_
+
+* _Quantifiable benefits_
+* _Non-quantifiable benefits_
+
+ a|
+* _No savings_
+* _Fewer errors by organization_
+
+ a|
+* _No savings_
+* _Fewer errors by organization_
+
+ a|
+* _0.5 days +
+_
+* _Fewer errors by organization_
+
+|_Risks_ a|
+* _Not dependent on manufacturer_
+* _Errors take long to correct (few internal positions)_
+* _After Windows or Office update tool won't work anymore_
+
+ a|
+* _Dependent on manufacturer_
+* _Unexpected costs following from software update_
+* _Errors take long to correct (few internal positions)_
+
+ a|
+* _Dependent on manufacturer_
+
+|_Sustainability_ a|
+* ______________________
+_Proprietary solution_
+______________________
+* ___________________________
+_Data not freely available_
+___________________________
+* _____________________________________
+_Production not socially responsible_
+_____________________________________
+* __________________________
+_Not environmentally safe_
+__________________________
+
+ a|
+* _______________________
+_Proprietary solution._
+_______________________
+* _________________________________
+_Fewer development opportunities_
+_________________________________
+* ________________________________________________
+_Production only partially socially responsible_
+________________________________________________
+* _____________________________________
+_Only partially environmentally safe_
+_____________________________________
+
+ a|
+* ____________________________________
+_Keep copyright to new developments_
+____________________________________
+* _______________________________
+_Ensure access to source code,_
+_______________________________
+* _______________________________________________________________
+_right to appoint third parties to conduct further development_
+_______________________________________________________________
+
+* _________________________________
+_Socially responsible production_
+_________________________________
+* ___________________________________
+_High environmental sustainability_
+___________________________________
+
+|*Recommendations* | | |*X*
+|================================================================
+
+[[description-of-solution]]
+= Description of Solution
+
+Detailed description of recommended option
+
+[[recommendations]]
+= Recommendations

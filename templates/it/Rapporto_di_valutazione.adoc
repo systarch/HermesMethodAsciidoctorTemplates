@@ -1,0 +1,106 @@
+Rapporto di valutazione
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Situazione iniziale 1
+
+2 Procedimento nel caso di una valutazione 2
+
+2.1 Membri del team di valutazione 2
+
+2.2 Svolgimento della valutazione 2
+
+3 Bando di gara, domande e apertura dell‘offerta 2
+
+4 Risultati della valutazione 2
+
+4.1 Criteri d‘idoneità 2
+
+4.2 Specifiche tecniche 2
+
+4.3 Criteri di aggiudicazione 2
+
+5 Richieste 2
+
+6 Allegati 3
+
+[[situazione-iniziale]]
+= Situazione iniziale
+
+Riferimento alla specifica dettagliata
+
+[[procedimento-nel-caso-di-una-valutazione]]
+= Procedimento nel caso di una valutazione
+
+[[membri-del-team-di-valutazione]]
+== Membri del team di valutazione
+
+[cols=",",options="header",]
+|===========================
+|Nome |Settore specializzato
+| |
+| |
+|===========================
+
+[[svolgimento-della-valutazione]]
+== Svolgimento della valutazione
+
+[cols=",,",options="header",]
+|=====================================
+|Nr. |Tappe del procedimento |Scadenza
+| | |
+| | |
+|=====================================
+
+[[bando-di-gara-domande-e-apertura-dellofferta]]
+= Bando di gara, domande e apertura dell‘offerta
+
+Pubblicazione del bando di gara, interessati all’elaborazione di un’offerta, domande e risposte inerenti al bando di gara, apertura dell’offerta, verifica formale e delle scadenze, sistemazione dell’offerta
+
+[[risultati-della-valutazione]]
+= Risultati della valutazione
+
+[[criteri-didoneità]]
+== Criteri d‘idoneità
+
+Adempimento dei criteri d’idoneità (criteri d’obbligo per l‘offerente)
+
+[[specifiche-tecniche]]
+== Specifiche tecniche
+
+Adempimento delle specifiche tecniche (criteri d’obbligo per la prestazione)
+
+[[criteri-di-aggiudicazione]]
+== Criteri di aggiudicazione
+
+Procedura di valutazione e ponderazione per i criteri di aggiudicazione, sistemazione dell’offerta e trattative, determinazione dell’offerta più economica
+
+[[richieste]]
+= Richieste
+
+Richiesta di trasmissione e di pubblicazione dell’aggiudicazione per l‘intero ambito della prestazione o per parti di essa.
+
+[[allegati]]
+= Allegati
+
+Verbale di apertura dell‘offerta, offerte, cataloghi dei criteri riempiti con valutazioni proprie dell’offerente, i risultati consolidati della qualificazione come valutazione esterna da parte del team di valutazione.

@@ -1,0 +1,96 @@
+Lastenheft
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Ausgangslage 3
+
+2 Soll-Zustand 3
+
+2.1 Ziele und Anforderungen 3
+
+2.2 Muss-Kriterien zur Eignung und zur techn. Spezifikation 3
+
+2.3 Kann-Kriterien zur Qualifizierung 3
+
+2.4 Umfang 3
+
+2.5 Preis 3
+
+3 Termine 3
+
+4 Angebot 3
+
+4.1 Allgemeine Hinweise zum Angebot 3
+
+4.2 Taxonomie der Zuschlagskriterien 3
+
+4.3 Angebotsstruktur 3
+
+4.4 Präsentation und Verhandlung 3
+
+5 Anhänge 3
+
+[[ausgangslage]]
+= Ausgangslage
+
+[[soll-zustand]]
+= Soll-Zustand
+
+[[ziele-und-anforderungen]]
+== Ziele und Anforderungen
+
+[[muss-kriterien-zur-eignung-und-zur-techn.-spezifikation]]
+== Muss-Kriterien zur Eignung und zur techn. Spezifikation
+
+[[kann-kriterien-zur-qualifizierung]]
+== Kann-Kriterien zur Qualifizierung
+
+[[umfang]]
+== Umfang
+
+[[preis]]
+== Preis
+
+[[termine]]
+= Termine
+
+Hinweise zum Beschaffungsablauf
+
+[[angebot]]
+= Angebot
+
+[[allgemeine-hinweise-zum-angebot]]
+== Allgemeine Hinweise zum Angebot
+
+[[taxonomie-der-zuschlagskriterien]]
+== Taxonomie der Zuschlagskriterien
+
+[[angebotsstruktur]]
+== Angebotsstruktur
+
+[[präsentation-und-verhandlung]]
+== Präsentation und Verhandlung
+
+[[anhänge]]
+= Anhänge
+
+Formulare, Merkblätter, Allgemeine Geschäftsbedingungen, Vertragsvorlage, Kriterienkatalog, Konzepte/Studien/Leistungsbeschreibung

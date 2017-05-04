@@ -1,0 +1,84 @@
+Prototypdokumentation
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Ausgangslage 2
+
+2 Anforderungen 2
+
+3 Konzept 2
+
+4 Zusammenfassung der Testergebnisse 2
+
+5 Schlussfolgerungen 2
+
+6 Empfehlungen 2
+
+[[ausgangslage]]
+=  +
+Ausgangslage
+
+*Motivation für das Prototyping*
+
+*Rahmenbedingungen für den Prototypen*
+
+Kosten, Aufwand, Infrastruktur
+
+*Voraussetzungen für den Prototypen*
+
+[[anforderungen]]
+= Anforderungen
+
+[cols=",,,",options="header",]
+|================================
+| |Anforderung
+|Ref. |ID |Beschreibung |Gewicht*
+|1 | | |
+|2 | | |
+|================================
+
+*Gewicht: M=Muss, K=Kann mit Priorisierung 1-3, wobei 1=hoch
+
+[[konzept]]
+= Konzept
+
+Konzept des Prototypen
+
+Benötigte Infrastruktur
+
+[[zusammenfassung-der-testergebnisse]]
+= Zusammenfassung der Testergebnisse
+
+Hinweis auf Testkonzept
+
+Liste der Testfälle
+
+Zusammenfassung der Testprotokolle, Testbericht
+
+[[schlussfolgerungen]]
+= Schlussfolgerungen
+
+Text
+
+[[empfehlungen]]
+= Empfehlungen

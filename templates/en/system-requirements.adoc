@@ -1,0 +1,264 @@
+System Requirements
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 General Requirements 2
+
+1.1 Business Processes to Be Supported 2
+
+1.2 Roles and Access Privileges 2
+
+1.3 Business Objects and Attributes 2
+
+1.3.1 Business Object A 2
+
+1.4 Data-Related Requirements 2
+
+1.4.1 Assignment of Types of Business to Actions / Process Elements 2
+
+2 Functional Requirements 2
+
+3 Non-Functional Requirements / Quality Requirements 3
+
+3.1 User-Related Requirements 3
+
+3.2 Operational Requirements 3
+
+3.3 Architectural Requirements 3
+
+3.4 Migration-Related Requirements 3
+
+3.5 Development and Maintenance Environment Requirements 4
+
+3.6 External Interface Requirements 4
+
+4 Security Requirements 4
+
+4.1 Requirements Based on Risk Analysis (ISDP Concept) 4
+
+4.2 Requirements 4
+
+[[general-requirements]]
+=  +
+General Requirements
+
+[[business-processes-to-be-supported]]
+== Business Processes to Be Supported
+
+Processes to be supported
+
+[cols=",",options="header",]
+|====================
+a|
+Reference
+
+(Process No.)
+
+ |Process Description
+| |
+| |
+|====================
+
+[[roles-and-access-privileges]]
+== Roles and Access Privileges
+
+[cols=",",options="header",]
+|======================================
+|Role |Description of Access Privileges
+| |
+| |
+|======================================
+
+[[business-objects-and-attributes]]
+== Business Objects and Attributes
+
+[[business-object-a]]
+=== Business Object A
+
+Description
+
+[[data-related-requirements]]
+== Data-Related Requirements
+
+[[assignment-of-types-of-business-to-actions-process-elements]]
+=== Assignment of Types of Business to Actions / Process Elements
+
+[cols="",options="header",]
+|====================================================
+|Object |Type of Business |Type of Procedure a|
+________
+Action a
+________
+
+ a|
+________
+Action b
+________
+
+ a|
+________
+Action c
+________
+
+ a|
+________
+Action d
+________
+
+ | | | | | | | | | | | | | | | | |
+|Organization:
+| | | |_x_ |_x_ | | | | | | | | | | | | | | | | | | |
+| | | | | | | | | | | | | | | | | | | | | | | |
+|====================================================
+
+[[functional-requirements]]
+= Functional Requirements
+
+In acc. with employed method of requirement engineering (diagrams, tables, UseCase descriptions, etc.)
+
+[cols=",,,",options="header",]
+|=================================
+| |Requirement
+|Ref. |ID |Description |Weighting*
+|1 | | |
+|=================================
+
+[[non-functional-requirements-quality-requirements]]
+= Non-Functional Requirements / Quality Requirements
+
+[[user-related-requirements]]
+== User-Related Requirements
+
+User-related, non-functional requirements such as user friendliness, ergonomic requirements, response times, etc.
+
+[cols=",,,",options="header",]
+|=================================
+| |Requirement
+|Ref. |ID |Description |Weighting*
+|1 | | |
+|2 | | |
+|=================================
+
+*Weighting: M=must haves, C=can haves with prioritization 1-3, in which 1=high priority
+
+[[operational-requirements]]
+== Operational Requirements
+
+Operational, non-functional requirements such as reliability, availability, etc.
+
+[cols=",,,",options="header",]
+|====================================================================
+| |Requirement
+|Ref. |ID |Description |Weighting*
+|_1_ |_B-001_ |_Service hours: 7.30 am – 12.00 / 1.30 – 6.00 pm_ |_M_
+|2 | | |
+|====================================================================
+
+*Weighting: M=must haves, C=can haves with prioritization 1-3, in which 1=high priority
+
+[[architectural-requirements]]
+== Architectural Requirements
+
+[cols=",,,",options="header",]
+|=================================
+| |Requirement
+|Ref. |ID |Description |Weighting*
+|1 | | |
+|2 | | |
+|=================================
+
+*Weighting: M=must haves, C=can haves with prioritization 1-3, in which 1=high priority
+
+[[migration-related-requirements]]
+== Migration-Related Requirements
+
+Requirements in terms of data reception, data quality, etc.
+
+[cols=",,,",options="header",]
+|=================================
+| |Requirement
+|Ref. |ID |Description |Weighting*
+|1 | | |
+|2 | | |
+|=================================
+
+*Weighting: M=must haves, C=can haves with prioritization 1-3, in which 1=high priority
+
+[[development-and-maintenance-environment-requirements]]
+== Development and Maintenance Environment Requirements
+
+[cols=",,,",options="header",]
+|=================================
+| |Requirement
+|Ref. |ID |Description |Weighting*
+|1 | | |
+|2 | | |
+|=================================
+
+*Weighting: M=must haves, C=can haves with prioritization 1-3, in which 1=high priority
+
+[[external-interface-requirements]]
+== External Interface Requirements
+
+Specialist, technical, and organizational requirements for interfaces, e.g.: protocol and infrastructure, format, limitations and framework conditions, time behavior, synchronicity of interface, data volume (minimum, average, maximum), error correction, security
+
+[cols=",,,",options="header",]
+|=================================
+| |Requirement
+|Ref. |ID |Description |Weighting*
+|1 | | |
+|2 | | |
+|3 | | |
+|=================================
+
+*Weighting: M=must haves, C=can haves with prioritization 1-3, in which 1=high priority
+
+[[security-requirements]]
+= Security Requirements
+
+[[requirements-based-on-risk-analysis-isdp-concept]]
+== Requirements Based on Risk Analysis (ISDP Concept)
+
+[cols=",,,",options="header",]
+|=================================
+| |Requirement
+|Ref. |ID |Description |Weighting*
+|1 | | |
+|2 | | |
+|3 | | |
+|=================================
+
+*Weighting: M=must haves, C=can haves with prioritization 1-3, in which 1=high priority
+
+[[requirements-based-on-protection-measures]]
+== Requirements Based on Protection Measures
+
+[cols=",,,",options="header",]
+|=================================
+| |Requirement
+|Ref. |ID |Description |Weighting*
+|1 | | |
+|2 | | |
+|3 | | |
+|=================================
+
+*Weighting: M=must haves, C=can haves with prioritization 1-3, in which 1=high priority

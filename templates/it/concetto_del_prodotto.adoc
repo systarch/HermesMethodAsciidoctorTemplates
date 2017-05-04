@@ -1,0 +1,129 @@
+Concetto del prodotto
+
+[cols=",",options="header",]
+|=========================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, ad uso interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|=========================================================================
+
+Elenco delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Situazione iniziale 2
+
+2 Descrizione del prodotto 2
+
+2.1 Rappresentazione del prodotto 2
+
+3 Requisiti dettagliati 2
+
+3.1 Requisiti dell’organizzazione operativa 2
+
+3.2 Requisiti funzionali 2
+
+3.3 Requisito di qualità, condizione quadro 3
+
+4 Copertura dei requisiti 3
+
+[[situazione-iniziale]]
+=  +
+Situazione iniziale
+
+Rimando allo studio:
+
+* rimando ai requisiti di massima
+* rimando alla variante scelta.
+
+1.  [[descrizione-del-prodotto]]
+= Descrizione del prodotto
+1.  [[rappresentazione-del-prodotto]]
+== Rappresentazione del prodotto
+
+Descrizione sommaria concettuale del prodotto (proprietà / caratteristiche del prodotto).
+
+Una rappresentazione grafica del sistema è utile per comprendere la struttura dei requisiti dettagliati. Essa può essere realizzata con tecniche diverse.
+
+[[requisiti-dettagliati]]
+= Requisiti dettagliati
+
+Descrizione dettagliata delle proprietà del prodotto.
+
+[[requisiti-dellorganizzazione-operativa]]
+== Requisiti dell’organizzazione operativa
+
+I requisiti organizzativi non sono descritti in questa sezione, ma sono documentati nel piano di organizzazione operativa.
+
+[[requisiti-funzionali]]
+== Requisiti funzionali
+
+Si possono utilizzare diverse tecniche per descrivere i requisiti.
+
+Per requisito
+
+[cols=",",options="header",]
+|==================================================================================================================================================================================
+|Requisito di +
+massima |Requisito: n.nn |Fonte: |Autore:
+|Nome |Distruzione di dossier cartacei
+|Breve descrizione +
+funzionale |I dossier sono distrutti in modo da non essere riproducibili, lo standard di sicurezza XY è rispettato.
+|Input |Per la distruzione di dossier cartacei specifici
+|Passi / regole per +
+l’elaborazione a|
+\1. Preparare i dossier per la distruzione (togliere le graffette).
+
+\2. Distruggere i dossier con l’apposita macchina distruggi-documenti.
+
+\3. Svuotare il cassetto della macchina distruggi-documenti e smaltire il materiale.
+
+|Output: |Dossier distrutti e smaltiti
+|Criteri di accettazione |Dossier cartacei alti almeno 3 cm formato A3, ritagli di carta non riproducibili secondo lo standard di sicurezza XZ, distruzione di 1 m lineare all’ora.
+|Importanza (5−1): 3 |Urgenza (5−1): 2 |Dipendenza da:
+|Rischio/Criticità (5−1): 2 |Entità della spesa (5−1): 2 |Versione |Stato
+|==================================================================================================================================================================================
+
+[[requisito-di-qualità-condizione-quadro]]
+== Requisito di qualità, condizione quadro
+
+Per requisito:
+
+[cols=",",options="header",]
+|==================================================================
+|Requisito di +
+massima |Requisito: n.nn |Fonte: |Autore:
+|Nome |
+|Descrizione |
+|Criteri di accettazione |
+|Importanza (5−1): |Urgenza (5−1): |Dipendenza da:
+|Rischio/Criticità (5−1) |Entità della spesa (5−1) |Versione |Stato
+|==================================================================
+
+[[copertura-dei-requisiti]]
+= Copertura dei requisiti
+
+[cols=",,,",options="header",]
+|=============================================
+|ID |Requisito |Assegnazione a un +
+sottosistema / componente |Valutazione della +
+copertura dei requisiti
+|nn | | |
+|nn | | |
+| | | |
+| | | |
+|=============================================
+
+[[section]]
+=

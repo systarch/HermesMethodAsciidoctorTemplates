@@ -1,0 +1,133 @@
+Operating Concept
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 System Technology 2
+
+2 Description of Organizational Structure and Operating Processes 2
+
+2.1 Organizational Structure 2
+
+2.2 Operating Process 2
+
+3 System Operation 2
+
+3.1 Standard Operation 2
+
+3.2 System Monitoring 2
+
+3.3 Work Preparation 3
+
+4 Troubleshooting 3
+
+5 Description of Security Aspects 3
+
+6 Requirements Coverage 3
+
+[[system-technology]]
+= System Technology
+
+IT infrastructure concept
+
+Systems, components used, versions
+
+Networks
+
+Data security
+
+Data storage
+
+[[section]]
+=
+
+[[description-of-organizational-structure-and-operating-processes]]
+= Description of Organizational Structure and Operating Processes
+
+[[organizational-structure]]
+== Organizational Structure
+
+Organization needed to operate IT system (organizational chart, jobs, functions)
+
+Description of effects of IT system on organization
+
+Analysis of adaptation requirements
+
+[[operating-process]]
+== Operating Process
+
+Operating processes needed to operate IT systems
+
+Description of effects of IT system on processes
+
+Analysis of adaptation requirements
+
+Description of user support tasks with process descriptions, requirements, manuals, etc.
+
+[[system-operation]]
+= System Operation
+
+[[standard-operation]]
+== Standard Operation
+
+Statistical data, performance figures, measures
+
+[[system-monitoring]]
+== System Monitoring
+
+Supervising the operation, including monitoring, alerts, etc.
+
+Data security
+
+Data protection monitoring
+
+Reference to operating processes
+
+[[work-preparation]]
+== Work Preparation
+
+Project-specific concepts
+
+[[troubleshooting]]
+= Troubleshooting
+
+Reference to operating processes
+
+How to proceed in the case of a defect (incl. organizational aspects such as communication, etc.)
+
+[[description-of-security-aspects]]
+= Description of Security Aspects
+
+Project-specific concepts
+
+[[requirements-coverage]]
+= Requirements Coverage
+
+Reference to system requirements
+
+[cols=",,,",options="header",]
+|==========================================================================
+|ID |Requirement Category |Description |Evaluation of Requirements Coverage
+|_B-001_ |_Support_ |_Working hours 7.30am – 12.00 / 1.30 – 6.00pm_ |_100%_
+|_S-001_ |_Security_ |_Encrypted filing in database_ |_100%_
+| | | |
+|==========================================================================

@@ -1,0 +1,369 @@
+Plan de gestion du projet
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Description du projet 3
+
+2 Scénario avec phases et jalons 3
+
+3 Organisation 3
+
+4 Structure détaillée des résultats du projet 4
+
+5 Scénario avec structure de découpage du projet 4
+
+5.1 Phases, modules, tâches, résultats, rôles 4
+
+5.2 Interdépendances 4
+
+6 Plan de vérification 4
+
+7 Calendrier 5
+
+8 Plan des coûts 5
+
+9 Plan des ressources 5
+
+10 Plan d’achat 5
+
+11 Plan de communication 6
+
+12 Reporting 6
+
+13 Directives, méthodes et outils 6
+
+14 Annexe 6
+
+14.1 Assurance de la qualité 6
+
+14.2 Gestion des risques 7
+
+14.3 Gestion des documents 8
+
+14.3.1 Classement des documents 8
+
+14.3.2 Conventions de dénomination 9
+
+14.3.3 Versions de documents 9
+
+14.4 Gestion des modifications 10
+
+[[description-du-projet]]
+=  +
+Description du projet
+
+Brève description du contenu du projet
+
+[[scénario-avec-phases-et-jalons]]
+= Scénario avec phases et jalons
+
+Représentation des phases et des jalons (schéma dans le modèle de présentation du projet)
+
+[[organisation]]
+= Organisation
+
+[cols=",,,",options="header",]
+|==================================================================================================
+|Rôle dans l’organisation du projet |Nom |Abréviation |Fonction/Unité organisationnelle représentée
+|_Mandant_ |_Kurt Müller_ |_muk_ |_Resp. direction xyz_
+|_Comité de projet_ | | |
+|_Chef de projet_ | | |
+|_Responsable SIPD_ | | |
+|_Spécialiste représentant les utilisateurs_ | | |
+|_Spécialiste responsable des processus métier_ | | |
+| | | |
+|==================================================================================================
+
+[cols=",,,",options="header",]
+|===========================================================================
+|Rôle dans l’organisation permanente |Nom |Abréviation |Unité d’organisation
+|Direction: | | |
+a|
+Organes de prescription et de contrôle de gestion:
+
+_Révision interne_
+
+ |_P. Hauser_ | |_ABC_
+|Centre de compétences pour la gestion de projet: | | |
+|===========================================================================
+
+Les problèmes sont remontés dans le cadre de l’organisation du projet.
+
+_Si un problème ne peut pas être résolu à un échelon dans les 5 jours, il est transféré en escalade à l’échelon suivant._
+
+[[structure-détaillée-des-résultats-du-projet]]
+= Structure détaillée des résultats du projet
+
+Mindmap, représentation hiérarchique
+
+La structure détaillée des résultats du projet est la représentation, structurée hiérarchiquement, du contenu du projet (Produkt-Breakdown-Structure PBS).
+
+1.  [[scénario-avec-structure-de-découpage-du-projet]]
+= Scénario avec structure de découpage du projet
+1.  [[phases-modules-tâches-résultats-rôles]]
+== Phases, modules, tâches, résultats, rôles
+
+Structure détaillée du projet de HERMES online, ou référence à un document séparé
+
+[[interdépendances]]
+== Interdépendances
+
+[cols=",",options="header",]
+|=================================================
+|Projet |Dépendance
+|Thèmes pertinents pour le projet |
+|Résultat/décision/fait pertinent pour le projet |
+|Délai |
+|Impacts sur le projet |
+|Interlocuteur |_Chef de projet_
+|=================================================
+
+[[plan-de-vérification]]
+= Plan de vérification
+
+Reprendre les résultats de la structure détaillée du projet
+
+[cols=",,,,,",options="header",]
+|================================================================================
+a|
+Phase /
+
+Résultat
+
+ |Méthode de vérification |Responsable |Vérificateur |Délai |Etat
+|*Concept* | | | | |
+|_Rapport de phase_ |_Revue_ |_Mandant_ |_Sutter, Huber_ |_15.5.2015_ |_approuvé_
+|================================================================================
+
+Méthodes de vérification selon chapitre Plan AQ
+
+[[calendrier]]
+= Calendrier
+
+Planification détaillée de la phase actuelle ou prochaine du projet
+
+Référence à un document externe
+
+[[plan-des-coûts]]
+= Plan des coûts
+
+En règle générale un document séparé, conformément aux directives de l’organisation permanente
+
+[[plan-des-ressources]]
+= Plan des ressources
+
+*Ressources en personnel*
+
+[cols=",,,,,,,",options="header",]
+|=========================================================================================
+|Rôle / Personne |Mois 1 |Mois 2 |Mois 3 |Mois 4 |Mois 5 |Total |Confirmation du supérieur
+|Nom | | | | | | |
+|Nom | | | | | | |
+|=========================================================================================
+
+*Moyens matériels*
+
+Locaux, infrastructure informatique, logiciels spécifiques, etc.
+
+[[plan-dachat]]
+= Plan d’achat
+
+[cols=",,,,",options="header",]
+|============================================================================================================
+|Besoins / Désignation |Quantité |Valeur CHF |Instant |Type d’achat
+|_Business analyste_ |_20 jours_ |_20’000_ |_20.1.-30.3.2014_ |_Procédure de gré à gré avec plusieurs offres_
+|_Développeur_ |_300 jours_ |_280’000_ |_01.04.2014-30.06.2015_ |_Appel d’offres public OMC_
+|_Analyste_ |_100 heures_ |_18’000_ |_20.01.-30.03.2014_ |_Issu du contrat cadre_
+|_Outils et Services_ |_400 heures_ |_48’000_ |_01.07.2014-30.06.2015_ |_Procédure sur invitation_
+|============================================================================================================
+
+[[plan-de-communication]]
+= Plan de communication
+
+[cols=",,,,,",options="header",]
+|==========================================================================================================================================================================================================
+|Destinataire de l’information |Responsable de la communication |Contenu |Objectif |Moy-en / Support |Délai
+|_Tous les collaborateurs_ |_Mandant_ |_Déploiement de la nouvelle solution_ |_Tous les collaborateurs connaissent la démarche, les délais et l’organisation de support_ |_Flyer (par e-mail)_ |_12.3.2015_
+| | | | | |
+|==========================================================================================================================================================================================================
+
+[[reporting]]
+= Reporting
+
+[cols=",,,,",options="header",]
+|=====================================================================================================
+|Résultat |Périodicité |Responsable |Destinataire |Délai
+|_Rapport d’état du projet_ |_mensuelle_ |_Chef de projet_ |_Mandant_ |_Premier jour ouvrable du mois_
+|_Rapport de phase_ |_Fin de la phase conception_ |_Chef de projet_ |_Mandant_ |_Voir planification_
+| | | | |
+|=====================================================================================================
+
+[[directives-méthodes-et-outils]]
+= Directives, méthodes et outils
+
+[cols=",,",options="header",]
+|===========================================
+|Titre |Directive / Méthode / Outil |Version
+|_Gestion de projet_ |_HERMES_ |_HERMES 5_
+|_Achat_ |_LMP, OMP_ |
+|_Logiciel pour xyz_ |_Tool aaa_ |_10.2_
+|===========================================
+
+1.  [[annexe]]
+= Annexe
+1.  [[assurance-de-la-qualité]]
+== Assurance de la qualité
+
+Le test est défini dans le concept de test.
+
+Les vérifications sont définies dans le chapitre Plan de vérification du plan de gestion du projet.
+
+Les méthodes de vérification suivantes sont utilisées dans le projet.
+
+[cols=",",options="header",]
+|=============================================================================================================================================================================================================================================================================================================================
+|Méthode de vérification |Description
+a|
+_Revue écrite_
+
+_(RE)_
+
+ |_Le résultat est envoyé par e-mail aux vérificateurs. Ces derniers le vérifient indépendamment les uns des autres et établissent un rapport de vérification, avec les constatations faites. Ces dernières sont corrigées par l’auteur ou refusées avec une justification écrite qui est envoyée par e-mail au vérificateur._
+a|
+_Revue orale_
+
+_(RO)_
+
+ a|
+_Les constatations formulées par écrit sont discutées à l’occasion d’une réunion de revue. Les adaptations ou mesures nécessaires y sont décidées; elles sont attribuées à des responsables, avec fixation d’un délai._
+
+_Une revue écrite (RE) est toujours à la base d’une revue orale (RO)._
+
+_Le résultat d’une RO est un procès-verbal de revue, qui doit être signé par les participants à la RO._
+
+a|
+_Walk-through_
+
+_(WT)_
+
+ |_Un walk-through est une vérification moins formelle qu’une revue. En examinant les résultats disponibles à un instant déterminé, le vérificateur essaie de se faire une image de l’état actuel des travaux._
+|=============================================================================================================================================================================================================================================================================================================================
+
+_Si des résultats sont reçus dans le cadre d’une procédure de consultation de spécialistes, cette vérification est exécutée au moyen d’une revue écrite._
+
+[[gestion-des-risques]]
+== Gestion des risques
+
+Les risques du projet sont mentionnés dans le rapport d’état.
+
+Afin de pouvoir apprécier les risques, chacun d’eux doit être évalué en fonction de sa probabilité de survenue et de son degré d’impact. Les variables à cet effet sont définies ici.
+
+*Echelle d’évaluation de la probabilité de survenue*
+
+[cols=",",options="header",]
+|============================================================
+|Evaluation |Description de la probabilité de survenue
+|1 = basse |_improbable, resp. en dessous de 20%_
+|2 = moyenne |_moyennement vraisemblable, resp. entre 20-50%_
+|3 = haute |_hautement probable, resp. au-dessus de 50%_
+|============================================================
+
+*Echelle d’évaluation du degré d’impact*
+
+[cols=",,,",options="header",]
+|=======================================================================================
+|Evaluation |Impact sur le résultat du projet |Impact sur le délai |Impact sur les coûts
+|1 = bas |_Défaut minime_ |_jusqu’à 1 mois, resp. minime_ |_aucun_
+|2 = moyen |_Défaut important_ |_1-3 mois, resp. important_ |_5-20%, resp. important_
+|3 = haut |_Défaut grave_ |_plus de 3 mois, resp. grave_ |_plus de 20%, resp. grave_
+|=======================================================================================
+
+De ces valeurs résultent ensuite les coordonnées permettant de représenter le risque dans la matrice correspondante. La flèche (exemple pour le risque 2) permet de montrer le changement par rapport à la dernière évaluation.
+
+*Matrice des risques*
+
+Probabilité d’occurence
+
+Degré d’impact
+
+Les risques, identifiés et évalués, du projet sont mentionnés dans le rapport d’état du projet d’une manière analogue au tableau ci-dessous. Les mesures qui s’imposent sont prévues pour chaque risque.
+
+[cols=",,,,,,,",options="header",]
+|=======================================================
+|N° |DI |PO |FR |Description |Mesure |Responsable |Délai
+|1 |3 |3 |9 | | | |
+|2 |2 |2 |4 | | | |
+|=======================================================
+
+1.  [[gestion-des-documents]]
+== Gestion des documents
+1.  [[classement-des-documents]]
+=== Classement des documents
+
+Outils informatiques, lieu de classement, gestion des accès
+
+[[conventions-de-dénomination]]
+=== Conventions de dénomination
+
+Pour que les documents relatifs au projet puissent être identifiés de manière univoque et simple, les conventions de dénomination suivantes sont utilisées pour les noms de fichier:
+
+_Nom du projet-Désignation du document. Type de fichier_
+
+Exemple:
+
+_HMH-Mandat de projet.doc_
+
+[[versions-de-documents]]
+=== Versions de documents
+
+Les modifications d’un document doivent être mentionnées dans le suivi des modifications de celui-ci.
+
+Utilisation de numéros de version
+
+Les numéros de version V0.1, V0.2, V0.3….V0.9 désignent les versions de documents en cours d’élaboration.
+
+Le numéro de version V1.0 désigne la première version du document ayant fait l’objet d’une réception.
+
+Le numéro de version V1.1 désigne la première version modifiée après la réception.
+
+Le numéro de version V2.0 désigne la deuxième version du document ayant fait l’objet d’une réception.
+
+*Documents avec relation temporelle*
+
+Les documents ayant une relation temporelle claire contiennent la date dans le nom du fichier.
+
+Exemple d’un procès-verbal de réunion:
+
+_HMH-Procèsverbal-Réunionéquipebase-2011-12-05.doc_
+
+Si l’on intègre la date dans le nom du fichier, on utilise toujours le format AAAA-MM-JJ pour que les documents puissent être classés par ordre chronologique dans les répertoires.
+
+[[gestion-des-modifications]]
+== Gestion des modifications
+
+_Ce graphique est modifiable avec Microsoft PowerPoint (clic de droite – objet présentation – edit)_
+
+[[section]]
+=

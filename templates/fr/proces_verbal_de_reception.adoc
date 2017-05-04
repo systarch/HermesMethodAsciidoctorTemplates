@@ -1,0 +1,149 @@
+Procès-verbal de réception
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |$\{h5_projektleiter}
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Objet de la réception 2
+
+2 Participants à la réception 2
+
+3 Bases 2
+
+4 Procédure de réception 2
+
+5 Critères de réception 2
+
+5.1 Catégories de défauts 2
+
+5.2 Définition de la réception 2
+
+6 Résultats livrés et défauts 4
+
+7 Résultat de la réception 5
+
+8 Signature 5
+
+9 5
+
+[[objet-de-la-réception]]
+=  +
+Objet de la réception
+
+[cols=",",options="header",]
+|=================================================================
+|Objet de la réception |Description
+|_Produit logiciel xy_ |_Application utilisée dans le domaine xyz_
+| |
+|=================================================================
+
+[[participants-à-la-réception]]
+= Participants à la réception
+
+[cols=",",options="header",]
+|==================
+|Rôle |Nom
+|Mandant / Client |
+|Chef de projet |
+|Fournisseur |
+|==================
+
+[[bases]]
+= Bases
+
+[cols=",",options="header",]
+|================================================
+|Désignation |N° de versions / Désignation / Date
+|_Offre_ |_30.12.2015_
+| |
+|================================================
+
+[[procédure-de-réception]]
+= Procédure de réception
+
+Texte
+
+1.  [[critères-de-réception]]
+= Critères de réception
+1.  [[catégories-de-défauts]]
+== Catégories de défauts
+
+_Les défauts constatés sont classés dans les catégories 0 à 4_
+
+[cols=",,",options="header",]
+|====================================
+|N° |Catégorie de défaut |Description
+|_0_ |_Sans erreur_ |
+|_1_ |_Défaut insignifiant_ |
+|_2_ |_Défaut léger_ |
+|_3_ |_Défaut grave_ |
+|_4_ |_Défaut critique_ |
+|====================================
+
+[[définition-de-la-réception]]
+== Définition de la réception
+
+_Si une catégorie de défauts entre 0 et 3 est atteinte, la réception du système/ Produit peut être effectuée sous réserve. Des mesures doivent toutefois être définies pour la suppression des défauts. Un contrôle complémentaire est impératif._
+
+_Si des défauts de la catégorie 4 sont constatés, le mandataire doit immédiatement prendre des mesures pour les supprimer. Il doit en outre initier une nouvelle réception._
+
+1.  [[section]]
+=
+2.  [[résultats-livrés-et-défauts]]
+= Résultats livrés et défauts
+
+[cols=",,,,,,",options="header",]
+|============================================================================================================================
+|N° de réf. |Résultat livré – Description - Fonction |Catégorie de défaut |Description du défaut |Mesures |Responsable |Délai
+|_01_ a|
+_Gestion des clients_
+
+_Saisie de nouveaux clients_
+
+ |_3_ |_L’adresse n’est pas enregistrée correctement_ |_Correction de l’erreur_ |_Müller_ |_15.06.2016_
+| | | | | | |
+| | | | | | |
+|============================================================================================================================
+
+[[résultat-de-la-réception]]
+= Résultat de la réception
+
+L’objet de la réception a été vérifié sans constat de défauts. La réception est effectuée sans réserve.
+
+L’objet de la réception a été vérifié et reçu sous réserve. Les défauts doivent être supprimés dans le délai prescrit et la solution doit faire l’objet d’une nouvelle réception au moyen d’une vérification complémentaire.
+
+L’objet de la réception a été vérifié. La réception est refusée.
+
+[[signature]]
+= Signature
+
+[cols=",,,",options="header",]
+|======================================================================
+|Nom |Fonction |Lieu&Date |Signature
+|……………………………………… |………………………………………. |………………………………………. |………………………………………….
+|……………………………………… |………………………………………. |………………………………………. |………………………………………….
+|……………………………………… |………………………………………. |………………………………………. |………………………………………….
+|======================================================================
+
+[[section-1]]
+=

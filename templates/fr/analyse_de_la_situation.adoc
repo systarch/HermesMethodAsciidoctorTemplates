@@ -1,0 +1,127 @@
+Analyse de la situation
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Description du système existant 2
+
+1.1 Documentations 2
+
+1.2 Description du système 2
+
+1.2.1 Description du paysage et de l’architecture système 2
+
+1.2.2 Système: S01 _Nom du système_ 2
+
+1.3 Description de l’organisation 3
+
+2 Analyse des forces et des faiblesses 3
+
+[[description-du-système-existant]]
+=  +
+Description du système existant
+
+Explications sous forme textuelle concernant le système existant
+
+[[documentations]]
+== Documentations
+
+Documentations concernant le système et l’organisation
+
+[cols=",",options="header",]
+|========================================================================================================================================
+|Nom du document |Description
+|_Manuel d’utilisation-V7_ |_Description de l’application informatique, avec description des cas d’application et des exemples pratiques_
+| |
+|========================================================================================================================================
+
+*Directives*
+
+[cols=",",options="header",]
+|=========================================================================================================
+|Nom du document |Description
+|_Directive de sécurité_ |_Description des directives concernant la sécurité et la protection des données_
+| |
+|=========================================================================================================
+
+1.  [[description-du-système]]
+== Description du système
+1.  [[description-du-paysage-et-de-larchitecture-système]]
+=== Description du paysage et de l’architecture système
+
+Textes et figures
+
+[[système-s01-nom-du-système]]
+=== Système: S01 _Nom du système_
+
+Informations techniques concernant le système nnn
+
+[cols=",",options="header",]
+|==========================================================================
+|Thème |Information détaillée
+|Modèle d’architecture |_Architecture à 3 niveaux, norme xyz_
+|Logiciel |_Application informatique standard «xyz»_
+|Lieu |_Berne_
+|Exploitant |_Exploitation interne_
+|Fournisseur |_Société xyz_
+|Développeur |_Société aaa_
+|Utilisateur |_132_
+|Taille de la base de données |_6,5 Go_
+|Frais d’exploitation pour l’année nn |_32’000_
+|Autres frais d’exploitation |_Papier: 25’000 par an_
+|Frais totaux de développement |_370’000_
+|Frais de support pour l’année nn |_55’000_
+|Investissements du début de l’exploita-tion jusqu’à aujourd’hui |_490’000_
+|==========================================================================
+
+[[description-de-lorganisation]]
+== Description de l’organisation
+
+Organigramme, description des fonctions, carte des processus, description des processus existants, grille quantitative des opérations commerciales, collaborateurs, clients, etc.
+
+[[analyse-des-forces-et-des-faiblesses]]
+= Analyse des forces et des faiblesses
+
+*Forces*
+
+Texte
+
+[cols=",,",options="header",]
+|===========================================================================================
+|N° |Description |Cause
+|_01_ |_Paiements presque sans erreur_ |_Grande qualification/expertise des collaborateurs._
+| | |
+|===========================================================================================
+
+*Faiblesses*
+
+[cols=",,,",options="header",]
+|================================================================================================================================================================================================
+|N° |Description |Evaluation |Cause
+|_01_ |_Déroulement inefficient du processus métier abc_ |_Potentiel élevé d’optimisation avec amélioration de la durée du processus_ |_Fonctionnalité manquante dans l’application informatique_
+| | | |
+|================================================================================================================================================================================================
+
+[[section]]
+=

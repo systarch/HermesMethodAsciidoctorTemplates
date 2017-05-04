@@ -1,0 +1,105 @@
+Architettura del sistema
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+[[TOCPosition]]
+
+1 Panoramica e struttura del sistema 1
+
+1.1 Panoramica 1
+
+1.2 Sottosistemi e componenti 2
+
+1.3 Architetture / Modelli 2
+
+2 Interfacce e delimitazioni 2
+
+3 Fattibilità 2
+
+4 Conformità con le direttive 2
+
+5 Assegnazione e copertura dei requisiti 3
+
+[[panoramica-e-struttura-del-sistema]]
+= Panoramica e struttura del sistema
+
+[[panoramica]]
+== Panoramica
+
+Diagramma riassuntivo secondo i metodi del produttore
+
+[[sottosistemi-e-componenti]]
+== Sottosistemi e componenti
+
+Rappresentazione della struttura del sistema secondo i metodi del produttore
+
+[[architetture-modelli]]
+== Architetture / Modelli
+
+Riferimento allo studio di dettaglio
+
+Dipende dal risultato del progetto; per esempio: il modello dei processi operativi, il modello delle funzioni (ad es. con UseCases/Userstories), l’architettura dei dati/il modello dei dati, ecc.
+
+Architettura tecnica del sistema IT
+
+Prodotti impiegati, versioni
+
+[[interfacce-e-delimitazioni]]
+= Interfacce e delimitazioni
+
+Interfacce verso i sistemi circostanti
+
+Riferimento al documento per la concezione dell’integrazione
+
+[[fattibilità]]
+= Fattibilità
+
+Valutazione della fattibilità, riferimento alla documentazione di prototipazione
+
+[[conformità-con-le-direttive]]
+= Conformità con le direttive
+
+Valutazione del rispetto delle direttive
+
+Riferimento alle direttive contenute nello studio
+
+[cols=",,",options="header",]
+|========================================================
+|Nr. |Direttiva |Valutazione del rispetto della direttiva
+| | |
+| | |
+|========================================================
+
+null
+
+[[assegnazione-e-copertura-dei-requisiti]]
+= Assegnazione e copertura dei requisiti
+
+Riferimento ai requisiti di sistema
+
+[cols=",,,,",options="header",]
+|===============================================================================================================================
+|ID |Categorie di requisiti |Descrizione |Assegnazione a un sottosistema / componente |Valutazione della copertura dei requisiti
+| | | | |
+| | | | |
+|===============================================================================================================================

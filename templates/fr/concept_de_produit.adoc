@@ -1,0 +1,124 @@
+Concept de produit
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Situation initiale 2
+
+2 Description du produit 2
+
+2.1 Aperçu du produit 2
+
+3 Exigences détaillées 2
+
+3.1 Exigences envers l‘organisation 2
+
+3.2 Exigences fonctionnelles 2
+
+3.3 Exigences qualité, Cadre général 3
+
+4 Couverture des exigences 3
+
+[[situation-initiale]]
+=  +
+Situation initiale
+
+Référence à l’étude
+
+* Référence aux exigences générales
+* Référence à la variante choisie
+
+1.  [[description-du-produit]]
+= Description du produit
+1.  [[aperçu-du-produit]]
+== Aperçu du produit
+
+Description conceptuelle sommaire du produit (propriétés / spécificité).
+
+Un aperçu graphique du système aide à structurer les exigences détaillées. Il peut être réalisé avec différentes techniques.
+
+[[exigences-détaillées]]
+= Exigences détaillées
+
+Description détaillée des propriétés/spécification du produit
+
+[[exigences-envers-lorganisation]]
+== Exigences envers l‘organisation
+
+Les exigences envers l’organisation ne sont pas décrites ici. Elle sont documentées dans le concept d’organisation.
+
+[[exigences-fonctionnelles]]
+== Exigences fonctionnelles
+
+Différentes techniques peuvent être utilisées pour décrire les exigences fonctionnelles.
+
+Par exigence:
+
+[cols=",",options="header",]
+|================================================================================================================================================================================
+|Exigence générale: _n_ |Exigence: _n.nn_ |Source: |Auteur:
+|Nom |_Destruction des dossiers papier_
+|Description fonctionnelle courte |_Les dossiers sont supprimés sans possibilité de la copier, standard de sécurité xy est respecté._
+|Input |_Dossiers retirés de la circulation_
+|Etapes de travail et règles a|
+_1. Préparer les dossiers pour la destruction_
+
+_2. Détruire les dossiers dans le destructeur de documents_
+
+_3. Vider le tiroir du destructeur de documents et éliminer les déchets_
+
+|Output |_Dossier détruit et déchets éliminés_
+|Critères de réception |_Dossiers minimum 3 cm de hauteur, Format A3, Restes de papier non reproductibles selon le standard de sécurité XY, Elimination de 10 mètres en 1 heure._
+|Importance (5-1): |Urgence (5-1): |Dépendance:
+|Risque/criticité (5-1): |Charge (5-1): |Version |Etat
+|================================================================================================================================================================================
+
+[[exigences-qualité-cadre-général]]
+== Exigences qualité, Cadre général
+
+Par exigence:
+
+[cols=",",options="header",]
+|================================================================================================================================================================================
+|Exigence générale: _n_ |Exigence: _n.nn_ |Source: |Auteur:
+|Nom |_Destruction des dossiers papier_
+|Description |_Les dossiers sont supprimés sans possibilité de la copier, standard de sécurité xy est respecté._
+|Critères de réception |_Dossiers minimum 3 cm de hauteur, Format A3, Restes de papier non reproductibles selon le standard de sécurité XY, Elimination de 10 mètres en 1 heure._
+|Importance (5-1): |Urgence (5-1): |Dépendance:
+|Risque/criticité (5-1): |Charge (5-1): |Version |Etat
+|================================================================================================================================================================================
+
+[[couverture-des-exigences]]
+= Couverture des exigences
+
+[cols=",,,",options="header",]
+|==============================================================================================================
+|ID |Catégorie d’exigence |Attribution à un sous-système / composant |Evaluation de la couverture de l’exigence
+|_B-001_ | | |
+|_S-001_ | | |
+| | | |
+|==============================================================================================================
+
+[[section]]
+=

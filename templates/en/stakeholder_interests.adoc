@@ -1,0 +1,42 @@
+Stakeholder Interests
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+Table of Contents
+
+1 Stakeholder Positioning 2
+
+2 Stakeholder Description 3
+
+1.  [[stakeholder-positioning]]
+=  +
+Stakeholder Positioning
+2.  [[stakeholder-description]]
+= Stakeholder Description
+
+[cols=",,,,,,,,",options="header",]
+|======================================================================================================================================================================================
+|Organization |Name |Language |Function |Knowledge Area |Influence |Motivation |Involvement/ Role in Project |Availability
+|_Office xy_ |_yxyx_ |_D, F_ |_Controller_ |_Procurement specialist_ |_Direct/indirect_ |_Benefits from the new solution_ |_Representative of the core organization_ |_Absent May-June_
+|======================================================================================================================================================================================
+
+[[section]]
+=

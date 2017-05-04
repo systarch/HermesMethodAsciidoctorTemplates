@@ -1,0 +1,42 @@
+Projektentscheide
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Entscheide der Projektsteuerung und Projektführung 2
+
+[[entscheide-der-projektsteuerung-und-projektführung]]
+=  +
+Entscheide der Projektsteuerung und Projektführung
+
+*Entscheidungsliste*
+
+[cols=",,,,",options="header",]
+|==================================================================================================================================================
+|Nr |Entscheid |Entscheidungsträger |Entscheidungsunterlagen |Datum
+|_1_ |_Variantenwahl_ |_PL Name xyz_ |_Studie, Rechtsgrundlagenanalyse, Schutzbedarfs­analyse, Grobofferten der Anbieter aaa, bbb, ccc_ |_1.1.1111_
+| | | | |
+| | | | |
+| | | | |
+|==================================================================================================================================================

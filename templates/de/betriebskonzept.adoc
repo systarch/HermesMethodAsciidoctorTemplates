@@ -1,0 +1,138 @@
+Betriebskonzept
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Anforderungen an den Betrieb 2
+
+2 Systemtechnik 2
+
+3 Beschreibung der Aufbauorganisation und der Betriebsprozesse 2
+
+3.1 Aufbauorganisation 2
+
+3.2 Betriebsprozesse 2
+
+4 Systembetrieb 2
+
+4.1 Normalbetrieb 2
+
+4.2 Systemüberwachung 2
+
+4.3 Arbeitsvorbereitung 3
+
+5 Behandlung von Störungen 3
+
+6 Beschreibung der Aspekte der Sicherheit 3
+
+7 Anforderungsabdeckung 3
+
+[[anforderungen-an-den-betrieb]]
+= Anforderungen an den Betrieb
+
+[[_Toc395601438]]Die Anforderungen an den Betrieb sind im Dokument Systemanforderungen beschrieben.
+
+[[systemtechnik]]
+= Systemtechnik
+
+IT-Infrastrukturkonzept
+
+Systeme, eingesetzte Komponenten, Versionen
+
+Netze
+
+Datensicherung
+
+Archivierung
+
+[[section]]
+=
+
+1.  [[beschreibung-der-aufbauorganisation-und-der-betriebsprozesse]]
+= Beschreibung der Aufbauorganisation und der Betriebsprozesse
+1.  [[aufbauorganisation]]
+== Aufbauorganisation
+
+Für den Betrieb des IT-Systems relevante Organisation (Organigramm, Stellen, Funktionen)
+
+Beschreibung der Auswirkungen des IT-Systems auf die Organisation
+
+Analyse des Anpassungsbedarfs
+
+[[betriebsprozesse]]
+== Betriebsprozesse
+
+Für den Betrieb des IT-Systems relevante Betriebsprozesse
+
+Beschreibung der Auswirkungen des IT-Systems auf die Prozesse
+
+Analyse des Anpassungsbedarfs
+
+Beschreibung der Aufgaben der Anwenderbetreuung mit Prozessbeschreibung, Regelungen, Anleitungen
+
+1.  [[systembetrieb]]
+= Systembetrieb
+1.  [[normalbetrieb]]
+== Normalbetrieb
+
+Statistiken, Kennzahlen, Messgrössen
+
+[[systemüberwachung]]
+== Systemüberwachung
+
+Betriebsüberwachung mit Monitoring, Alarmierung etc.
+
+Datensicherung
+
+Kontrollen zum Datenschutz
+
+Hinweis auf Betriebsprozesse
+
+[[arbeitsvorbereitung]]
+== Arbeitsvorbereitung
+
+Projektspezifische Konzepte
+
+[[behandlung-von-störungen]]
+= Behandlung von Störungen
+
+Hinweis auf Betriebsprozesse
+
+Vorgehen im Fehlerfall (inkl. organisatorische Aspekte wie Kommunikation gegenüber Anwendern etc.)
+
+[[beschreibung-der-aspekte-der-sicherheit]]
+= Beschreibung der Aspekte der Sicherheit
+
+Projektspezifische Konzepte
+
+[[anforderungsabdeckung]]
+= Anforderungsabdeckung
+
+Hinweis auf Systemanforderungen
+
+[cols=",,,",options="header",]
+|============================================================================================
+|ID |Anforderung |Zuordnung zu Subsystem / Komponente |Beurteilung der Anforderungs­abdeckung
+|_nn_ |_Support_ |_Supportzeiten 7.30 – 12.00 / 13.30 – 18.00 Uhr_ |_100%_
+|_nn_ |_Sicherheit_ |_Verschlüsselte Ablage in der Datenbank_ |_100%_
+| | | |
+|============================================================================================

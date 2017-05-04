@@ -1,0 +1,37 @@
+Change Status List
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+|==============================
+
+[[overview-of-changes]]
+= Overview of Changes
+
+[cols=",,,,,,,,",options="header",]
+|=======================================================================================================
+|Change No.­ | |Date of Request |Decision-Maker­ |Status* |Date |Person in Charge­ |Time Required­ |Cost
+|_001_ |_K. Meier_ |_15.5.2015_ |_Project Manager_ |_Implemented_ |_30.5.2015_ | |_2_ |_1200_
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+|Total |_1_ |_1200_
+|=======================================================================================================
+
+*Status: Request received / analyzed / approved / rejected / implemented

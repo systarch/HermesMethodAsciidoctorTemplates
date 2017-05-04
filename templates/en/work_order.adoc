@@ -1,0 +1,125 @@
+Work Order
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Work Objectives 2
+
+2 Outcomes 2
+
+3 Scope 2
+
+4 Pre-Requisites and Interdependencies 2
+
+5 Activities 2
+
+6 Work Assignments 3
+
+7 Presentation of Outcomes 3
+
+[[work-objectives]]
+=  +
+Work Objectives
+
+[cols=",",options="header",]
+|=======================================================================================================
+|No. |Objective
+|1 |_Evaluation criteria: To be designed in sufficient detail to allow a market survey to be conducted­_
+|2 |_Market survey: of products the organization already has and external products available_
+|=======================================================================================================
+
+[[outcomes]]
+= Outcomes
+
+[cols=",,",options="header",]
+|==========================
+|No. |Outcome |Description
+|1 |_Evaluation Criteria_ |
+|2 |_Market Survey_ |
+|==========================
+
+[[scope]]
+= Scope
+
+Scope of Work Order
+
+_No product evaluation is to be conducted. No tenders will be solicited. This will be done in the following phase._
+
+[[pre-requisites-and-interdependencies]]
+= Pre-Requisites and Interdependencies
+
+*Pre-Requisites for Starting Work*
+
+*Interdependencies*
+
+[cols=",,,,",options="header",]
+|================================================================
+|No. |Interdependence +
+(from others) |Outcome |Deadline |Person in Charge
+|_A.-01_ |_Project xyz_ |_Requirements_ |_31.3.2015_ |_R. Kuster_
+| | | | |
+|================================================================
+
+[cols=",,,,",options="header",]
+|=====================================================================
+|No. |Interdependence (by others) |Outcome |Deadline |Person in Charge
+|_B-01_ |_Study_ |_Market Studies_ |_21.4.2015_ |
+| | | | |
+|=====================================================================
+
+[[activities]]
+= Activities
+
+[cols=",,,,,,",options="header",]
+|============================================================================================================================
+|No. |Outcome |Activities* |Person in Charge, Collaborator |Time Required (h) |Deadline |Status
+|_1_ |_Evaluation Criteria_ |_Transform requirements into evaluation criteria_ |_Huber_ |_6_ |_1.4.2015_ |_OK_
+|_2_ | | |_Huber, Graf_ |_2_ |_3.4.2015_ |_OK_
+|_3_ |_Market Study­_ |_Determine whether the core organization has suitable products_ |_Huber, Meier_ |_4_ |_5.4,2015_ |_OK_
+|_4_ | |_Discussion of Interim Outcome­_ |_Huber, Graf_ |_1_ |_8.4.2015_ |_Pending_
+|5 | | | | | |
+|Total |13 | |
+|============================================================================================================================
+
+Notice: * including quality assurance measures such as walk-throughs, reviews (according to test plan in project management plan)
+
+[[work-assignments]]
+= Work Assignments
+
+*Human Resources (Hours)*
+
+[cols=",,,",options="header",]
+|======================================
+|Role / Person |Month 1 |Month 2 |Total
+|_Huber_ |_14_ |_12_ |_26_
+|Name | | |
+|======================================
+
+*Other Resources*
+
+Rooms, IT infrastructure, specific software, etc.
+
+[[presentation-of-outcomes]]
+= Presentation of Outcomes
+
+Documents: Chapter structure
+
+Other Outcomes: Textual description

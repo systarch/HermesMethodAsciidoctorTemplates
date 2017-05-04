@@ -1,0 +1,140 @@
+Concetto di migrazione
+
+[cols=",",options="header",]
+|=========================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, ad uso interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|=========================================================================
+
+Elenco delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Requisiti per la migrazione 2
+
+2 Oggetti della migrazione 2
+
+3 Analisi dei dati 2
+
+4 Procedura di migrazione 2
+
+4.1 Panoramica 2
+
+4.2 Studio (per procedura) 2
+
+5 Piano di migrazione 2
+
+6 Fattibilità 2
+
+6.1 Rischi 2
+
+6.2 Fallback scenario 2
+
+7 Archiviazione e disattivazione del vecchio sistema 3
+
+8 Copertura dei requisiti 3
+
+[[requisiti-per-la-migrazione]]
+=  +
+Requisiti per la migrazione
+
+I requisiti per la migrazione sono descritti nel documento sui requisiti di sistema.
+
+[[oggetti-della-migrazione]]
+= Oggetti della migrazione
+
+Descrizione degli oggetti della migrazione
+
+[[analisi-dei-dati]]
+= Analisi dei dati
+
+Analisi dei dati da migrare
+
+Quantità, frequenza
+
+Qualità dei dati
+
+[[procedura-di-migrazione]]
+= Procedura di migrazione
+
+[[panoramica]]
+== Panoramica
+
+[cols=",,,",options="header",]
+|======================================
+a|
+Oggetto della
+
+migrazione
+
+ |Requisiti |Procedura di migrazione a|
+Valutazione della
+
+copertura dei requisiti
+
+| | | |
+| | | |
+|======================================
+
+[[studio-per-procedura]]
+== Studio (per procedura)
+
+Descrizione concettuale della procedura, dell’infrastruttura necessaria, ecc.
+
+[[piano-di-migrazione]]
+= Piano di migrazione
+
+Procedura per la migrazione, svolgimento temporale, dipendenze, verifiche della qualità
+
+[[fattibilità]]
+= Fattibilità
+
+[[rischi]]
+== Rischi
+
+Valutazione della fattibilità o dei rischi della migrazione
+
+[[fallback-scenario]]
+== Fallback scenario
+
+«Piano B» in caso di problemi di migrazione
+
+[[archiviazione-e-disattivazione-del-vecchio-sistema]]
+= Archiviazione e disattivazione del vecchio sistema
+
+Piano d’archiviazione
+
+Pianificazione della disattivazione
+
+Smaltimento
+
+[[copertura-dei-requisiti]]
+= Copertura dei requisiti
+
+[cols=",,,",options="header",]
+|======================================
+|Attribuzione e copertura dei requisiti
+|ID |Requisito a|
+Assegnazione a un
+
+sottosistema / componente
+
+ |Valutazione della copertura dei +
+requisiti
+|_nn_ | | |
+|_nn_ | | |
+| | | |
+| | | |
+|======================================

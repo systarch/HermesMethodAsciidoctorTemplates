@@ -1,0 +1,363 @@
+Project Management Plan
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Project Description 3
+
+2 Scenario with Phases and Milestones 3
+
+3 Organization 3
+
+4 Structural Plan of Project Outcomes 3
+
+5 Scenario with Project Breakdown Structure 4
+
+5.1 Phases, Modules, Tasks, Outcomes, and Roles 4
+
+5.2 Interdependencies 4
+
+6 Test Plan 4
+
+7 Schedule 5
+
+8 Cost Projection 5
+
+9 Resource Projection 5
+
+10 Procurement Plan 5
+
+11 Communication Plan 5
+
+12 Reporting 6
+
+13 Requirements, Methods, and Tools 6
+
+14 Appendix 7
+
+14.1 Quality Assurance 7
+
+14.2 Risk Management 7
+
+14.3 Document Management 8
+
+14.3.1 Document Storage 8
+
+14.3.2 Naming Conventions 9
+
+14.3.3 Document Versions 9
+
+14.4 Change Management 10
+
+[[project-description]]
+=  +
+Project Description
+
+Brief description of project content
+
+[[scenario-with-phases-and-milestones]]
+= Scenario with Phases and Milestones
+
+Diagram of phases and milestones (see sample in Project Presentation template)
+
+[[organization]]
+= Organization
+
+[cols=",,,",options="header",]
+|======================================================================
+|Role in Project Organization |Name |Ref. |Function/Organizational Unit
+|_Project sponsor_ |_Kurt Müller_ |_muk_ |_Head of xyz Department_
+|_Steering committee_ | | |
+|_Project manager_ | | |
+|_ISDP manager_ | | |
+|_Specialist: User representative_ | | |
+|_Specialist: Business process owner_ | | |
+| | | |
+|======================================================================
+
+[cols=",,,",options="header",]
+|==========================================================
+|Role in Core Organization |Name |Ref. |Organizational Unit
+|Executive director: | | |
+a|
+Controlling and compliance:
+
+_Internal auditing_
+
+ |_P. Hauser_ | |_ABC_
+|Project management competence center: | | |
+|==========================================================
+
+Escalation occurs within the framework of the project organization.
+
+_If a problem cannot be resolved after five days, it is escalated to the next level._
+
+[[structural-plan-of-project-outcomes]]
+= Structural Plan of Project Outcomes
+
+Mindmap, hierarchical illustration
+
+The structural plan of project outcomes is a hierarchically structured illustration of the project content (product breakdown structure).
+
+[[scenario-with-project-breakdown-structure]]
+= Scenario with Project Breakdown Structure
+
+[[phases-modules-tasks-outcomes-and-roles]]
+== Phases, Modules, Tasks, Outcomes, and Roles
+
+Project breakdown structure (HERMES Online) or reference to separate document
+
+[[interdependencies]]
+== Interdependencies
+
+[cols=",",options="header",]
+|========================================
+|Project / Undertaking |Interdependency
+|Project-Relevant Issues |
+|Project-Relevant Outcome/Decision/Fact |
+|Deadline |
+|Impact on Project |
+|Contact Person |_Project manager_
+|========================================
+
+[[test-plan]]
+= Test Plan
+
+Adopting outcomes from project breakdown structure
+
+[cols=",,,,,",options="header",]
+|=====================================================================================
+a|
+Phase /
+
+Outcome
+
+ |Test method |Person in Charge |Tester |Deadline |Status
+|*Concept* | | | | |
+|_Phase report_ |_Review_ |_Project sponsor_ |_Sutter, Huber_ |_15.5.2015_ |_Approved_
+|=====================================================================================
+
+Test methods in accordance with QA Plan section
+
+[[schedule]]
+= Schedule
+
+Detailed scheduling of current or next project phase
+
+Reference to external document
+
+[[cost-projection]]
+= Cost Projection
+
+Usually a separate document; in accordance with core organization requirements
+
+[[resource-projection]]
+= Resource Projection
+
+*Human Resources Required*
+
+[cols=",,,,,,,",options="header",]
+|==============================================================================================
+|Role / Person |Month 1 |Month 2 |Month 3 |Month 4 |Month 5 |Total |Approval of Direct Superior
+|Name | | | | | | |
+|Name | | | | | | |
+|==============================================================================================
+
+*Other Resources*
+
+Rooms, IT infrastructure, specific software, etc.
+
+[[procurement-plan]]
+= Procurement Plan
+
+[cols=",,,,",options="header",]
+|========================================================================================================================
+|Need / Description |Volume |Amount in CHF |Time Period |Procurement Method
+|_Business analyst_ |_20 days of work_ |_20,000_ |_20.1.-30.3.2014_ |_Procurement in the open market with several offers_
+|_Developer_ |_300 days of work_ |_280,000_ |_01.04.2014-30.06.2015_ |_Open procurement procedure, WTO_
+|_DB analysis_ |_100 h_ |_18,000_ |_20.01.-30.03.2014_ |_Retrieval acc. to framework agreement_
+|_Tools & services_ |_400 h_ |_48,000_ |_01.07.2014-30.06.2015_ |_Invitation to tender procedure_
+|========================================================================================================================
+
+[[communication-plan]]
+= Communication Plan
+
+[cols=",,,,,",options="header",]
+|===============================================================================================================================================================================
+|Person to Be Informed |Person Responsible for Communication |Content |Objective |Means/Medium |Deadline
+|_All employees_ |_Project sponsor_ |_Launching new solution_ |_All employees know the procedure, the deadlines, and the support organization_ |_Flyer (by e-mail)_ |_12.3.2015_
+| | | | | |
+|===============================================================================================================================================================================
+
+[[reporting]]
+= Reporting
+
+[cols=",,,,",options="header",]
+|==========================================================================================================
+|Outcome |Periodicity |Person in Charge |Recipient |Deadline
+|_Project status report_ |_Monthly_ |_Project manager_ |_Project sponsor_ |_First working day of the month_
+|_Phase report_ |_End of Concept phase_ |_Project manager_ |_Project sponsor_ |_See planning_
+| | | | |
+|==========================================================================================================
+
+[[requirements-methods-and-tools]]
+= Requirements, Methods, and Tools
+
+[cols=",,",options="header",]
+|===========================================
+|Title |Requirement / Method / Tool |Version
+|_Project management_ |_HERMES_ |_HERMES 5_
+|_Procurement_ |_BöB, VöB_ |
+|_Software for xyz_ |_Tool aaa_ |_10.2_
+|===========================================
+
+[[appendix]]
+= Appendix
+
+[[quality-assurance]]
+== Quality Assurance
+
+The testing details are set out in the test concept.
+
+The tests to be carried out are listed in the Test Plan section of the project management plan.
+
+The following test methods are used in the project.
+
+[cols=",",options="header",]
+|===========================================================================================================================================================================================================================================================================
+|Test Method |Description
+a|
+_Written Review_
+
+_(WR)_
+
+ |_Testers receive the test results by e-mail. They review the test results independently and produce a test report with their findings. The findings are either revised by the author or rejected by means of a written explanation which is sent to the tester by e-mail._
+a|
+_Verbal Review_
+
+_(VR)_
+
+ a|
+_A review meeting is held to discuss the findings of the written review. At the meeting, the necessary adaptations/measures are decided and assigned, and deadlines are set._
+
+_A written review (WR) is always the basis for a verbal review (VR)._
+
+_A VR results in a review report, which must be signed by all VR participants._
+
+a|
+_Walk-Through_
+
+_(WT)_
+
+ |_A walk-through is less formal than a review. By reviewing the test results available at a specific point in time, the tester tries to get a clear picture of the current state of the work to be done._
+|===========================================================================================================================================================================================================================================================================
+
+_If test results are to be reviewed by a group of specialists, the test is conducted by written review._
+
+[[risk-management]]
+== Risk Management
+
+Project risks are listed in the status report.
+
+To evaluate the risks, every risk must be assessed in terms of the probability of its occurrence and its level of impact. The respective variables are set out here.
+
+*Assessment Scale: Probability of Occurrence*
+
+[cols=",",options="header",]
+|====================================================
+|Assessment |Description of Probability of Occurrence
+|1 = low |_Improbable or below 20%_
+|2 = medium |_Somewhat probable or 20-50%_
+|3 = high |_Highly probable or above 50%_
+|====================================================
+
+*Assessment Scale: Level of Impact*
+
+[cols=",,,",options="header",]
+|===========================================================================================
+|Assessment |Impact on Project Outcome |Impact on Deadline |Impact on Cost
+|1 = low |_Minor defects_ |_Up to 1 month or minor_ |_None_
+|2 = medium |_Major defects_ |_1-3 months or major_ |_5-20% or major_
+|3 = high |_Critical defects_ |_More than 3 months or critical_ |_More than 20% or critical_
+|===========================================================================================
+
+This data are then used as the coordinates of a matrix to visualize the risk. The arrow (example: Risk 2) shows the change from the previous assessment.
+
+*Risk Matrix*
+
+Project risks that have been identified and assessed are listed in a table (such as the one shown below) in the project status report. Measures are planned to deal with every risk.
+
+[cols=",,,,,,,",options="header",]
+|=================================================================
+|No. |LI |PO |RN |Description |Measure |Person in Charge |Deadline
+|1 |3 |3 |9 | | | |
+|2 |2 |2 |4 | | | |
+|=================================================================
+
+[[document-management]]
+== Document Management
+
+[[document-storage]]
+=== Document Storage
+
+Tools, file location, access management
+
+[[naming-conventions]]
+=== Naming Conventions
+
+In order for project-related documents to be clearly identifiable and easy to find, the following naming conventions are used for file names:
+
+_Project_name_document_name.file_type_
+
+Example:
+
+_HMH­_project_charter.doc_
+
+[[document-versions]]
+=== Document Versions
+
+Changes made to documents should be listed in that document's list of changes.
+
+Use of Version Numbers
+
+Version numbers V0.1, V0.2, V0.3... refer to versions of pending documents.
+
+Version number V1.0 is the first accepted version of that particular document.
+
+Version number v.1.1 is the first changed version of the document after its acceptance.
+
+Version number V2.0 is the second accepted version of the document.
+
+*Documents with a Time Reference*
+
+If a document has a clear time reference, that date is included in the file name.
+
+Example for Minutes of a Meeting:
+
+_HMH_minutes_core_team_meeting_2011-12-05.doc_
+
+Dates used in file names should always have a YYYY-MM-DD format to enable the files to be sorted by date.
+
+[[change-management]]
+== Change Management
+
+_Use Microsoft PowerPoint to make changes (right mouse click - Object Presentation - edit)_

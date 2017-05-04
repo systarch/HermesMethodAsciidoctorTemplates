@@ -1,0 +1,42 @@
+Project Decisions
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+*1* Project Steering and Project Management Decisions 2
+
+[[project-steering-and-project-management-decisions]]
+=  +
+Project Steering and Project Management Decisions
+
+*List of Decisions*
+
+[cols=",,,,",options="header",]
+|==================================================================================================================================================================
+|No |Decision |Decision-Maker |Decision Documents |Date
+|_1_ |_Choice of option_ |_Name of project manager_ |_Study, analysis of legal framework, protection needs analysis, offers by tenderers aaa, bbb, ccc_ |_1.1.1111_
+| | | | |
+| | | | |
+| | | | |
+|==================================================================================================================================================================

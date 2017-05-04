@@ -1,0 +1,96 @@
+Project Specifications
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Purpose 2
+
+2 Target Situation 2
+
+2.1 Objectives and Requirements 2
+
+2.2 Must-Have Criteria for Suitability and for the Technical Specification 2
+
+2.3 Can-Have Criteria for Qualification 2
+
+2.4 Scope 2
+
+2.5 Price 2
+
+3 Deadlines 2
+
+4 Offer 2
+
+4.1 General information regarding Offer 2
+
+4.2 Taxonomy of Award Criteria 2
+
+4.3 Offer Structure 2
+
+4.4 Presentation and Negotiation 2
+
+5 Appendices 2
+
+[[purpose]]
+= Purpose
+
+[[target-situation]]
+= Target Situation
+
+[[objectives-and-requirements]]
+== Objectives and Requirements
+
+[[must-have-criteria-for-suitability-and-for-the-technical-specification]]
+== Must-Have Criteria for Suitability and for the Technical Specification
+
+[[can-have-criteria-for-qualification]]
+== Can-Have Criteria for Qualification
+
+[[scope]]
+== Scope
+
+[[price]]
+== Price
+
+[[deadlines]]
+= Deadlines
+
+Information on Procurement Procedure
+
+[[offer]]
+= Offer
+
+[[general-information-regarding-offer]]
+== General Information Regarding Offer
+
+[[taxonomy-of-award-criteria]]
+== Taxonomy of Award Criteria
+
+[[offer-structure]]
+== Offer Structure
+
+[[presentation-and-negotiation]]
+== Presentation and Negotiation
+
+[[appendices]]
+= Appendices
+
+Forms, guidelines, general terms and conditions, contract template, list of criteria, and concepts/studies/description of deliverables

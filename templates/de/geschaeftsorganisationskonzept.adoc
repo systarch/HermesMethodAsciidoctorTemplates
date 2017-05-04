@@ -1,0 +1,139 @@
+Geschäftsorganisationskonzept
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Organisationsanforderungen 2
+
+2 Aufbauorganisation 2
+
+2.1 Organisationsprinzipien und -varianten 2
+
+2.2 Organisationsbeschreibung 2
+
+3 Ablauforganisation (Prozesse) 2
+
+3.1 Prozesslandkarte 2
+
+3.2 Prozessbeschreibung 3
+
+4 Übersicht der Veränderungen 3
+
+5 Anforderungsabdeckung 3
+
+[[organisationsanforderungen]]
+=  +
+Organisationsanforderungen
+
+Pro Anforderung:
+
+[cols=",",options="header",]
+|======================================================================================================================================================================================================================================================
+|Grobanfor­derung: _n_ |Anforderung: _n.nn_ |Quelle: |Autor:
+|Name |_Kursbestätigung_
+|Beschreibung a|
+_Kursbestätigungen per Mail:_
+
+_Die Kursbestätigungen müssen tagfertig versendet werden. Anmeldungen, welche bis 12.00 Uhr eintreffen sind am gleichen Tag bis 17.00 Uhr bestätigt. Anmeldungen welche nach 12.00 Uhr eintreffen sind am Folgetag bis spätestens 12.00 Uhr bestätigt._
+
+_Kursbestätigungen per Post:_
+
+_Die Kursbestätigungen müssen tagfertig versendet werden. Anmeldungen, welche bis 17.00 Uhr eintreffen sind am gleichen Tag bestätigt._
+
+_Die Bestätigung erfolgt durch den Geschäftsprozessverantwortlichen._
+
+|Abnahmekriterien |_Kursbestätigungen per Post: Sind gleichentags vor Schalterschluss auf der Poststelle aufgegeben._
+|Wichtigkeit (5-1): |Dringlichkeit (5-1): |Abhängigkeit zu:
+|Risiko/Kritikalität (5-1): |Aufwandgrösse (5-1): |Version |Status
+|======================================================================================================================================================================================================================================================
+
+1.  [[aufbauorganisation]]
+= Aufbauorganisation
+1.  [[organisationsprinzipien-und--varianten]]
+== Organisationsprinzipien und -varianten
+
+Organisationsprinzipien (z.B. zentrale / dezentrale Organisationsstruktur)
+
+Organisationsvarianten, Bewertung
+
+[[organisationsbeschreibung]]
+== Organisationsbeschreibung
+
+Beschreibung der gewählten Organisationsvariante
+
+Organigramm
+
+Funktionsübersicht (Grobbeschreibung)
+
+1.  [[ablauforganisation-prozesse]]
+= Ablauforganisation (Prozesse)
+1.  [[prozesslandkarte]]
+== Prozesslandkarte
+
+*Übersicht*
+
+Prozesslandkarte der Organisation
+
+IST- und SOLL-Beschreibung
+
+[[_Toc224536934]]**Zu unterstützende Prozesse**
+
+[cols=",,",options="header",]
+|================================
+a|
+Referenz
+
+(Prozess-Nr)
+
+ |Prozesstyp* |Prozessbezeichnung
+| | |
+| | |
+|================================
+
+*Prozesstyp: Kernprozess, Führungsprozess, Supportprozess
+
+[[prozessbeschreibung]]
+== Prozessbeschreibung
+
+Grobe Prozessbeschreibung (SOLL)
+
+[[übersicht-der-veränderungen]]
+= Übersicht der Veränderungen
+
+Zusammenfassung der notwendigen Anpassungen der Aufbau- und Ablauforganisation
+
+Beurteilung der Veränderungen bezüglich der Funktionen und Stellen
+
+[[anforderungsabdeckung]]
+= Anforderungsabdeckung
+
+[cols=",,,",options="header",]
+|============================================================================================
+|ID |Anforderung |Zuordnung zu Subsystem / Komponente |Beurteilung der Anforderungs-abdeckung
+|_nn_ | | |
+|_nn_ | | |
+| | | |
+| | | |
+|============================================================================================
+
+[[section]]
+=

@@ -1,0 +1,83 @@
+Documentazione del prototipo
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Situazione iniziale 1
+
+2 Requisiti 2
+
+3 Piano 2
+
+4 Riassunto dei risultati del test 2
+
+5 Conclusioni 2
+
+6 Raccomandazioni 2
+
+[[situazione-iniziale]]
+= Situazione iniziale
+
+*Motivazione per la prototipazione*
+
+*Condizioni quadro per i prototipi*
+
+Costi, carico di lavoro, infrastruttre
+
+*Presupposti per i prototipi*
+
+[[requisiti]]
+= Requisiti
+
+[cols=",,,",options="header",]
+|==================================
+| |Requisiti
+|Rif. |ID |Descrizione |Importanza*
+|1 | | |
+|2 | | |
+|==================================
+
+*importanza: O=obbligatorio, F=facoltativo con priorità da 1-3, dove 1=alta
+
+[[piano]]
+= Piano
+
+Piano del prototipo
+
+Infrastruttura necessaria
+
+[[riassunto-dei-risultati-del-test]]
+= Riassunto dei risultati del test
+
+Riferimento alla concetto del test
+
+Lista dei casi di test
+
+Riassunto del rapporto del test, rapporto del test
+
+[[conclusioni]]
+= Conclusioni
+
+Testo
+
+[[raccomandazioni]]
+= Raccomandazioni

@@ -1,0 +1,44 @@
+Stakeholderinteresse
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===================================
+|Datumnull |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===================================
+
+Inhaltsverzeichnis
+
+1 Stakeholder-Positionierung 2
+
+2 Stakeholder-Beschreibung 3
+
+[[stakeholder-positionierung]]
+= Stakeholder-Positionierung
+
+null
+
+[[stakeholder-beschreibung]]
+= Stakeholder-Beschreibung
+
+[cols=",,,,,,,,",options="header",]
+|=======================================================================================================================================================================================
+|Organisation |Name |Sprache |Funktion |Wissensgebiet |Einfluss |Motivation |Einbezug / Rolle im Projekt |Verfügbarkeit
+|_Amt xy_ |_yxyx_ |_D, F_ |_Controller_ |_Beschaffungs-spezialist_ |_Direkt / indirekt_ |_Profiziert von der neuen Lösung_ |_Vertreter der Stammorganisation_ |_Abwesend vom Mai - Juni_
+|=======================================================================================================================================================================================
+
+[[section]]
+=

@@ -1,0 +1,119 @@
+Concept for Organizational Structure
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Purpose 2
+
+2 Organizational Requirements 2
+
+3 Development Structure 2
+
+3.1 Organizational Principles and Options 2
+
+3.2 Description of Organization 2
+
+4 Process Organization (Processes) 2
+
+4.1 Process Map 2
+
+4.2 Process Description 3
+
+5 Overview of Changes 3
+
+[[purpose]]
+=  +
+Purpose
+
+Purpose with regard to organizational structure
+
+[[organizational-requirements]]
+= Organizational Requirements
+
+[cols=",,,",options="header",]
+|=================================
+| |Requirement
+|Ref. |ID |Description |Weighting*
+|1 | | |
+|2 | | |
+|=================================
+
+*Weighting: M=must haves, C=can haves with prioritization 1-3, in which 1=high priority
+
+[[development-structure]]
+= Development Structure
+
+[[organizational-principles-and-options]]
+== Organizational Principles and Options
+
+Organizational principles (e.g. centralized/decentralized organizational structure)
+
+Organizational options, evaluation
+
+[[description-of-organization]]
+== Description of Organization
+
+Description of the organizational option chosen
+
+Organizational chart
+
+Overview of major functions (basic description)
+
+[[process-organization-processes]]
+= Process Organization (Processes)
+
+[[process-map]]
+== Process Map
+
+*Overview*
+
+Process map organization
+
+Description of Actual and Target Situation
+
+[[_Toc224536934]]**Processes to be Supported**
+
+[cols=",,",options="header",]
+|===================================
+a|
+Reference
+
+(Process No.)
+
+ |Process Type* |Process Designation
+| | |
+| | |
+|===================================
+
+*Process Type: Core process, management process, support process
+
+[[process-description]]
+== Process Description
+
+Description of major processes (target situation)
+
+[[overview-of-changes]]
+= Overview of Changes
+
+Summary of necessary adaptations to development and process structure
+
+Evaluation of changes in terms of functions and positions

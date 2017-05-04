@@ -1,0 +1,61 @@
+Analisi delle basi legali
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Basi legali esistenti 1
+
+2 Modifiche imminenti 1
+
+3 Lacune identificate 2
+
+4 Proposta per la copertura di lacune 2
+
+5 Valutazione delle conseguenze 2
+
+6 Raccomandazioni 2
+
+[[basi-legali-esistenti]]
+= Basi legali esistenti
+
+Vengono qui esposte le basi legali rilevanti per il futuro sistema. Non bisogna entrare nel merito dei requisiti della protezione dati e della sicurezza informatica.
+
+[[modifiche-imminenti]]
+= Modifiche imminenti
+
+In questo capitolo si menzionano le modifiche delle basi legali previste e rilevanti per il sistema futuro e si indica in quale direzione esse vadano. Queste modifiche possono portare a dei maggiori requisiti, tecnici o di altro tipo, del progetto informatico. Spesso però esse sono anche un’occasione per coprire eventuali lacune nelle basi legali (vedi capitoli 4 e 5).
+
+[[lacune-identificate]]
+= Lacune identificate
+
+Basandosi sul confronto delle basi legali esistenti e i loro cambiamenti previsti e sui requisiti di sistema, si identificano tutte le lacune da colmare mediante un progetto legislativo. Nello stesso tempo, bisogna considerare che un progetto informatico nell’ambito di un’attuazione può subire eventualmente una nuova interpretazione e un’espansione, che forse non è coperta dalle basi legali esistenti. Può valere la pena, in un caso simile, di provvedere tempestivamente, affinché l’introduzione di una soluzione informatica non subisca ritardi per via delle basi legali mancanti.
+
+[[proposta-per-la-copertura-di-lacune]]
+= Proposta per la copertura di lacune
+
+Se si identificano delle lacune, bisogna elaborare un piano di norma (ordinanza da modificare, contenuti più importanti della norma) e bisogna stabilire l’organizzazione del progetto per la copertura delle lacune. Le istruzioni esistenti e gli strumenti sono da tenere in considerazione.
+
+[[valutazione-delle-conseguenze]]
+= Valutazione delle conseguenze
+
+[[raccomandazioni]]
+= Raccomandazioni

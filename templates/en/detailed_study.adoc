@@ -1,0 +1,62 @@
+Detailed Study
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Purpose 2
+
+2 Requirements 2
+
+3 Solution Concept with Options and Evaluation 2
+
+4 Feasibility 2
+
+5 Assignment and Meeting of Requirements 2
+
+[[purpose]]
+=  +
+Purpose
+
+Reason for preparing a detailed study.
+
+[[requirements]]
+= Requirements
+
+Information concerning system requirements
+
+[[solution-concept-with-options-and-evaluation]]
+= Solution Concept with Options and Evaluation
+
+[[feasibility]]
+= Feasibility
+
+Feasibility assessment, information on prototyping documentation
+
+[[assignment-and-meeting-of-requirements]]
+= Assignment and Meeting of Requirements
+
+[cols=",,,,",options="header",]
+|============================================================================================================
+|ID |Requirement Category |Description |Assignment to Subsystem/ Component |Assessment of Meeting Requirement
+| | | | |
+| | | | |
+|============================================================================================================

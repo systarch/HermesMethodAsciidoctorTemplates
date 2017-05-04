@@ -1,0 +1,58 @@
+Procès-verbal de test
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Cas de test 2
+
+2 Exécution et résultat du test 2
+
+[[cas-de-test]]
+=  +
+Cas de test
+
+Référence au concept de test
+
+[cols=",",options="header",]
+|=============================
+|ID / Désignation |_T-001_ |
+|Description |
+|Condition préalable au test |
+|Etapes de test |
+|Résultat attendu |
+|=============================
+
+[[exécution-et-résultat-du-test]]
+= Exécution et résultat du test
+
+[cols=",",options="header",]
+|=======================================
+|Testeur |
+|Date de l’exécution du test |
+|Catégorie d’erreur (résultat du test) |
+|Description de l’erreur |
+|=======================================
+
+[[section]]
+=

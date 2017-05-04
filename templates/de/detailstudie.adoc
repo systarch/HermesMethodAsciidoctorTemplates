@@ -1,0 +1,155 @@
+Detailstudie
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Ausgangslage 2
+
+2 Anforderungen 2
+
+3 Lösungskonzept mit Varianten und Beurteilung 2
+
+3.1 Variante 1 2
+
+3.1.1 Beschreibung 2
+
+3.1.2 Anforderungsabdeckung 2
+
+3.2 Variante 2 3
+
+3.2.1 Beschreibung 3
+
+3.2.2 Anforderungsabdeckung 3
+
+4 Beurteilung / Machbarkeit 3
+
+5 Empfehlung 3
+
+6 3
+
+[[ausgangslage]]
+=  +
+Ausgangslage
+
+Anlass für die Erstellung der Detailstudie.
+
+_Beispiel: Es wird eine Detailstudie für die Benutzerverwaltung und das Rollen- und Zugriffskonzept erstellt._
+
+[[anforderungen]]
+= Anforderungen
+
+Die Anforderungen sind im Dokument Systemanforderungen beschrieben
+
+1.  [[lösungskonzept-mit-varianten-und-beurteilung]]
+= Lösungskonzept mit Varianten und Beurteilung
+1.  [[variante-1]]
+== Variante 1
+1.  [[beschreibung]]
+=== Beschreibung
+
+Möglicher Beschreibungsraster
+
+[cols=",",options="header",]
+|====================================================================================
+|Kurzbeschrei­bung |
+a|
+Aufbau-
+
+Ablauforganisation
+
+ |Beschreibung Lösungsvorschlag mit Hinweis auf Geschäftsorganisationskonzept
+a|
+Funktionen & Daten
+
+(IT-Applikation)
+
+ a|
+Beschreibung Lösungsvorschlag
+
+Zuordnung zu Subsystem / Komponente
+
+|Schnittstellen |Beschreibung Lösungsvorschlag
+|Hardware (Bildschirme, Drucker, Scanner, Server, etc. |Beschreibung Lösungsvorschlag
+a|
+Betriebssysteme,
+
+Datenbank, Telekommunikation
+
+ |Beschreibung Lösungsvorschlag
+|====================================================================================
+
+[[anforderungsabdeckung]]
+=== Anforderungsabdeckung
+
+[cols=",,,",options="header",]
+|============================================================================================
+|ID |Anforderung |Zuordnung zu Subsystem / Komponente |Beurteilung der Anforderungs-abdeckung
+|_A1_ | | |
+|_A2_ | | |
+| | | |
+| | | |
+|============================================================================================
+
+1.  [[variante-2]]
+== Variante 2
+1.  [[beschreibung-1]]
+=== Beschreibung
+2.  [[anforderungsabdeckung-1]]
+=== Anforderungsabdeckung
+
+[[beurteilung-machbarkeit]]
+= Beurteilung / Machbarkeit
+
+Z.B. mit Punktevergabe: 9 – 1; 9 = sehr gut; 1 = sehr schlecht
+
+[cols=",,,",options="header",]
+|==================================
+|Beurteilungs-kriterien |V1 |V2 |V3
+|Kosten | | |
+a|
+* _Projektkosten_
+
+ | | |
+a|
+* _Wiederkehrende Kosten_
+
+ | | |
+a|
+_Nutzen_
+
+* _Quantifizierbarer Nutzen_
+* _Nicht quantifi-zierbarer Nutzen_
+
+ | | |
+|_Risiken_ | | |
+|_Nachhaltigkeit_ | | |
+|_Rechtliche Grundlagen_ | | |
+|Weitere | | |
+|==================================
+
+[[empfehlung]]
+= Empfehlung
+
+Summarische Beschreibung der bevorzugten Variante
+
+[[section]]
+=

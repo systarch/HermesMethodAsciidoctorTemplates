@@ -1,0 +1,87 @@
+Cahier des charges
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Situation de départ 2
+
+2 Etat visé 2
+
+2.1 Objectifs et exigences 2
+
+2.2 Critères obligatoires pour l’aptitude et la spécification technique 2
+
+2.3 Critères facultatifs pour la qualification 2
+
+2.4 Etendue 2
+
+2.5 Prix 2
+
+3 Délais 2
+
+4 Offre 2
+
+4.1 Indications générales concernant l’offre 2
+
+4.2 Taxonomie des critères d’adjudication 2
+
+4.3 Structure de l’offre 2
+
+4.4 Présentation et négociation 2
+
+5 Annexes 2
+
+1.  [[situation-de-départ]]
+= Situation de départ
+2.  [[etat-visé]]
+= Etat visé
+1.  [[objectifs-et-exigences]]
+== Objectifs et exigences
+2.  [[critères-obligatoires-pour-laptitude-et-la-spécification-technique]]
+== Critères obligatoires pour l’aptitude et la spécification technique
+3.  [[critères-facultatifs-pour-la-qualification]]
+== Critères facultatifs pour la qualification
+4.  [[etendue]]
+== Etendue
+5.  [[prix]]
+== Prix
+3.  [[délais]]
+= Délais
+
+Indications sur le déroulement de l’achat
+
+1.  [[offre]]
+= Offre
+1.  [[indications-générales-concernant-loffre]]
+== Indications générales concernant l’offre
+2.  [[taxonomie-des-critères-dadjudication]]
+== Taxonomie des critères d’adjudication
+3.  [[structure-de-loffre]]
+== Structure de l’offre
+4.  [[présentation-et-négociation]]
+== Présentation et négociation
+2.  [[annexes]]
+= Annexes
+
+Formulaires, aide-mémoire, conditions générales, modèle de contrat, catalogue des critères, concepts/études/description de la prestation

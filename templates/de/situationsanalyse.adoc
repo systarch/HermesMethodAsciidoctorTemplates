@@ -1,0 +1,129 @@
+Situationsanalyse
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Beschreibung des IST-Systems 2
+
+1.1 Dokumentationen 2
+
+1.2 Systembeschreibung 2
+
+1.2.1 Beschreibung der Systemlandschaft und Systemarchitektur 2
+
+1.2.2 System: S01 _Systemname_ 2
+
+1.3 Geschäftsorganisationsbeschreibung 3
+
+2 Analyse der Stärken und Schwächen 3
+
+[[beschreibung-des-ist-systems]]
+=  +
+Beschreibung des IST-Systems
+
+Erläuterungen zum IST-System in Prosa
+
+[[dokumentationen]]
+== Dokumentationen
+
+Dokumentationen zum System und zur Organisation
+
+[cols=",",options="header",]
+|==================================================================================================================
+|Dokumentname |Beschreibung
+|_Anwendungshandbuch-V7_ |_Beschreibung der IT-Anwendung mit Beschreibung der Anwendungsfälle und Praxisbeispielen_
+| |
+|==================================================================================================================
+
+*Rahmenbedingungen und Vorgaben*
+
+[cols=",",options="header",]
+|===========================================================================================
+|Dokumentname |Beschreibung
+|_Sicherheitsweisung_ |_Beschreibung der Vorgaben bezüglich Datensicherheit und Datenschutz_
+| |
+|===========================================================================================
+
+1.  [[systembeschreibung]]
+== Systembeschreibung
+1.  [[beschreibung-der-systemlandschaft-und-systemarchitektur]]
+=== Beschreibung der Systemlandschaft und Systemarchitektur
+
+Allgemeine Abbildungen und Beschreibungen
+
+[[system-s01-systemname]]
+=== System: S01 _Systemname_
+
+Technische Informationen System nnn
+
+[cols=",",options="header",]
+|========================================================
+|Thema |Detailinformation
+|Architektur Modell |_3-tier Architektur, Standard xyz_
+|Software |_IT-Standardanwendung ‘xyz’_
+|Standort |_Bern_
+|Betreiber |_Interner Betrieb_
+|Lieferant |_Firma xyz_
+|Entwickler |_Firma aaa_
+|Benutzer |_132_
+|Datenbankgrösse |_6.5 GB_
+|Betriebskosten Jahr nn |_32’000_
+|Weitere Betriebskosten |_Papier: 25’000 pro Jahr_
+|Entwicklungskosten Total |_370’000_
+|Supportkosten Jahr nn |_55’000_
+|Investitionskosten ab Betriebsstart bis heute |_490’000_
+|========================================================
+
+[[geschäftsorganisationsbeschreibung]]
+== Geschäftsorganisationsbeschreibung
+
+Organigramm, Funktionsbeschreibungen, Prozesslandkarte, IST-Prozessbeschreibungen, Mengengerüst der Geschäftsfälle, Mitarbeitenden, Kunden etc.
+
+[[analyse-der-stärken-und-schwächen]]
+= Analyse der Stärken und Schwächen
+
+*Stärken*
+
+Text
+
+[cols=",,",options="header",]
+|===================================================================================
+|Nr |Beschreibung |Ursache
+|_01_ |_Praktisch fehlerfreie Auszahlungen_ |_Hohe Qualifikation der Mitarbeitenden_
+| | |
+|===================================================================================
+
+*Schwächen*
+
+[cols=",,,",options="header",]
+|==============================================================================================================
+|Nr |Beschreibung |Ursache a|
+Beseitigungs-
+
+chancen
+
+|_01_ |_Ineffiziente Abwicklung des Geschäftsprozesses abc_ |_Fehlende Funktionali-tät in IT-Anwendung_ |_hoch_
+| | | |
+|==============================================================================================================
+
+[[section]]
+=

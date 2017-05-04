@@ -1,0 +1,40 @@
+Liste de l’état des modifications
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+[[aperçu-des-modifications]]
+= Aperçu des modifications
+
+[cols=",,,,,,,,",options="header",]
+|=============================================================================================================
+|Modi-fication n° |Demandeur |Date de la demande |Décideur |Etat* |Date |Responsable |Charge de travail |Coûts
+|_001_ |_K. Meier_ |_15.5.2015_ |_Chef de projet_ |_Réalisé_ |_30.5.2015_ |_Développeur xyz_ |_2_ |_1200_
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+|Total |_1_ |_1200_
+|=============================================================================================================
+
+*Etat: demande reçue / analysé / approuvé / refusé / réalisé

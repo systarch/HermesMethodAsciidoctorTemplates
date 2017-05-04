@@ -1,0 +1,124 @@
+Arbeitsauftrag
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Arbeitsziele 2
+
+2 Ergebnisse 2
+
+3 Abgrenzung 2
+
+4 Voraussetzungen und Abhängigkeiten 2
+
+5 Aktivitäten 2
+
+6 Arbeitseinsatz 3
+
+7 Ergebnisdarstellung 3
+
+[[arbeitsziele]]
+=  +
+Arbeitsziele
+
+[cols=",",options="header",]
+|=========================================================================================================
+|Nr |Ziel
+|1 |_Beurteilungskriterien: so detailliert erarbeitet, dass eine Marktabklärung durch­geführt werden kann_
+|2 |_Marktabklärung: von Organisations-internen und im Markt verfügbaren Produkten_
+|=========================================================================================================
+
+[[ergebnisse]]
+= Ergebnisse
+
+[cols=",,",options="header",]
+|============================
+|Nr |Ergebnis |Beschreibung
+|1 |_Beurteilungskriterien_ |
+|2 |_Marktabklärung_ |
+|============================
+
+[[abgrenzung]]
+= Abgrenzung
+
+Abgrenzung des Arbeitsauftrags
+
+_Es wird keine Produkte-Evaluation durchgeführt. Es werden keine Angebote eingeholt. Dies ist Gegenstand der nächsten Phase._
+
+[[voraussetzungen-und-abhängigkeiten]]
+= Voraussetzungen und Abhängigkeiten
+
+*Voraussetzungen für den Arbeitsbeginn*
+
+*Abhängigkeiten von anderen / zu anderen*
+
+[cols=",,,,",options="header",]
+|================================================================
+|Nr |Abhängigkeit von |Ergebnis |Termin |Verantwortlich
+|_A-01_ |_Projekt xyz_ |_Anforderungen_ |_31.3.2015_ |_R. Kuster_
+| | | | |
+|================================================================
+
+[cols=",,,,",options="header",]
+|=====================================================
+|Nr |Abhängigkeit zu |Ergebnis |Termin |Verantwortlich
+|_B-01_ |_Studie_ |_Markabklärungen_ |_21.4.2015_ |
+| | | | |
+|=====================================================
+
+[[aktivitäten]]
+= Aktivitäten
+
+[cols=",,,,,,",options="header",]
+|======================================================================================================================================
+|Nr |Ergebnis |Aktivität* |Verantw., Mitarbeitend |Aufwand (Std) |Termin |Status
+|_1_ |_Beurteilungskriterien_ |_Anforderungen in Beurteilungskriterien transformieren_ |_Huber_ |_6_ |_1.4.2015_ |_OK_
+|_2_ | |_Walk-Trough der Beurteilungskriterien_ |_Huber, Graf_ |_2_ |_3.4.2015_ |_OK_
+|_3_ |_Markt­abklärung_ |_Abklären ob in der Stammorganisation mögliche Produkte vorhanden sind_ |_Huber, Meier_ |_4_ |_5.4.2015_ |_OK_
+|_4_ | |_Besprechung Zwisch­energebnis_ |_Huber, Graf_ |_1_ |_8.4.2015_ |_offen_
+|5 | | | | | |
+|Total |13 | |
+|======================================================================================================================================
+
+Legende: * inklusive Qualitätssicherungsmassnahmen wie Walk-Throughs, Reviews (gemäss Prüfplan im Projektmanagementplan)
+
+[[arbeitseinsatz]]
+= Arbeitseinsatz
+
+*Personalressourcen (Stunden)*
+
+[cols=",,,",options="header",]
+|=======================================
+|Rolle / Person |Monat 1 |Monat 2 |Total
+|_Huber_ |_14_ |_12_ |_26_
+|Name | | |
+|=======================================
+
+*Sachmittel*
+
+Räume, IT-Infrastruktur, Spezifische Software, etc.
+
+[[ergebnisdarstellung]]
+= Ergebnisdarstellung
+
+Bei Dokumenten: Kapitelstruktur
+
+Bei anderen Ergebnissen: textliche Beschreibung

@@ -1,0 +1,125 @@
+Migrationskonzept
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Anforderungen an die Migration 2
+
+2 Migrationsobjekte 2
+
+3 Datenanalyse 2
+
+4 Migrationsverfahren 2
+
+4.1 Übersicht 2
+
+4.2 Konzept (pro Verfahren) 2
+
+5 Migrationsplan 2
+
+6 Machbarkeit 2
+
+6.1 Risiken 2
+
+6.2 Rückfall-Szenario 2
+
+7 Archivierung und Ausserbetriebsetzung Altsystem 3
+
+8 Anforderungsabdeckungen 3
+
+[[anforderungen-an-die-migration]]
+=  +
+Anforderungen an die Migration
+
+Die Anforderungen an die Migration sind im Dokument Systemanforderungen beschrieben.
+
+[[migrationsobjekte]]
+= Migrationsobjekte
+
+Beschreibung der Migrationsobjekte
+
+[[datenanalyse]]
+= Datenanalyse
+
+Analyse der zu migrierenden Daten
+
+Mengen, Häufigkeiten
+
+Qualität der Daten
+
+1.  [[migrationsverfahren]]
+= Migrationsverfahren
+1.  [[übersicht]]
+== Übersicht
+
+[cols=",,,",options="header",]
+|============================================================================================
+|Migrationsobjekt |Anforderungen |Migrationsverfahren |Beurteilung der Anforderungs­abdeckung
+| | | |
+| | | |
+|============================================================================================
+
+[[konzept-pro-verfahren]]
+== Konzept (pro Verfahren)
+
+Konzeptionelle Beschreibung der Verfahren, benötigter Infrastruktur etc.
+
+[[migrationsplan]]
+= Migrationsplan
+
+Vorgehen für die Migration, zeitlicher Ablauf, Abhängigkeiten, Qualitätsprüfungen
+
+1.  [[machbarkeit]]
+= Machbarkeit
+1.  [[risiken]]
+== Risiken
+
+Beurteilung der Machbarkeit bzw. der Migrationsrisiken
+
+[[rückfall-szenario]]
+== Rückfall-Szenario
+
+‘Plan B’ bei Migrationsproblemen
+
+[[archivierung-und-ausserbetriebsetzung-altsystem]]
+= Archivierung und Ausserbetriebsetzung Altsystem
+
+Archivierungskonzept
+
+Planung der Ausserbetriebsetzung
+
+Entsorgung
+
+[[anforderungsabdeckungen]]
+= Anforderungsabdeckungen
+
+[cols=",,,",options="header",]
+|============================================================================================
+|ID |Anforderung |Zuordnung zu Subsystem / Komponente |Beurteilung der Anforderungs-abdeckung
+|_nn_ | | |
+|_nn_ | | |
+| | | |
+| | | |
+|============================================================================================
+
+[[section]]
+=

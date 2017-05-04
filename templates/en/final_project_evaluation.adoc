@@ -1,0 +1,195 @@
+Final Project Evaluation
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Background 2
+
+2 Evaluation 2
+
+3 Efficiency 2
+
+4 Comparison of Future/Actual Status 2
+
+4.1 Deadlines 2
+
+4.2 Costs 3
+
+4.3 Outlay 3
+
+4.4 Outcomes 3
+
+5 Lessons Learned 4
+
+6 Pending Matters and Measures 4
+
+7 Request 4
+
+[[background]]
+=  +
+Background
+
+Description, reference to study and to situation analysis
+
+[[evaluation]]
+= Evaluation
+
+*System Objectives*
+
+[cols=",,,,,",options="header",]
+|=================================================================================================================================================================================
+|No. |Category |Description |Measure |Priority |Achievement Level
+|_1_ |_Market positioning_ |_Reduction of process cycle time from receipt of order to delivery_ |_Reduced from 4 to 3 days; from one month after launching operation_ |_M_ |_100%_
+| | | | | |
+|=================================================================================================================================================================================
+
+Explanation: Priority: M=must have /1=high, 2=medium, 3=low
+
+*Procedural Objectives*
+
+[cols=",,,,,",options="header",]
+|==========================================================================================================================================
+|No. |Category |Description |Measure |Priority |Achievement Level
+|_1_ |_Procedural quality_ |_Feasibility is established using a test installation_ |_Error-free handling of a predefined case_ |_2_ |_100%_
+| | | | | |
+|==========================================================================================================================================
+
+Evaluation concerning necessary follow-up measures if objectives are not met
+
+[[efficiency]]
+= Efficiency
+
+Evaluation of efficiency (in accordance with core organization requirements)
+
+* Planned and effective/predicted costs and outlay for project and operation
+* Planned and effective/predicted benefit
+
+[[comparison-of-futureactual-status]]
+= Comparison of Future/Actual Status
+
+[[deadlines]]
+== Deadlines
+
+[cols=",,",options="header",]
+|=====================================================
+|Milestones |Planned Date |Actual Date
+|_Release of project charter_ | |_5.1.2015_
+|_System architecture_ |_30.3.2015_ |_14.3.2015_
+|_Release of implementation_ |_30.5.2015_ |_20.5.2015_
+|=====================================================
+
+Explanation of variances
+
+[[costs]]
+== Costs
+
+Costs (CHF)
+
+[cols=",,,",options="header",]
+|=================================
+|Phase |Planned |Actual |Deviation
+|Initiation |10,000 |9,000 |-1,000
+|Concept | | |
+|Implementation | | |
+|Launch | | |
+|Total | | |
+|=================================
+
+Explanation of variances
+
+[[outlay]]
+== Outlay
+
+Human Resources Required
+
+[cols=",,,",options="header",]
+|=================================
+|Phase |Planned |Actual |Deviation
+|_Initiation_ |20 |17 |-3
+|Concept | | |
+|Implementation | | |
+|Launch | | |
+|Total | | |
+|=================================
+
+Explanation of variances
+
+[[outcomes]]
+== Outcomes
+
+[cols=",,,",options="header",]
+|=====================================
+|Phase |Planned |Actual |Deviation
+|_Study_ |1.12.2015 |_4.12.2015_ |_+3_
+|_Outcome 2_ | | |
+|_Outcome 3_ | | |
+|=====================================
+
+[[lessons-learned]]
+= Lessons Learned
+
+[cols=",,,,",options="header",]
+|================================================================================================
+|No. |Area |Lessons Learned |Relevance |Recommendations
+|_1_ |_Procurement_ |_Advice provided by procurement was very helpful in planning procurement_ a|
+_Other Projects;_
+
+_PM competence center_
+
+ |_Include in checklist xyz_
+| | | | |
+|================================================================================================
+
+[[pending-matters-and-measures]]
+= Pending Matters and Measures
+
+*Pending Matters of Project*
+
+[cols=",,,,",options="header",]
+|====================================================================================================================
+|No. |Open Point |Measure |To Be Handled by |Deadline
+|_1_ |_Handover of test system and facilities to product owner_ |_Conduct handover_ |_Name of Employee_ |_15.12.2015_
+| | | | |
+|====================================================================================================================
+
+*Further Measures After Project Closure*
+
+[cols=",,,",options="header",]
+|====================================================================
+|No. |Measure |To Be Handled by |Deadline
+|_1_ a|
+_Review of project success (after a nn-month period of operation):_
+
+_Post-calculation to determine actual efficiency_
+
+_Sustainability report to determine actual sustainability_
+
+_Analysis and determination of customer satisfaction; report to: xyz_
+
+ |_Name of Employee_ |_30.5.2016_
+| | | |
+|====================================================================
+
+[[request]]
+= Request
+
+Request for project closure

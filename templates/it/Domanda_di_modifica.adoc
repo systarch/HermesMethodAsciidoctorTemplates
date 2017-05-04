@@ -1,0 +1,50 @@
+Domanda di modifica
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |$\{h5_project manager}
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, accettato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|====================================
+|Datanull |Versione |Modifica |Autore
+| | | |
+| | | |
+|====================================
+
+[[domanda-di-modifica]]
+= Domanda di modifica
+
+[cols=",",options="header",]
+|===========================================================================================================================================================================
+|Modifica nr. |_001_
+|Richiedente |_Dipartimento xyz, Karl Meier_
+|Data della richiesta |_15.5.2015_
+|Descrizione della modifica |_Indirizzo del cliente: completare indirizzo supplementare gruppo industriale_
+|Indicazioni per l‘esecuzione |_Al cliente va assegnato un indirizzo superiore di un’organizzazione superiore (ad es. gruppo industriale)_
+|Proposta di soluzione |_Riferimento dell’ID di un cliente all’ID di un altro cliente, nuovo attributo gruppo industriale, evitare rapporti circolari nel caso d’immissione_
+|Valutazione degli effetti |_Adattamento dello sviluppatore, completamento descrizione del caso di test nella concetto del test_
+a|
+* carico
+
+ |_1 giorno (sviluppo)_
+a|
+* costi
+
+ |_1200_
+a|
+* scadenza
+
+ |_1 settimana a partire dall’avvio_
+a|
+* rischi
+
+ |_moderati_
+|===========================================================================================================================================================================

@@ -1,0 +1,107 @@
+Evaluationsbericht
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Ausgangslage 2
+
+2 Vorgehen bei der Evaluation 2
+
+2.1 Mitglieder des Evaluationsteams 2
+
+2.2 Ablauf der Evaluation 2
+
+3 Ausschreibung, Fragen und Angebotsöffnung 2
+
+4 Ergebnisse der Evaluation 2
+
+4.1 Eignungskriterien 2
+
+4.2 Technische Spezifikationen 2
+
+4.3 Zuschlagskriterien 2
+
+5 Anträge 3
+
+6 Anhänge 3
+
+[[ausgangslage]]
+=  +
+Ausgangslage
+
+Hinweis auf Lastenheft
+
+[[vorgehen-bei-der-evaluation]]
+= Vorgehen bei der Evaluation
+
+[[mitglieder-des-evaluationsteams]]
+== Mitglieder des Evaluationsteams
+
+[cols=",",options="header",]
+|=================
+|Name |Fachbereich
+| |
+| |
+|=================
+
+[[ablauf-der-evaluation]]
+== Ablauf der Evaluation
+
+[cols=",,",options="header",]
+|============================
+|Nr |Vorgehensschritt |Termin
+| | |
+| | |
+|============================
+
+[[ausschreibung-fragen-und-angebotsöffnung]]
+= Ausschreibung, Fragen und Angebotsöffnung
+
+Publikation der Ausschreibung, Interessenten für die Erstellung eines Angebots, Fragen und Antworten zur Ausschreibung, Angebotsöffnung, terminliche und formale Prüfung, Angebotsbereinigung
+
+[[ergebnisse-der-evaluation]]
+= Ergebnisse der Evaluation
+
+[[eignungskriterien]]
+== Eignungskriterien
+
+Erfüllung der Eignungskriterien (Muss-Kriterien zum Anbieter)
+
+[[technische-spezifikationen]]
+== Technische Spezifikationen
+
+Erfüllung der technischen Spezifikationen (Muss-Kriterien zur Leistung)
+
+[[zuschlagskriterien]]
+== Zuschlagskriterien
+
+Bewertungsverfahren und Gewichtung für die Zuschlagskriterien, Angebotsbereinigung und Verhandlung, Bestimmung des wirtschaftlich günstigsten Angebots
+
+[[anträge]]
+= Anträge
+
+Antrag auf Erteilung und Publikation des Zuschlags für den gesamten Leistungsumfang oder Teile davon.
+
+[[anhänge]]
+= Anhänge
+
+Angebotsöffnungsprotokoll, Angebote, ausgefüllte Kriterienkataloge mit Selbstbewertung durch die Anbieter, vom Evaluationsteam als Fremdbewertung konsolidierte Ergebnisse der Qualifikation.

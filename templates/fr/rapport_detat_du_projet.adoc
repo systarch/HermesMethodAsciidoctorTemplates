@@ -1,0 +1,118 @@
+Rapport d’état du projet
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Aperçu 2
+
+2 Risques 3
+
+3 Prochaines activités les plus importantes 3
+
+[[section]]
+=
+
+[[aperçu]]
+= Aperçu
+
+[cols=",,,",options="header",]
+|===========================================================================================
+|Domaine |Etat |Problème |Mesures
+|Appréciation globale |Vert | |
+|Délai |Vert | |
+|Coûts |Jaune |_Frais de licence plus élevés que prévu_ |_Entretien avec le soumissionnaire_
+|Charge de personnel |Vert | |
+|Résultats |Vert | |
+|Objectifs du projet |Vert | |
+|===========================================================================================
+
+Légende: vert: projet en bonne voie, jaune: réussite du projet en danger, rouge: réussite du projet en grand danger
+
+Appréciation globale
+
+Texte
+
+Délais
+
+[cols=",,,",options="header",]
+|================================================================
+|Jalons |Date planifiée |Prévision |Date effective
+|_Choix d’une variante_ |_12.12.2015_ |_12.12.2015_ |_12.12.2015_
+|================================================================
+
+Coûts (CHF)
+
+[cols=",,,,",options="header",]
+|===============================================================
+|Phase |Prévu |Effectif à l’instant du rapport |Ecart |Prévision
+|Initialisation |10’000 |7’000 |-1’000 |9’000
+|Conception | | | |
+|Réalisation | | | |
+|Déploiement | | | |
+|Total | | | |
+|===============================================================
+
+Légende: prévision = coûts totaux probables jusqu’à la fin de l’année ou du projet
+
+Charge de personnel
+
+[cols=",,,,",options="header",]
+|===============================================================
+|Phase |Prévu |Effectif à l’instant du rapport |Ecart |Prévision
+|Initialisation |20 |12 |-3 |17
+|Conception | | | |
+|Réalisation | | | |
+|Déploiement | | | |
+|Total | | | |
+|===============================================================
+
+Résultats
+
+[cols=",,,,",options="header",]
+|===============================================================
+|Phase |Prévu |Effectif à l’instant du rapport |Ecart |Prévision
+|_Etude_ |1.12.2015 | | |5.12.2015
+|_Résultat 2_ | | | |
+|_Résultat 3_ | | | |
+|===============================================================
+
+[[risques]]
+= Risques
+
+[cols=",,,,,,,",options="header",]
+|=======================================================================================================================================
+|N° |Description du risque |PS |DI |FR |Mesures |Responsable |Délai
+|_R1_ |_Spécialiste non disponible pour la phase conception_ |_2_ |_2_ |_4_ |_Convention avec l’organisation permanente_ |CP |12.12.2015
+|=======================================================================================================================================
+
+Légende: PS=probabilité de survenue: 1 basse / 2 moyenne / 3 haute; DI=degré d’impact: 1 faible / 2 moyen / 3 grand, FR=facteur de risque
+
+[[prochaines-activités-les-plus-importantes]]
+= Prochaines activités les plus importantes
+
+[cols=",",options="header",]
+|==================
+|Délai |Description
+| |
+|==================

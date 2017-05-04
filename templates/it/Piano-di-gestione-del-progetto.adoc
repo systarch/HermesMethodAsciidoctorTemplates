@@ -1,0 +1,377 @@
+Piano di gestione del progetto
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Descrizione del progetto 3
+
+2 Scenario con fasi e milestone 3
+
+3 Organizzazione 3
+
+4 Struttura dettagliata dei risultati del progetto 4
+
+5 Scenario con piano strutturale del progetto 4
+
+5.1 Fasi, moduli, compiti, risultati, ruoli 4
+
+5.2 Interdipendenze 4
+
+6 Piano di verifica 4
+
+7 Piano delle scadenze 5
+
+8 Piano dei costi 5
+
+9 Piano delle risorse 5
+
+10 Piano degli acquisti 5
+
+11 Piano di comunicazione 6
+
+12 Reporting 6
+
+13 Direttive, metodi e strumenti 6
+
+14 Allegati 7
+
+14.1 Garanzia della qualità 7
+
+14.2 Gestione dei rischi 7
+
+14.3 Gestione dei documenti 8
+
+14.3.1 Archiviazione dei documenti 8
+
+14.3.2 Convenzione dei nomi 9
+
+14.3.3 Versioni dei documenti 9
+
+14.4 Gestione delle modifiche 10
+
+[[descrizione-del-progetto]]
+= Descrizione del progetto
+
+Breve descrizione del contenuto del progetto
+
+[[scenario-con-fasi-e-milestone]]
+= Scenario con fasi e milestone
+
+Illustrazione delle fasi e delle milestone (un esempio è contenuto nel modello “Presentazione del progetto”)
+
+[[organizzazione]]
+= Organizzazione
+
+[cols=",,,",options="header",]
+|=======================================================================================================
+|Ruolo nell’organizzazione del progetto |Nome |Abbreviazione |Funzione/unità organizzativa rappresentata
+|_Committente_ |_Kurt Müller_ |_muk_ |_Direttore xyz_
+|_Comitato del progetto_ | | |
+|_Project manager_ | | |
+|_Responsabile SIPD_ | | |
+|_Specialista responsabile degli utenti_ | | |
+|_Specialista responsabile dei processi operativi_ | | |
+| | | |
+|=======================================================================================================
+
+[cols=",,,",options="header",]
+|==============================================================================
+|Ruolo nell’organizzazione permanente |Nome |Abbreviazione |Unità organizzativa
+|Direzione: | | |
+a|
+Organi regolatori e di controllo di gestione:
+
+_Revisione interna_
+
+ |_P. Hauser_ | |_ABC_
+|Project Management Office (PMO): | | |
+|==============================================================================
+
+Le escalation hanno luogo nell’ambito dell’organizzazione del progetto.
+
+_Se in un livello un problema non può essere risolto entro 5 giorni, esso viene inoltrato al livello successivo._
+
+[[struttura-dettagliata-dei-risultati-del-progetto]]
+= Struttura dettagliata dei risultati del progetto
+
+Mindmap, rappresentazione gerarchica
+
+La struttura dettagliata dei risultati del progetto è la rappresentazione, suddivisa gerarchicamente, del contenuto del progetto (Product Breakdown Structure PBS).
+
+null
+
+[[scenario-con-piano-strutturale-del-progetto]]
+= Scenario con piano strutturale del progetto
+
+[[fasi-moduli-compiti-risultati-ruoli]]
+== Fasi, moduli, compiti, risultati, ruoli
+
+Il piano strutturale del progetto contenuto in HERMES online oppure in un documento separato
+
+[[interdipendenze]]
+== Interdipendenze
+
+[cols=",",options="header",]
+|=====================================================
+|Progetto / piano |Interdipendenza
+|Temi rilevanti per il progetto |
+|Risultati rilevanti per il progetto/decisione/fatto |
+|Scadenza |
+|Conseguenze sul progetto |
+|Interlocutore |_Project manager_
+|=====================================================
+
+[[piano-di-verifica]]
+= Piano di verifica
+
+Riprendere i risultati contenuti nel piano strutturale del progetto
+
+null
+
+[cols=",,,,,",options="header",]
+|=========================================================================================
+a|
+Fase /
+
+Risultato
+
+ |Metodo di verifica |Responsabile |Esaminatore |Scadenza |Stato
+|*Concezione* | | | | |
+|_Rapporto di fase_ |_Revisione_ |_Committente_ |_Sutter, Huber_ |_15.5.2015_ |_approvato_
+|=========================================================================================
+
+Metodo di verifica secondo il capitolo “Piano di garanzia della qualità”
+
+[[piano-delle-scadenze]]
+= Piano delle scadenze
+
+Pianificazione dettagliata per la fase attuale e la fase seguente del progetto
+
+Riferimento a un documento esterno
+
+[[piano-dei-costi]]
+= Piano dei costi
+
+Generalmente in un documento separato, secondo le direttive dell’organizzazione permanente
+
+[[piano-delle-risorse]]
+= Piano delle risorse
+
+*Risorse umane*
+
+[cols=",,,,,,,",options="header",]
+|=======================================================================================
+|Ruolo / Persona |Mese 1 |Mese 2 |Mese 3 |Mese 4 |Mese 5 |Totale |Conferma del superiore
+|Nome | | | | | | |
+|Nome | | | | | | |
+|=======================================================================================
+
+*Materiali*
+
+Locali, infrastruttura IT, software specifici, ecc.
+
+[[piano-degli-acquisti]]
+= Piano degli acquisti
+
+[cols=",,,,",options="header",]
+|================================================================================================================================
+|Necessità / Denominazione |Quantità |Valore CHF |Periodo |Modalità di acquisto
+|_Business analyst_ |_20 giorni lavorativi_ |_20’000_ |_20.1.-30.3.2014_ |_Procedura mediante trattativa privata con più offerte_
+|_Sviluppatore_ |_300 giorni lavorativi_ |_280’000_ |_01.04.2014-30.06.2015_ |_Procedura libera, OMC_
+|_Analisi DB_ |_100 ore_ |_18’000_ |_20.01-30.03.2014_ |_Richiesta del contratto quadro_
+|_Tools & Service_ |_400 ore_ |_48’000_ |_01.07.2014-30.06.2015_ |_Procedura mediante invito_
+| | | | |
+|================================================================================================================================
+
+[[section]]
+=
+
+[[piano-di-comunicazione]]
+= Piano di comunicazione
+
+[cols=",,,,,",options="header",]
+|===========================================================================================================================================================================================================
+|Destinatario dell’informazione |Responsabile per la comunicazione |Contenuto |Obiettivo |Mezzo / Supporto |Scadenza
+|_Tutti i collaboratori_ |_Committente_ |_Introduzione della nuova soluzione_ |_Tutti i collaboratori conoscono la procedura, le scadenze e l’organizzazione di supporto_ |_Flyer (per e-mail)_ |_12.3.2015_
+| | | | | |
+|===========================================================================================================================================================================================================
+
+[[reporting]]
+= Reporting
+
+[cols=",,,,",options="header",]
+|====================================================================================================================
+|Risultato |Periodicità |Responsabile |Destinatario |Scadenza
+|_Rapporto sullo stato del progetto_ |_Mensile_ |_Project manager_ |_Committente_ |_Primo giorno lavorativo del mese_
+|_Rapporto di fase_ |_Fine della fase “Concezione”_ |_Project manager_ |_Committente_ |_Vedi pianificazione_
+| | | | |
+|====================================================================================================================
+
+[[direttive-metodi-e-strumenti]]
+= Direttive, metodi e strumenti
+
+[cols=",,",options="header",]
+|================================================
+|Titolo |Direttiva / metodo / strumento |Versione
+|_Gestione del progetto_ |_HERMES_ |_HERMES 5_
+|_Acquisto_ |_BöB, VöB_ |
+|_Software per xyz_ |_Tool aaa_ |_10.2_
+|================================================
+
+[[allegati]]
+= Allegati
+
+[[garanzia-della-qualità]]
+== Garanzia della qualità
+
+Il test è definito nella concetto del test.
+
+Le verifiche sono definite nel capitolo “Piano di verifica” del piano di gestione del progetto.
+
+Nel progetto sono impiegati i seguenti metodi di verifica.
+
+[cols=",",options="header",]
+|==================================================================================================================================================================================================================================================================================================================================
+|Metodo di verifica |Descrizione
+a|
+_Revisione scritta_
+
+_(RS)_
+
+ |_Il risultato viene inviato agli esaminatori per e-mail, i quali verificano il risultato, in modo indipendente l’uno dall’altro, e redigono un rapporto di verifica con le constatazioni fatte. Le constatazioni sono corrette dal produttore o rimandate con una giustificazione scritta, inoltrata per e-mail all’esaminatore._
+a|
+_Revisione orale_
+
+_(RO)_
+
+ a|
+_Durante le riunioni di revisione si discute delle constatazioni formulate per iscritto. Inoltre si decidono le misure e gli adattamenti necessari, i responsabili di tali misure/adattamenti e le scadenze._
+
+_Una revisione orale (RO) si basa sempre su una revisione scritta (RS)._
+
+_Dalla RO risulta un verbale di revisione, che deve essere firmato dai partecipanti alla RO._
+
+a|
+_WalkTrough_
+
+_(WT)_
+
+ |_Una WalkThrough è una verifica meno formale di una revisione. Esaminando i risultati disponibili in un determinato momento, l’esaminatore cerca di farsi un’idea sullo stato attuale dei lavori._
+|==================================================================================================================================================================================================================================================================================================================================
+
+_Se i risultati sono esaminati nell’ambito di una procedura di consultazione degli specialisti, questa verifica viene eseguita mediante una revisione scritta._
+
+[[gestione-dei-rischi]]
+== Gestione dei rischi
+
+I rischi del progetto sono menzionati nel rapporto dello stato.
+
+Per poter giudicare i rischi, ogni rischio deve essere valutato in base alla sua probabilità di manifestazione e al grado delle conseguenze. Di seguito vengono definite le variabili.
+
+*Scala di valutazione della probabilità di manifestazione*
+
+[cols=",",options="header",]
+|============================================================
+|Valutazione |Descrizione della probabilità di manifestazione
+|1 = bassa |_Improbabile (inferiore al 20%)_
+|2 = media |_Moderatamente probabile (20-50%)_
+|3 = alta |_Altamente probabile (superiore al 50%)_
+|============================================================
+
+* +
+null*
+
+*Scala di valutazione del grado delle conseguenze*
+
+[cols=",,,",options="header",]
+|======================================================================================================
+|Valutazione |Conseguenza sul risultato del progetto |Conseguenza sulla scadenza |Conseguenza sui costi
+|1 = bassa |_Difetto minimo_ |_Fino a 1 mese, lieve_ |_nessuna_
+|2 = media |_Difetto rilevante_ |_1-3 mesi, rilevante_ |_5-20%, rilevante_
+|3 = alta |_Difetto grave_ |_Più di 3 mesi, grave_ |_superiore al 20%, grave_
+|======================================================================================================
+
+Da questi valori risultano in seguito le coordinate per raffigurare il rischio nella matrice. Con la freccia (es. rischio 2) può essere rappresentata la modifica rispetto all’ultima valutazione.
+
+*Matrice dei rischi*
+
+null
+
+I rischi del progetto, identificati e valutati, sono menzionati nel rapporto dello stato del progetto in maniera analoga alla tabella seguente. Per ogni rischio vengono pianificate delle misure.
+
+[cols=",,,,,,,",options="header",]
+|============================================================
+|Nr. |GC |PM |AR |Descrizione |Misura |Responsabile |Scadenza
+|1 |3 |3 |9 | | | |
+|2 |2 |2 |4 | | | |
+|============================================================
+
+[[gestione-dei-documenti]]
+== Gestione dei documenti
+
+[[archiviazione-dei-documenti]]
+=== Archiviazione dei documenti
+
+Strumenti, luogo d’archiviazione, amministrazione d’accesso
+
+[[convenzione-dei-nomi]]
+=== Convenzione dei nomi
+
+Affinché i documenti inerenti al progetto possano essere identificati chiaramente e facilmente, le seguenti convenzioni sono applicate per i nomi dei dati:
+
+_Nome del progetto-denominazione del documento.tipo di dato_
+
+Esempio:
+
+_HMH- Mandatodiprogetto.doc_
+
+[[versioni-dei-documenti]]
+=== Versioni dei documenti
+
+Le modifiche ai documenti dovrebbero essere elencate nella lista delle modifiche.
+
+Utilizzo dei numeri di versione
+
+I numeri di versione V0.1, V0.2, V0.3….V0.9 rappresentano versioni di documenti in elaborazione.
+
+Il numero di versione V1.0 è la prima versione accettata del documento.
+
+Il numero di versione V1.1 è la prima versione modificata dopo l’accettazione.
+
+Il numero di versione V2.0 è la seconda versione accettata del documento.null
+
+*Documenti con riferimenti temporali*
+
+I documenti con chiari riferimenti temporali contengono la data nel nome del file.
+
+Esempio di un verbale di riunione:
+
+_HMH-verbale-riunioneteamdibase-2011-12-05.doc_
+
+Nel caso di utilizzo della data nel nome del file viene sempre utilizzato il formato AAAA-MM-GG, affinché i documenti siano mostrati in ordine cronologico nelle cartelle.
+
+null
+
+[[gestione-delle-modifiche]]
+== Gestione delle modifiche
+
+image:templates/it/media/media/image3.png[image,width=604,height=391]null

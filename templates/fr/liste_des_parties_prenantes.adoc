@@ -1,0 +1,43 @@
+Liste des parties prenantes
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Parties prenantes 2
+
+[[parties-prenantes]]
+=  +
+Parties prenantes
+
+[cols=",",options="header",]
+|======================
+|Organisation |Personne
+| |
+| |
+| |
+| |
+|======================
+
+[[section]]
+=

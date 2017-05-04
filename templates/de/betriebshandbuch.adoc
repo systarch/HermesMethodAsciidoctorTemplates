@@ -1,0 +1,99 @@
+Betriebshandbuch
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Systemübersicht 2
+
+2 Aufnahme des Betriebs 2
+
+3 Durchführung und Überwachung des Betriebs 2
+
+4 Unterbrechung oder Beendigung des Betriebs 2
+
+5 Supportorganisation 2
+
+6 Changemangement 2
+
+7 Sicherheitsbestimmungen 3
+
+[[systemübersicht]]
+=  +
+Systemübersicht
+
+Übersicht der für den Betrieb wichtigen Systemkomponenten und ihrer Zusammenhänge (technisch, organisatorisch)
+
+[[aufnahme-des-betriebs]]
+= Aufnahme des Betriebs
+
+Voraussetzungen für die Betriebsaufnahme
+
+Ablauf der Betriebsaufnahme
+
+Qualitätssicherung nach Betriebsaufnahme
+
+Vorgaben zur Abnahme des Systems
+
+[[durchführung-und-überwachung-des-betriebs]]
+= Durchführung und Überwachung des Betriebs
+
+Betriebsüberwachung mit Monitoring, Alarmierung etc.
+
+Datensicherung
+
+Kontrollen zum Datenschutz
+
+Statistiken, Kennzahlen, Messgrössen
+
+Vorgehen im Fehlerfall (inkl. organisatorische Aspekte wie Kommunikation etc.)
+
+Hinweis auf Betriebsprozesse
+
+[[unterbrechung-oder-beendigung-des-betriebs]]
+= Unterbrechung oder Beendigung des Betriebs
+
+Systembetrieb stoppen
+
+Ablauf für die Wiederinbetriebnahme
+
+Qualitätssicherung nach Wiederinbetriebnahme
+
+Abbau des Systems, Archivierung, Übergabe
+
+[[supportorganisation]]
+= Supportorganisation
+
+Supportprozesse
+
+Organisation mit Rollen
+
+[[changemangement]]
+= Changemangement
+
+Changemanagment-Prozess
+
+Changemanagement-Organisation mit Rollen, Kontaktinformationen
+
+[[sicherheitsbestimmungen]]
+= Sicherheitsbestimmungen
+
+Vorgaben zu Datenschutz und Datensicherheit

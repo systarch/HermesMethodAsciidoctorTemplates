@@ -1,0 +1,56 @@
+Demande de modification
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+[[demande-de-modification]]
+= Demande de modification
+
+[cols=",",options="header",]
+|==================================================================================================================================================================================
+|N° de la modification |_001_
+|Demandeur |_Division xyz, Charles Meier_
+|Date de la demande |_15.5.2015_
+|Description de la modification |_Adresse client: ajouter l’adresse complémentaire du groupe_
+|Indications concernant l’exécution |_Une adresse générale d’une organisation supérieure (p. ex. groupe) doit pouvoir être attribuée au client_
+|Solution proposée |_Relation entre l’identification du client et une autre identification du client, nouvel attribut groupe, empêcher les relations circulaires lors de la saisie_
+|Evaluation des conséquences |_Adaptation à effectuer de la part du développeur, description des cas de test à compléter dans le concept de test_
+a|
+* Charge de travail
+
+ |_1 jour (développement)_
+a|
+* Coûts
+
+ |_1200_
+a|
+* Délais
+
+ |_1 semaine à compter de la libération_
+a|
+* Risques
+
+ |_Faibles_
+|==================================================================================================================================================================================
+
+[[section]]
+=

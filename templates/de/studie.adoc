@@ -1,0 +1,467 @@
+Studie
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Ausgangslage 3
+
+2 Situationsanalyse 3
+
+2.1 Geschäftsorganisation 3
+
+2.2 Produkt oder IT-System 3
+
+2.3 Informationssicherheit und Datenschutz 3
+
+2.4 Grobe Mengengerüste 3
+
+2.4.1 Geschäftsvorfälle / Transaktionen 3
+
+2.4.2 Datenbestände 3
+
+2.5 Stärken und Schwächen 4
+
+2.5.1 Stärken 4
+
+2.5.2 Schwächen 4
+
+2.6 Systemkontext 4
+
+2.7 Kontextdiagramm 4
+
+3 Ziele 5
+
+3.1 System- / Produktziel 5
+
+3.2 Projektvorgehensziele 6
+
+4 Strategiebezug und Umsetzung von Vorgaben 6
+
+4.1 Strategiebezug 6
+
+4.2 Umsetzung von Vorgaben und Rahmenbedingungen 6
+
+5 Grobanforderungen 6
+
+6 Lösungsvarianten 7
+
+6.1 Variantenübersicht 7
+
+6.2 Variante nn 7
+
+6.2.1 Kurzbeschreibung 8
+
+6.2.2 Systemkontext (Soll) 8
+
+6.2.3 Kontextdiagramm (Soll) 8
+
+6.2.4 Geschäftsorganisation 8
+
+6.2.5 Produkt oder IT-System 8
+
+6.2.6 Informationssicherheit und Datenschutz 8
+
+6.2.7 Voraussetzungen, Abhängigkeiten 8
+
+6.3 Analyse und Bewertung der Varianten 8
+
+6.3.1 Zielerreichung 8
+
+6.3.2 Anforderungsabdeckung 8
+
+6.3.3 Weitere Kriterien 8
+
+7 Empfehlung 10
+
+[[ausgangslage]]
+=  +
+Ausgangslage
+
+Motivation zur Erstellung dieser Studie
+
+[[situationsanalyse]]
+= Situationsanalyse
+
+Die Situationsanalyse schafft eine fundierte Wissensbasis um Ziele und Lösungsvarianten für das Soll-System /-Produkt erarbeiten zu können.
+
+[[geschäftsorganisation]]
+== Geschäftsorganisation
+
+Hier wird die heutige Geschäftsorganisation beschrieben. Meistens basiert man auf bestehenden Dokumenten. Wenn nichts vorhanden ist, muss überprüft werden inwiefern eine Dokumentation der Ist-Situation der Geschäftsorganisation für die Studie nötig ist. Es geht um eine grobe Beschreibung der wichtigsten Aufgaben / Leistungen und der Hauptprozesse sowie der Aufbauorganisation.
+
+[[produkt-oder-it-system]]
+== Produkt oder IT-System
+
+Eingesetzte Sachmittel
+
+[cols=",,",options="header",]
+|=============================
+|Nr |Beschreibung |Erläuterung
+|_01_ |_PCs_ |_25_
+|_02_ |_Fahrzeuge_ |_13 Kombi_
+| | |
+|=============================
+
+[[informationssicherheit-und-datenschutz]]
+== Informationssicherheit und Datenschutz
+
+Beschreibung der IST-Situation
+
+[[grobe-mengengerüste]]
+== Grobe Mengengerüste
+
+[[geschäftsvorfälle-transaktionen]]
+=== Geschäftsvorfälle / Transaktionen
+
+[cols=",,,",options="header",]
+|=============================================================================================================
+|Geschäftsvorfall / Transaktion |Durchschnitt pro Zeiteinheit |Spitze pro Zeiteinheit |Minimum pro Zeiteinheit
+|_Auszahlungen_ |_8500/Mt_ |_20000/Mt_ |_500/Mt_
+| | | |
+|=============================================================================================================
+
+[[datenbestände]]
+=== Datenbestände
+
+[cols=",,,,",options="header",]
+|================================================================================================
+|Objekttyp |Bestand |Mutationen pro Zeiteinheit |Zugänge pro Zeiteinheit |Abgänge pro Zeiteinheit
+|_Antragsteller_ |_20‘000_ |_1500/Mt_ |_750/Mt_ |_500/Mt_
+| | | | |
+|================================================================================================
+
+[[stärken-und-schwächen]]
+== Stärken und Schwächen
+
+[[stärken]]
+=== Stärken
+
+[cols=",,",options="header",]
+|===================================================================================
+|Nr |Beschreibung |Ursache
+|_01_ |_Praktisch fehlerfreie Auszahlungen_ |_Hohe Qualifikation der Mitarbeitenden_
+| | |
+|===================================================================================
+
+[[schwächen]]
+=== Schwächen
+
+[cols=",,,",options="header",]
+|==============================================================================================================
+|Nr |Beschreibung |Ursache |Beseitigungschancen
+|_01_ |_Ineffiziente Abwicklung des Geschäftsprozesses Pxxx_ |_Fehlende Funktionalität in IT-Anwendung_ |_Hoch_
+| | | |
+|==============================================================================================================
+
+[[systemkontext]]
+== Systemkontext
+
+Mit der Darstellung / Beschreibung des Systemkontexts wird aufgezeigt, welche Aspekte für die Definition und für das Verständnis der Anforderungen des betrachteten Systems relevant sind.
+
+[[kontextdiagramm]]
+== Kontextdiagramm
+
+Zeigt alle Akteure (Benutzer, Umsysteme), die mit dem Produkt/System interagieren und die Informations- und Materialflüsse
+
+* ______________
+tätigen wollen
+______________
+
+* erhalten wollen
+
+Darstellung in Form eines Datenfluss- oder Use-Case-Diagrammes
+
+[[ziele]]
+= Ziele
+
+[[system--produktziel]]
+== System- / Produktziel
+
+_Beispiele von Kategorien_
+
+* _Finanzziele, Wirtschaftlichkeit_
+* _Leistung, Effizienz, Durchlaufzeit_
+* _Qualität, Fehlerreduktion_
+* _Kundenzufriedenheit_
+* _Sicherheit, Zuverlässigkeit_
+* _Flexibilität_
+* _Ausbaubarkeit_
+* _Wartbarkeit_
+* _Nachhaltigkeit_
+
+[cols=",,,,,",options="header",]
+|=====================================================================================================================================================================================================================
+|Nr |Kategorie |Ziel |Messgrösse |Gewicht (M,S,K) |Zeitraum zur Erreichung
+|_1_ |_Organisation_ |_Jede Abteilung kann seine Events selbständig organisieren, die Prozesse sind für das Amt einheitlich_ |_Von heute 2 Personen, können dies neu 5 Personen organisieren_ |_Muss_ |_Ab Einführung_
+|_2_ |_Funktionalität_ |_Es sollen Events für externe Teilnehmer und für Abteilungsinterne organisiert werden können._ |_externe und interne Events können organisiert werden_ |_Soll_ |_Ab Einführung_
+|_3_ |_Qualität_ |_Die Qualität der Eventorganisation erhöht sich._ |_Weniger Überbuchungen – neu keine_ |_Kann_ |_Ab Einführung_
+|_4_ |_Wirtschaftlichkeit_ |_Der personelle Aufwand soll sich reduzieren_ |_Reduktion des Aufwandes um 2 Stunden pro Event_ |_Soll_ |_Ab Einführung_
+|_5_ |_Nachhaltigkeit_ |_Für die Eventorganisation und -durchführung soll weniger Papier gebraucht werden_ |_Das gebrauchte Papier soll um 20% reduziert werden_ |_Muss_ |_Ab Einführung_
+|=====================================================================================================================================================================================================================
+
+[[projektvorgehensziele]]
+== Projektvorgehensziele
+
+_Beispiele von Kategorien_
+
+* _Kosten (Budget)_
+* _Termin_
+* _Meilensteine_
+* _Methodik_
+
+[cols=",,,,,",options="header",]
+|=================================================================================================================================================================
+|Nr |Kategorie |Beschreibung |Messgrösse |Gewicht (%,M,S,K,Punkte) |Priorität
+|_6_ |_Termin_ |_In einem halben Jahr steht ein Tool für die Eventorganisation produktiv zur Verfügung._ |_Events können über das Tool organisiert werden._ | |_2_
+|=================================================================================================================================================================
+
+[[strategiebezug-und-umsetzung-von-vorgaben]]
+= Strategiebezug und Umsetzung von Vorgaben
+
+[[strategiebezug]]
+== Strategiebezug
+
+Das Projekt unterstützt folgende Strategie der Stammorganisation:
+
+YXYX
+
+[[umsetzung-von-vorgaben-und-rahmenbedingungen]]
+== Umsetzung von Vorgaben und Rahmenbedingungen
+
+Das Projekt hält folgende Vorgaben und Rahmenbedingungen der Stammorganisation ein:
+
+XYXY
+
+[[grobanforderungen]]
+= Grobanforderungen
+
+[cols=",,,,,",options="header",]
+|=========================================================================================================================================
+|ID |Anforderung |Anf.-Art (G,F,Q,S,M, A,B) |Abnahmekriterium a|
+Wichtigkeit
+
+5-1
+
+ a|
+Dringlichkeit
+
+5-1
+
+|_nn_ |_Kursanmeldung erfassen_ |_F_ |_Erfolgreiche Tests gemäss Testfallspezifikation_ |_5_ |_5_
+|_nn_ |_Anzeigen Bestätigung_ |_Q_ |_In einer realen Systemumgebung in 90% Tests innerhalb von 2 Sek._ |_3_ |_4_
+|_nn_ |_Die Bestätigungen müssen tagfertig versendet werden_ |_G_ |_Nach dem Entscheid für eine Kursdurchführung innert 24 Std._ |_3_ |_3_
+|_nn_ |_Daten verschlüsselt übermitteln_ |_S_ |_Erfolgreiche Tests gemäss Testfallspezifikation_ |_5_ |_4_
+|_nn_ |_Die externen Zugriffe müssen geloggt werden_ |_S_ |_Erfolgreicher Nachweis nach Tests_ |_4_ |_4_
+|=========================================================================================================================================
+
+* Anf.-Art = Anforderungsart: G = Geschäftsorganisation, F = Funktional, Q = Qualität, S = Sicherheit, M= Migration, A= Architektur, B = Betrieb
+* Wichtigkeit: 5 = muss zwingend umgesetzt werden; 4 = sehr wichtig, 3 = wichtig, 2 = weniger wichtig, 1 = könnte weggelassen werden
+* Dringlichkeit: 5 = muss gemäss Termin zwingend umgesetzt sein, 4 = Termineinhaltung ist sehr wichtig, 2 = weniger wichtig, 1 = nicht wichtig
+
+[[lösungsvarianten]]
+= Lösungsvarianten
+
+[[variantenübersicht]]
+== Variantenübersicht
+
+[cols=",",options="header",]
+|====================================================================
+|Variante |Bezeichnung
+|_V1_ |_Optimierte Geschäftsorganisation mit zentralisiertem Betrieb_
+|_V2_ |_Optimierte Geschäftsorganisation mit dezentralem Betrieb_
+|_V3_ |
+|_V4_ |
+|_V5_ |
+|====================================================================
+
+_Methoden zur Generierung von Lösungsvarianten: Kreativitätstechniken (wie z.B. Brainstorming, Methode 6-3-5), Ursache-Wirkungs-Grafiken (-Matrizen), Morphologischer Kasten, Analogie-Methode, u.a._
+
+[[variante-nn]]
+== Variante nn
+
+Pro Varianten werden folgende Punkte beschrieben.
+
+[[kurzbeschreibung]]
+=== Kurzbeschreibung
+
+[[systemkontext-soll]]
+=== Systemkontext (Soll)
+
+[[kontextdiagramm-soll]]
+=== Kontextdiagramm (Soll)
+
+[[geschäftsorganisation-1]]
+=== Geschäftsorganisation
+
+• Prozesse
+
+• Aufbauorganisation
+
+[[produkt-oder-it-system-1]]
+=== Produkt oder IT-System
+
+Für ein IT-System müssen folgende Aspekte beschrieben sein: Grobe Systemarchitektur (Übersicht und Struktur des Systems), Schnittstellen und Abgrenzung
+
+[[informationssicherheit-und-datenschutz-1]]
+=== Informationssicherheit und Datenschutz
+
+[[voraussetzungen-abhängigkeiten]]
+=== Voraussetzungen, Abhängigkeiten
+
+[[analyse-und-bewertung-der-varianten]]
+== Analyse und Bewertung der Varianten
+
+[[zielerreichung]]
+=== Zielerreichung
+
+[cols=",,,,,",options="header",]
+|=====================================================================================================================================
+|Nr |Beschreibung a|
+Gewicht
+
+(M,S,K)
+
+ |V1 |V2 |V3
+|_1_ |_Jede Abteilung kann seine Events selbständig organisieren, die Prozesse sind für das Amt einheitlich_ |_Muss_ |_Ja_ |_Ja_ |_Ja_
+|_2_ |_Es sollen Events für externe Teilnehmer und für Abteilungsinterne organisiert werden können._ |_Soll_ |_Ja_ |_Ja_ |_Ja_
+| | | | | |
+|=====================================================================================================================================
+
+[[anforderungsabdeckung]]
+=== Anforderungsabdeckung
+
+[cols=",,,,,",options="header",]
+|==================================================================================
+|ID |Anforderungsbeschreibung a|
+Wichtigkeit
+
+5-1
+
+ |V1 |V2 |V3
+|_nn_ |_Kursanmeldung erfassen_ |_5_ |_Ja_ |_Ja_ |_Ja_
+|_nn_ |_Anzeigen Bestätigung_ |_3_ |_Ja_ |_Ja_ |_Ja_
+|_nn_ |_Die Bestätigungen müssen tagfertig versendet werden_ |_3_ |_Ja_ |_Ja_ |_Ja_
+|==================================================================================
+
+[[weitere-kriterien]]
+=== Weitere Kriterien
+
+[cols=",,,",options="header",]
+|===============================================================
+|Beurteilungs-kriterien |V1 |V2 |V3
+|Kosten | | |
+a|
+* _Projektkosten_
+
+ a|
+* _CHF 80‘000- bis 100‘000.-_
+
+ a|
+* _CHF 50‘000- bis 80‘000.-_
+
+ a|
+* _CHF 20‘000- bis 30‘000.-_
+
+a|
+* _Wiederkehrende Kosten_
+
+ a|
+* _CHF 20‘000.- bis 30‘000.-_
+
+ a|
+* _CHF 10‘000.- bis 20‘000.-_
+
+ a|
+* _CHF 30‘000 .- bis 40‘000.-_
+
+a|
+_Nutzen_
+
+* _Quantifizierbarer Nutzen_
+* _Nicht quantifi-zierbarer Nutzen_
+
+ a|
+* _Keine Einsparungen_
+* _Weniger Fehler bei der Organisation_
+
+ a|
+* _Keine Einsparungen_
+* _Weniger Fehler bei der Organisation_
+
+ a|
+* _Pro Event 0.5 Tage +
+_
+* _Weniger Fehler bei der Organisation_
+
+|_Risiken_ a|
+* _Keine Abhängigkeit von Hersteller_
+* _Störungsbehebung braucht lange (wenige interne Stellen)_
+* _Nach Windows resp. Office Update läuft das Tool nicht mehr_
+
+ a|
+* _Abhängigkeit vom Hersteller_
+* _Bei SW-Update entstehen unerwartete Folgekosten_
+* _Störungsbehebung braucht lange (wenige interne Stellen)_
+
+ a|
+* _Abhängigkeit vom Hersteller_
+
+|_Nachhaltigkeit_ a|
+* _Proprietäre Lösung_
+* _Keine freie Verfügung über die Daten_
+* _Nicht sozialverträglich produziert_
+* _Umweltverträglich­keit nicht gegeben_
+
+ a|
+* _Proprietäre Lösung_
+* _Wenige Entwicklungsmöglichkeiten_
+* _Nur teilweise sozialverträglich produziert_
+* _Nur teilweise umweltverträglich_
+
+ a|
+* _Urheberrecht an neuen Entwicklungen behalten_
+* _Zugang zum Quellcode sicherstellen_
+* _Das Recht um Dritte für die Weiterentwicklung zu beauftragen_
+* _Sozialverträgliche Produktion_
+* _Hohe Umweltverträglichkeit_
+
+|_Rechtliche Grundlagen_ | | |
+|Weitere | | |
+|===============================================================
+
+Mögliche Darstellung der Bewertung durch
+
+• Nutzwertanalyse
+
+• Kosten-Nutzen-Rechnung
+
+• Kosten-Wirksamkeitsanalyse
+
+• Argumentenbilanz (+/-; Vorteile, Nachteile), Wirtschaftlichkeits- und Investitionsrech­ nung
+
+[[empfehlung]]
+= Empfehlung
+
+Es wird Variante Vn empfohlen.
+
+[[section]]
+=

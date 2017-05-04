@@ -1,0 +1,45 @@
+Décisions du projet
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Décisions direction / réalisation du projet 2
+
+[[décisions-direction-réalisation-du-projet]]
+=  +
+Décisions direction / réalisation du projet
+
+*Liste des décisions*
+
+[cols=",,,,",options="header",]
+|==================================================================================================================================================================================
+|N° |Décision |Décideur |Bases de la décision |Date
+|_1_ |_Choix d’une variante_ |_CP, nom xyz_ |_Etude, analyse des bases légales, analyse des besoins de protection, offres sommaires des soumissionnaires aaa, bbb, ccc_ |_1.1.1111_
+| | | | |
+| | | | |
+| | | | |
+|==================================================================================================================================================================================
+
+[[section]]
+=

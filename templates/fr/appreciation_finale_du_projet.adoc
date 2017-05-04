@@ -1,0 +1,199 @@
+Appréciation finale du projet
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Situation de départ 2
+
+2 Evaluation de l’atteinte des objectifs 2
+
+3 Rentabilité 2
+
+4 Comparaison plan/état 2
+
+4.1 Délais 2
+
+4.2 Coûts 3
+
+4.3 Charge de travail 3
+
+4.4 Résultats 3
+
+5 Expérience du projet 4
+
+6 Points en suspens et mesures 4
+
+7 Proposition 4
+
+[[situation-de-départ]]
+=  +
+Situation de départ
+
+Description, référence à l’étude et à l’analyse de la situation
+
+[[evaluation-de-latteinte-des-objectifs]]
+= Evaluation de l’atteinte des objectifs
+
+*Objectifs du système*
+
+[cols=",,,,,",options="header",]
+|====================================================================================================================================================================================================================================
+|N° |Catégorie |Description |Grandeur de mesure |Priorité |Degré d’at-teinte
+|_1_ |_Positionnement sur le marché_ |_Réduction de la durée du processus entre la réception de la commande et la livraison_ |_Réduction de 4 jours actuellement à 3 jours; à partir d’un mois après la mise en service_ |_M_ |_100%_
+| | | | | |
+|====================================================================================================================================================================================================================================
+
+Légende: priorité: O=obligatoire /1=haute, 2=moyenne, 3=basse
+
+*Objectifs de la démarche*
+
+[cols=",,,,,",options="header",]
+|=============================================================================================================================================================================
+|N° |Catégorie |Description |Grandeur de mesure |Priorité |Degré d’at-teinte
+|_1_ |_Qualité du déroulement du projet_ |_La faisabilité est attestée au moyen d’une installation de test._ |_Traitement sans erreur d’un cas commercial défini_ |_2_ |_100%_
+| | | | | |
+|=============================================================================================================================================================================
+
+Evaluation des mesures subséquentes requises si les objectifs n’ont pas été atteints.
+
+[[rentabilité]]
+= Rentabilité
+
+Evaluation de la rentabilité (selon les directives de l’organisation permanente)
+
+* Coûts et charge de travail prévus et effectifs / probables pour le projet et l’exploitation
+* Utilité prévue et effective / probable
+
+1.  [[comparaison-planétat]]
+= Comparaison plan/état
+1.  [[délais]]
+== Délais
+
+[cols=",,",options="header",]
+|========================================================
+|Jalons |Date prévue |Date effective
+|_Libération du mandat de projet_ | |_5.1.2015_
+|_Architecture du système_ |_30.3.2015_ |_14.3.2015_
+|_Libération de la réalisation_ |_30.5.2015_ |_20.5.2015_
+|========================================================
+
+Explication d’écarts
+
+[[coûts]]
+== Coûts
+
+Coûts (CHF)
+
+[cols=",,,",options="header",]
+|=====================================
+|Phase |Prévu |Effectif |Ecart
+|Initialisation |10’000 |9’000 |-1’000
+|Conception | | |
+|Réalisation | | |
+|Déploiement | | |
+|Total | | |
+|=====================================
+
+Explication d’écarts
+
+[[charge-de-travail]]
+== Charge de travail
+
+Charge de personnel
+
+[cols=",,,",options="header",]
+|=============================
+|Phase |Prévu |Effectif |Ecart
+|_Initialisation_ |20 |17 |-3
+|Conception | | |
+|Réalisation | | |
+|Déploiement | | |
+|Total | | |
+|=============================
+
+Explication d’écarts
+
+[[résultats]]
+== Résultats
+
+[cols=",,,",options="header",]
+|=====================================
+|Phase |Prévu |Effectif |Ecart
+|_Etude_ |1.12.2015 |_4.12.2015_ |_+3_
+|_Résultat 2_ | | |
+|_Résultat 3_ | | |
+|=====================================
+
+[[expérience-du-projet]]
+= Expérience du projet
+
+[cols=",,,,",options="header",]
+|========================================================================================================================
+|N° |Domaine |Expérience |Pertinence |Recommandation
+|_1_ |_Achat_ |_Les conseils prodigués par le service des achats étaient très utiles pour la planification de l’achat_ a|
+_Autres projets;_
+
+_Centre de compétences PM_
+
+ |_Intégrée dans la liste de contrôle xyz_
+| | | | |
+|========================================================================================================================
+
+[[points-en-suspens-et-mesures]]
+= Points en suspens et mesures
+
+*Points en suspens du projet*
+
+[cols=",,,,",options="header",]
+|=======================================================================================================================================================
+|N° |Point en suspens |Mesure |Responsable |Délai
+|_1_ |_Remise du système de test et des moyens auxiliaires au responsable de l’application_ |_Effectuer la remise_ |_Nom du collaborateur_ |_15.12.2015_
+| | | | |
+|=======================================================================================================================================================
+
+*Autres mesures après la clôture du projet*
+
+[cols=",,,",options="header",]
+|==========================================================================================================
+|N° |Mesure |Responsable |Délai
+|_1_ a|
+_Contrôle de la réussite du projet (après une durée d’exploitation de nn mois):_
+
+_Evaluation de la rentabilité effective lors d’un calcul rétrospectif_
+
+_Evaluation de la durabilité effective dans un rapport contenant les aspects liés au développement durable_
+
+_Déterminer et analyser la satisfaction des clients; rapport à l’organe xyz_
+
+ |_Nom du collaborateur_ |_30.5.2016_
+| | | |
+|==========================================================================================================
+
+[[proposition]]
+= Proposition
+
+Proposition concernant la clôture du projet
+
+[[section]]
+=

@@ -1,0 +1,137 @@
+Mandato per l’avvio del progetto
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Situazione iniziale 2
+
+2 Obiettivi 2
+
+3 Condizioni quadro 2
+
+4 Risultati e scadenze 2
+
+5 Carico di lavoro 2
+
+6 Costi 2
+
+7 Risorse della fase “Avvio” 2
+
+8 Comunicazione 3
+
+9 Rischi 3
+
+[[situazione-iniziale]]
+= Situazione iniziale
+
+Motivo dell’avvio del progetto
+
+[[obiettivi]]
+= Obiettivi
+
+Obiettivi della fase “Avvio”
+
+[[condizioni-quadro]]
+= Condizioni quadro
+
+Condizioni quadro della fase “Avvio”
+
+* Applicazione di HERMES
+* Direttive per l’esecuzione della fase “Avvio” (ad es. quadro dei costi, data cardine)
+
+[[risultati-e-scadenze]]
+= Risultati e scadenze
+
+Risultati della fase “Avvio”
+
+[cols=",,",options="header",]
+|=========================================================================================
+|Nr. |Risultato |Scadenza
+|1 |_Lista degli stakeholder_ |
+|2 |_Studio_ |
+|3 |_Analisi delle basi legali_ |
+|4 |_Analisi delle esigenze di protezione_ |
+|5 |_Decisione sulla scelta delle alternative (con lista di controllo)_ |
+|6 |_Piano di gestione del progetto_ |
+|7 |_Mandato di progetto_ |
+|8 |_Decisione sul mandato di progetto (con la lista di controllo “Avvio del progetto”)_ |
+|=========================================================================================
+
+[[carico-di-lavoro]]
+= Carico di lavoro
+
+Carico di lavoro del personale stimato
+
+[[costi]]
+= Costi
+
+Costi stimati della fase “Avvio”
+
+[cols=",",options="header",]
+|==============
+|Fase |Previsti
+|Avvio |10’000
+|==============
+
+[[risorse-della-fase-avvio]]
+= Risorse della fase “Avvio”
+
+*Risorse umane*
+
+[cols=",,,,,,,",options="header",]
+|=======================================================================================
+|Ruolo / Persona |Mese 1 |Mese 2 |Mese 3 |Mese 4 |Mese 5 |Totale |Conferma del superiore
+|Nome | | | | | | |
+|Nome | | | | | | |
+|=======================================================================================
+
+*Risorse finanziarie (interne, esterne)*
+
+[cols=",,,,,,,",options="header",]
+|=======================================================================================
+|Ruolo / Persona |Mese 1 |Mese 2 |Mese 3 |Mese 4 |Mese 5 |Totale |Conferma del superiore
+|Nome | | | | | | |
+|Nome | | | | | | |
+|=======================================================================================
+
+*Materiale*
+
+Locali, infrastruttura IT, software specifici, ecc.
+
+[[comunicazione]]
+= Comunicazione
+
+Rapporti durante la fase “Avvio”, informazione del committente,
+
+Informazione del servizio competente e degli stakeholder
+
+[cols=",,,,,",options="header",]
+|================================================================================================================================================================================
+|Destinatario dell’informazione |Responsabile per la comunicazione |Contenuto |Obiettivo |Mezzo / Strumento |Scadenza
+|_Caporeparto_ |_Committente_ |_Obiettivo e pianificazione dell’avvio del progetto_ |_I reparti conoscono il mandato dato al project manager_ |_Riunione di reparto_ |_12.3.2015_
+| | | | | |
+|================================================================================================================================================================================
+
+[[rischi]]
+= Rischi
+
+Rischi della fase “Avvio”

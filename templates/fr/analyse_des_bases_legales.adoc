@@ -1,0 +1,66 @@
+Analyse des bases légales
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Bases légales existantes 2
+
+2 Modifications prochaines 2
+
+3 Lacunes identifiées 2
+
+4 Proposition pour combler les lacunes 2
+
+5 Evaluation des conséquences 2
+
+6 Recommandation 2
+
+[[bases-légales-existantes]]
+=  +
+Bases légales existantes
+
+Doivent être mentionnées ici les bases légales existantes qui sont pertinentes pour le futur système. On n’entrera pas en matière ici sur les exigences concernant la protection des données et la sécurité informatique.
+
+[[modifications-prochaines]]
+= Modifications prochaines
+
+On mentionnera ici les modifications des bases légales qui sont attendues et pertinentes pour le futur système et on indiquera quelle direction elles prennent. De telles modifications peuvent induire des exigences accrues, au niveau technique et autre, envers le projet informatique, mais offrent aussi fréquemment la chance de combler d’éventuelles lacunes sur le plan des bases légales (voir chiffres 4 et 5).
+
+[[lacunes-identifiées]]
+= Lacunes identifiées
+
+S’appuyant sur la comparaison entre les bases légales existantes et les changements prévus à leur égard ainsi que sur les exigences envers le système, on identifiera toutes les lacunes à remplir par un projet de législation. On veillera au fait qu’un projet informatique peut aussi connaître, le cas échéant dans le cadre de sa mise en œuvre, une nouvelle interprétation et un élargissement qui ne sont peut-être pas couverts par les bases légales existantes. Il peut valoir la peine de prévoir à temps les mesures qui s’imposent dans un tel cas, afin d’éviter que le déploiement de la solution informatique soit retardé parce que les bases légales requises font défaut.
+
+[[proposition-pour-combler-les-lacunes]]
+= Proposition pour combler les lacunes
+
+Si des lacunes sont identifiées, on élaborera un concept normatif (arrêtés à modifier, contenus normatifs les plus importants) et on définira l’organisation de projet prévue pour combler ces lacunes. On prendra en compte les guides et instruments auxiliaires existants.
+
+1.  [[evaluation-des-conséquences]]
+= Evaluation des conséquences
+2.  [[recommandation]]
+= Recommandation
+
+[[section]]
+=

@@ -1,0 +1,131 @@
+Concept de migration
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Exigences envers la migration 2
+
+2 Objets de la migration 2
+
+3 Analyse des données 2
+
+4 Procédure de migration 2
+
+4.1 Aperçu 2
+
+4.2 Concept (par procédure) 2
+
+5 Plan de migration 2
+
+6 Faisabilité 2
+
+6.1 Risques 2
+
+6.2 Scénario de repli 3
+
+7 Archivage et mise hors service de l’ancien système 3
+
+8 Respect des exigences 3
+
+[[section]]
+=  +
+
+[[exigences-envers-la-migration]]
+= Exigences envers la migration
+
+Les exigences sont décrites dans le document exigences envers le système
+
+[[objets-de-la-migration]]
+= Objets de la migration
+
+Description des objets de la migration
+
+[[analyse-des-données]]
+= Analyse des données
+
+Analyse des données à migrer
+
+Quantités, fréquences
+
+Qualité des données
+
+1.  [[procédure-de-migration]]
+= Procédure de migration
+1.  [[aperçu]]
+== Aperçu
+
+[cols=",,,",options="header",]
+|================================================================================================
+|Objet de migration |Exigences |Procédure de migration |Evaluation de la couverture des exigences
+| | | |
+| | | |
+|================================================================================================
+
+[[concept-par-procédure]]
+== Concept (par procédure)
+
+Description conceptuelle des procédures, de l’infrastructure nécessaire, etc.
+
+[[plan-de-migration]]
+= Plan de migration
+
+Démarche pour la migration, déroulement dans le temps, interdépendances, vérifications de la qualité
+
+1.  [[faisabilité]]
+= Faisabilité
+1.  [[risques]]
+== Risques
+
+Evaluation de la faisabilité / des risques de la migration
+
+[[scénario-de-repli]]
+== Scénario de repli
+
+«Plan B» en cas de problèmes liés à la migration
+
+[[archivage-et-mise-hors-service-de-lancien-système]]
+= Archivage et mise hors service de l’ancien système
+
+Concept d’archivage
+
+Planification de la mise hors service
+
+Elimination
+
+[[couverture-des-exigences]]
+= Couverture des exigences
+
+[cols=",,,",options="header",]
+|==============================================================================================================
+|ID |Catégorie d’exigence |Attribution à un sous-système / composant |Evaluation de la couverture de l’exigence
+|_B-001_ | | |
+|_S-001_ | | |
+| | | |
+|==============================================================================================================
+
+[[section-1]]
+=
+
+[[section-2]]
+=

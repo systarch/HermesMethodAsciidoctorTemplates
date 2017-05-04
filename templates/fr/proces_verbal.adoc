@@ -1,0 +1,53 @@
+Procès-verbal
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Réunion:
+
+Date:
+
+Heure:
+
+Lieu:
+
+Présents:
+
+Absents:
+
+*Ordre du jour*
+
+1 Point 1
+
+2 Point 1
+
+Type: S=point en suspens, B=décision, I=information, D=discussion
+
+[[point]]
+= Point
+
+[cols=",,,",options="header",]
+|========================================
+|Description |Type |Respons. |Délai final
+| | | |
+| | | |
+|========================================
+
+[[point-1]]
+= Point
+
+[cols=",,,",options="header",]
+|========================================
+|Description |Type |Respons. |Délai final
+| | | |
+| | | |
+|========================================
+
+Annexe:

@@ -1,0 +1,46 @@
+Expériences du projet
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Expériences du projet 2
+
+[[expériences-du-projet]]
+=  +
+Expériences du projet
+
+[cols=",,,,,",options="header",]
+|==========================================================================================================================================
+|Date |Interlocuteur |Domaine |Expérience |Pertinence |Recommandation
+|_12.3.2015_ |_K. Müller_ |_Achat_ |_Les conseils donnés par le service des achats ont été très utiles pour la planification de l’achat_ a|
+_Autres projets;_
+
+_Centre de compétences PM_
+
+ |_Intégrée dans la liste de contrôle xyz_
+| | | | | |
+|==========================================================================================================================================
+
+[[section]]
+=

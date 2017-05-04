@@ -1,0 +1,130 @@
+Mandat de travail
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Objectifs de travail 2
+
+2 Résultats 2
+
+3 Délimitation 2
+
+4 Conditions préalables et interdépendances 2
+
+5 Activités 2
+
+6 Engagement de travail 3
+
+7 Représentation des résultats 3
+
+[[objectifs-de-travail]]
+=  +
+Objectifs de travail
+
+[cols=",",options="header",]
+|==================================================================================================================
+|N° |Objectif
+|1 |_Critères d’évaluation: élaborés de manière assez détaillée pour qu’une analyse de marché puisse être exécutée_
+|2 |_Analyse de marché: sur les produits internes à l’organisation et disponibles sur le marché_
+|==================================================================================================================
+
+[[résultats]]
+= Résultats
+
+[cols=",,",options="header",]
+|============================
+|N° |Résultat |Description
+|1 |_Critères d’évaluation_ |
+|2 |_Analyse de marché_ |
+|============================
+
+[[délimitation]]
+= Délimitation
+
+Délimitation du mandat de travail
+
+_Aucune évaluation de produit n’est exécutée. Aucune offre n’est demandée. Ces travaux font l’objet de la phase suivante._
+
+[[conditions-préalables-et-interdépendances]]
+= Conditions préalables et interdépendances
+
+*Conditions préalables au début des travaux*
+
+*Dépendances d’autres / envers d’autres travaux*
+
+[cols=",,,,",options="header",]
+|===========================================================
+|N° |Dépendance du |Résultat |Délai |Responsable
+|_A-01_ |_Projet xyz_ |_Exigences_ |_31.3.2015_ |_R. Kuster_
+| | | | |
+|===========================================================
+
+[cols=",,,,",options="header",]
+|====================================================
+|N° |Dépendance envers |Résultat |Délai |Responsable
+|_B-01_ |_Etude_ |_Analyses de marché_ |_21.4.2015_ |
+| | | | |
+|====================================================
+
+[[activités]]
+= Activités
+
+[cols=",,,,,,",options="header",]
+|=====================================================================================================================================================
+|N° |Résultat |Activité* |Collaborateur responsable |Charge de travail (h) |Délai |Etat
+|_1_ |_Critères d’évalua-tion_ |_Transformer les exigences en critères d’évaluation_ |_Huber_ |_6_ |_1.4.2015_ |_OK_
+|_2_ | |_Walk-through des critères d’évaluation_ |_Huber, Graf_ |_2_ |_3.4.2015_ |_OK_
+|_3_ |_Analyse de marché_ |_Analyser si des produits possibles sont disponibles dans l’organisation permanente_ |_Huber, Meier_ |_4_ |_5.4.2015_ |_OK_
+|_4_ | |_Discussion du résultat intermédiaire_ |_Huber, Graf_ |_1_ |_8.4.2015_ |_offen_
+|5 | | | | | |
+|Total |13 | |
+|=====================================================================================================================================================
+
+Légende: * y compris les mesures d’assurance de la qualité telles que walk-throughs, revues (selon le plan de vérification compris dans le plan de gestion du projet)
+
+[[engagement-de-travail]]
+= Engagement de travail
+
+*Ressources en personnel (heures)*
+
+[cols=",,,",options="header",]
+|======================================
+|Rôle / Personne |Mois 1 |Mois 2 |Total
+|_Huber_ |_14_ |_12_ |_26_
+|Nom | | |
+|======================================
+
+*Moyens matériels*
+
+Locaux, infrastructure informatique, logiciels spécifiques, etc.
+
+[[représentation-des-résultats]]
+= Représentation des résultats
+
+Dans les documents: structure des chapitres
+
+Dans les autres résultats: description textuelle
+
+[[section]]
+=

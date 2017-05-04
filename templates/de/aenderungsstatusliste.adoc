@@ -1,0 +1,37 @@
+Änderungsstatusliste
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+|===============================
+
+[[überblick-der-änderungen]]
+= Überblick der Änderungen
+
+[cols=",,,,,,,,",options="header",]
+|===============================================================================================================
+|Ände­rungs-Nr. |Antrag-steller |Antragsdatum |Entschei­der |Status* |Datum |Verant­wortlicher |Auf­wand |Kosten
+|_001_ |_K. Meier_ |_15.5.2015_ |_Projektleiter_ |_Umgesetzt_ |_30.5.2015_ |_Entwickler xyz_ |_2_ |_1200_
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+|Total |_1_ |_1200_
+|===============================================================================================================
+
+*Status: Antrag eingegangen / analysiert / bewilligt / abgelehnt / umgesetzt

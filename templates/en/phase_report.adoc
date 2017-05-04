@@ -1,0 +1,149 @@
+Phase Report
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Background 2
+
+2 Objectives and Solutions 2
+
+3 Strategy Reference and Implementation of Requirements 2
+
+4 Legal Framework 3
+
+5 Benefit and Efficiency 3
+
+6 Planning 3
+
+7 Organization 3
+
+8 Risks 3
+
+9 Requests 3
+
+10 Enclosures 4
+
+[[background]]
+=  +
+Background
+
+Summary of project flow so far.
+
+[[objectives-and-solutions]]
+= Objectives and Solutions
+
+*System Goals*
+
+[cols=",,,,,",options="header",]
+|======================================================================================================================================================================================================
+|No. |Category |Description |Measure |Priority |Forecast of Achievement Level
+|_1_ |_Market positioning_ |_Reduction of process flow time from receipt of order to delivery_ |_Reduced from currently four days to three days; from one month after launching operation_ |_M_ |_100%_
+| | | | | |
+|======================================================================================================================================================================================================
+
+Explanation: Priority: M=must have /1=high, 2=medium, 3=low
+
+*Procedural Goals*
+
+[cols=",,,,,",options="header",]
+|=====================================================================================================================================================================
+|No. |Category |Description |Measure |Priority |Forecast of Achievement Level
+|_1_ |_Quality of project handling_ |_Feasibility to be established by means of a test installation_ |_Error-free handling of a predefined business case_ |_2_ |_100%_
+| | | | | |
+|=====================================================================================================================================================================
+
+*Description of Solution*
+
+Description of main features of option, reference to study or project charter.
+
+[[strategy-reference-and-implementation-of-requirements]]
+= Strategy Reference and Implementation of Requirements
+
+Reference to project charter.
+
+Reference to strategy
+
+* Are the project goals still in line with the core organization's strategy?
+
+Implementation of requirements:
+
+* Have the requirements been met or are there discrepancies?
+
+[[legal-framework]]
+= Legal Framework
+
+Reference to project charter.
+
+Explanations regarding changes to legal framework or confirmation of ongoing validity.
+
+[[benefit-and-efficiency]]
+= Benefit and Efficiency
+
+Reference to project charter.
+
+Recalculation of efficiency in accordance with the requirements of the core organization: Usually costs and time required for project and operation; benefit (quantifiable or not quantifiable).
+
+[[planning]]
+= Planning
+
+Reference to status report with regard to deadline, cost, human resources required, and outcomes.
+
+[[organization]]
+= Organization
+
+*Organization of Next Phase*
+
+Reference to project management plan.
+
+[cols=",,,",options="header",]
+|=================================================================
+|Role in the Project Organization |Name |Ref. |Function/ +
+Organizational Unit
+|_Project sponsor_ |_Kurt Müller_ |_muk_ |_Head of xyz Department_
+|_Steering committee_ | | |
+|_Project manager_ | | |
+|_ISDP manager_ | | |
+|_Specialist: User representative_ | | |
+|_Specialist: Business process owner_ | | |
+| | | |
+|=================================================================
+
+[[risks]]
+= Risks
+
+Reference to status report.
+
+[[requests]]
+= Requests
+
+Request to approve phase report.
+
+Request to complete current phase.
+
+Request to release next phase.
+
+[[enclosures]]
+= Enclosures
+
+Project Status Report.

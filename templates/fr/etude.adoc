@@ -1,0 +1,488 @@
+Etude
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Situation de départ 3
+
+2 Analyse de la situation 3
+
+2.1 Structure organisationnelle 3
+
+2.2 Produit ou système IT 3
+
+2.3 Sûreté de l’information et protection des données 3
+
+2.4 Estimations générales 3
+
+2.4.1 Acte de gestion/ Transactions 3
+
+2.4.2 Stock des données 3
+
+2.5 Forces et faiblesse 4
+
+2.5.1 Forces 4
+
+2.5.2 Faiblesses 4
+
+2.6 Contexte du système 4
+
+2.7 Diagramme du contexte 5
+
+3 Objectifs 5
+
+3.1 Objectifs du système/produit 5
+
+3.2 Objectifs de la démarche 6
+
+4 Relation à la stratégie et mise en œuvre de directives 6
+
+4.1 Relation à la stratégie 6
+
+4.2 Mise en œuvre de directives 6
+
+5 Exigences générales 7
+
+6 Variantes de solution 7
+
+6.1 Aperçu des variantes 7
+
+6.2 Variante nn 8
+
+6.2.1 Courte description 8
+
+6.2.2 Contexte du système (cible) 8
+
+6.2.3 Diagramme du contexte(Cible) 8
+
+6.2.4 Structures organisationnelles 8
+
+6.2.5 Produit ou Système IT 8
+
+6.2.6 Sûreté de l’information et protection des données 8
+
+6.2.7 Prérequis, dépendances 8
+
+6.3 Analyse et évaluation des variantes 8
+
+6.3.1 Réalisation des objectifs 8
+
+6.3.2 Couverture des exigences 9
+
+6.3.3 Autres critères 9
+
+7 Recommandation 10
+
+[[situation-de-départ]]
+=  +
+Situation de départ
+
+Motivation pour la réalisation de cette étude
+
+[[analyse-de-la-situation]]
+= Analyse de la situation
+
+L’analyse de la situation constitue une base de connaissance fondée pour travailler les objectifs et les variantes de solution pour le produit / système à venir.
+
+[[structure-organisationnelle]]
+== Structure organisationnelle
+
+Ici est décrite la structure organisationnelle actuelle (organisation structurelle = organigramme; organisation fonctionnelle = processus). En général on se base sur des documents existants. Si rien n’existe, il faut évaluer dans quelle mesure une documentation de la situation actuelle est nécessaire pour réaliser l’étude. Il s’agit d’une description générale des principales tâches et prestations, des processus centraux (organisation fonctionnelle) et de l’organisation (organisation structurelle).
+
+[[produit-ou-système-it]]
+== Produit ou système IT
+
+Equipements utilisés
+
+[cols=",,",options="header",]
+|=================================
+|Nr |Description |Explication
+|_01_ |_PCs_ |_25_
+|_02_ |_Véhicules_ |_13 Bus Combi_
+| | |
+|=================================
+
+[[sûreté-de-linformation-et-protection-des-données]]
+== Sûreté de l’information et protection des données
+
+Description de la situation actuelle
+
+1.  [[estimations-générales]]
+== Estimations générales
+1.  [[acte-de-gestion-transactions]]
+=== Acte de gestion/ Transactions
+
+[cols=",,,",options="header",]
+|=======================================================================================================================
+|Acte de gestion/ Transactions |Moyenne par unité temporelle |Maximum par unité temporelle |Minimum par unité temporelle
+|_Auszahlungen_ |_8500/Mois_ |_20000/Mois_ |_500/Mois_
+| | | |
+|=======================================================================================================================
+
+[[stock-des-données]]
+=== Stock des données
+
+[cols=",,,,",options="header",]
+|===========================================================================================================
+|Type d’objet |Stock |Mutation par unité temporelle |Accès par unité temporelle |Départ par unité temporelle
+|_Antragsteller_ |_20‘000_ |_1500/Mt_ |_750/Mt_ |_500/Mt_
+| | | | |
+|===========================================================================================================
+
+[[forces-et-faiblesse]]
+== Forces et faiblesse
+
+[[forces]]
+=== Forces
+
+Texte
+
+[cols=",,",options="header",]
+|===========================================================================================
+|N° |Description |Cause
+|_01_ |_Paiements presque sans erreur_ |_Grande qualification/expertise des collaborateurs._
+| | |
+|===========================================================================================
+
+[[faiblesses]]
+=== Faiblesses
+
+[cols=",,,",options="header",]
+|================================================================================================================
+|N° |Description |Cause |Potentiel d’élimination
+|_01_ |_Déroulement inefficient du processus métier abc_ |_Manque des fonctionnalités dans le système IT_ |_Haut_
+| | | |
+|================================================================================================================
+
+[[contexte-du-système]]
+== Contexte du système
+
+La description/représentation du contexte du système permet de décrire quels aspects du système observés sont pertinents pour la définition et la compréhension des exigences.
+
+[[diagramme-du-contexte]]
+== Diagramme du contexte
+
+Présente tous les acteurs (utilisateurs, systèmes périphériques) qui interagissent avec le produit/système ainsi que les fluxs d’information et matériels qui souhaitent obtenir ou livrer quelquechose..
+
+Présentation via un diagramme de flux ou un diagramme de Use-Case
+
+[[objectifs]]
+= Objectifs
+
+[[objectifs-du-systèmeproduit]]
+== Objectifs du système/produit
+
+_Exemples de catégories_
+
+* _Finances, Rentabilité_
+* _Prestation, Efficience, Durée_
+* _Qualité, Réduction de faute_
+* _Satisfaction client_
+* _Sécurité, Fiabilité_
+* _Flexibilité_
+* _Evolutivité_
+* _Maintenance_
+* _Durabilité_
+
+[cols=",,,,,",options="header",]
+|=============================================================================================================================================================================================================================================
+|N° |Catégorie |Description |Grandeur de mesure a|
+Pondération
+
+(N,R, O)
+
+ |Délai pour l’atteinte
+|_1_ |_Organisation_ |_Chaque division peut organiser elle-même ses manifestations, les processus sont uniformes au sein de l’office._ |_Organisation par cinq personnes (et non deux comme jusqu’à présent)_ |_Nécessaire_ |_Dès déploiement_
+|2 |_Fonctionnalité_ |_Il faut pouvoir organiser des manifestations autant pour des externes que pour des collaborateurs de la division._ |_Organisation d’événements externes et internes_ |_Recommandé_ |_Dès déploiement_
+|3 |_Qualité_ |_La qualité de l’organisation s’accroît._ |_Moins d’inscriptions enregistrées à double – et, à terme, plus aucune_ |_Optionnel_ |_Dès déploiement_
+|4 |_Rentabilité_ |_Les charges de personnel diminuent._ |_Réduction de la charge (2 h de moins par manifestation)_ |_Recommandé_ |_Dès déploiement_
+|5 |_Durabilité_ |_La consommation de papier pendant l’organisation et la réalisation d’événements baisse._ |_Réduction de 20 % de la consommation de papier_ |_Nécessaire_ |_Dès déploiement_
+|=============================================================================================================================================================================================================================================
+
+[[objectifs-de-la-démarche]]
+== Objectifs de la démarche
+
+_Exemples de catégories_
+
+* _Coût (budget)_
+* _Délai_
+* _Jalon_
+* _Méthode_
+
+[cols=",,,,,",options="header",]
+|=================================================================================================================================================================
+|N° |Catégorie |Description |Grandeur de mesure a|
+Pondération
+
+(%, N,R,O, Point)
+
+ |Priorité
+|_6_ |_Délai_ |_Dans 1,5 ans, un outil pour l’organisation d’évènement est à disposition en production._ |_Evènements peuvent être organisés avec l’outil._ | |_2_
+| | | | | |
+|=================================================================================================================================================================
+
+[[relation-à-la-stratégie-et-mise-en-œuvre-de-directives]]
+= Relation à la stratégie et mise en œuvre de directives
+
+[[relation-à-la-stratégie]]
+== Relation à la stratégie
+
+Le projet soutient la stratégie suivante de l’organisation permanente :
+
+YXY
+
+[[mise-en-œuvre-de-directives]]
+== Mise en œuvre de directives
+
+Le projet respecte les directives suivantes de l’organisation permanente :
+
+YXY
+
+[[exigences-générales]]
+= Exigences générales
+
+[cols=",,,,,",options="header",]
+|=======================================================================================================================================
+|ID |Exigence |Type (G,F,Q,S,M, A,B) |Critère d’acceptance a|
+Importance
+
+5-1
+
+ a|
+Urgence
+
+5-1
+
+|_nn_ |_Saisir inscription au cours_ |_F_ |_Tests réussis selon les spécifications de test_ |_5_ |_5_
+|_nn_ |_Confirmation de la publication_ |_Q_ |_Dans un environnement en production dans 90% des tests en 2 secondes_ |_3_ |_4_
+|_nn_ |_Les confirmations doivent être envoyées dans les 24 heures_ |_G_ |_Après la décision d’activer un cours dans les 24h._ |_3_ |_3_
+|_nn_ |_Transmettre les données cryptées._ |_S_ |_Tests réussis selon les spécifications de test_ |_5_ |_4_
+|_nn_ |_Les accès externes doivent être logués._ |_S_ |_Preuve avec succès lors des tests._ |_4_ |_4_
+|=======================================================================================================================================
+
+* Type = Type d‘exigence: G = Système organisationnel, F = Fonctionnelle, Q = Qualité, S = Sécurité, M= Migration, A= Architecture, B = Maintenance
+* Importance: 5 = doit absolument être réalisé ; 4 = très important, 3 = important, 2 = moins important, 1 = pourrait être abandonné
+* Urgence: 5 = doit absolument être réalisé dans le délai, 4 = respect du délai très important, 2 = moins important, 1 = pas important
+* 
+
+1.  [[variantes-de-solution]]
+= Variantes de solution
+1.  [[aperçu-des-variantes]]
+== Aperçu des variantes
+
+[cols=",",options="header",]
+|=================================================================
+|Variante |Description
+|_V1_ |_Optimisation de l’organisation avec gestion centralisée_
+|_V2_ |_Optimisation de l’organisation avec gestion décentralisée_
+|_V3_ |
+|_V4_ |
+|_V5_ |
+|=================================================================
+
+_Méthodes pour générer des vriantes de solution : techniques de créativité (p.ex. Brainstorming, Méthode 6-3-5), Graphique ou matrice causes-conséquences, Grille morphologique, Méthode analogique, …_
+
+[[variante-nn]]
+== Variante nn
+
+Par variante, décrire les points suivants :
+
+1.  [[courte-description]]
+=== Courte description
+2.  [[contexte-du-système-cible]]
+=== Contexte du système (cible)
+3.  [[diagramme-du-contextecible]]
+=== Diagramme du contexte(Cible)
+4.  [[structures-organisationnelles]]
+=== Structures organisationnelles
+
+• Processus
+
+• Organisation
+
+[[produit-ou-système-it-1]]
+=== Produit ou Système IT
+
+Pour un système IT les aspects suivants doivent être décrits: Architecture du système générale (aperçu et strucutre du système), interfaces et limites.
+
+[[sûreté-de-linformation-et-protection-des-données-1]]
+=== Sûreté de l’information et protection des données
+
+[[prérequis-dépendances]]
+=== Prérequis, dépendances
+
+[[analyse-et-évaluation-des-variantes]]
+== Analyse et évaluation des variantes
+
+[[réalisation-des-objectifs]]
+=== Réalisation des objectifs
+
+[cols=",,,,,",options="header",]
+|===========================================================================================================================================================
+|N° |Description |Pondératrion |V1 |V2 |V3
+|_1_ |_Chaque division peut organiser elle-même ses manifestations, les processus sont uniformes au sein de l’office._ |_Nécessaire_ |_oui_ |_oui_ |_oui_
+|_2_ |_Il faut pouvoir organiser des manifestations autant pour des externes que pour des collaborateurs de la division._ |_Recommandé_ |_Oui_ |_oui_ |_oui_
+|_3_ |_……._ | | | |
+|_4_ |_…._ | | | |
+| | | | | |
+| | | | | |
+|===========================================================================================================================================================
+
+[[couverture-des-exigences]]
+=== Couverture des exigences
+
+[cols=",,,,,",options="header",]
+|============================================================================================
+|ID |Description des exigences |Importance 5-1 |V1 |V2 |V3
+|_nn_ |_Saisir inscription au cours_ |_5_ |_oui_ |_oui_ |_oui_
+|_nn_ |_Confirmation de la publication_ |_3_ |_oui_ |_oui_ |_Oui_
+|_nn_ |_Les confirmations doivent être envoyées dans les 24 heures_ |_3_ |_oui_ |_oui_ |_Oui_
+|============================================================================================
+
+[[autres-critères]]
+=== Autres critères
+
+[cols=",,,",options="header",]
+|=======================================================================
+|*Critères d’évaluation* |*V1* |*V2* |*V3*
+|_Coûts_ | | |
+a|
+* _coûts du projet_
+
+ a|
+* _de 80 000 à 100 000 CHF_
+
+ a|
+* _de 50 000 à 80 000 CHF_
+
+ a|
+* _de 20 000 à 30 000 CHF_
+
+a|
+* _coûts récurrents_
+
+ a|
+* _de 20 000 à 30 000 CHF_
+
+ a|
+* _de 10 000 à 20 000 CHF_
+
+ a|
+* _de 30 000 à 40 000 CHF_
+
+a|
+_Bénéfices_
+
+* _quantifiables_
+* _non quantifiables_
+
+ a|
+* _pas d’économies*_
+* _moins d’erreurs lors de l’organisation_
+
+ a|
+* _pas d’économies*_
+* _moins d’erreurs lors de l’organisation_
+
+ a|
+* _0,5 jour par événement_
+* _moins d’erreurs lors de l’organisation +
+_
+
+|_Risques_ a|
+* _pas de dépendance envers le fabricant_
+* _La suppression des dérangements dure (moins de postes internes)_
+* _L’outil ne fonctionne plus après une mise à jour Windows ou Office_
+
+ a|
+* _dépendance envers le fabricant_
+* _La mise à jour du logiciel entraîne des coûts consécutifs inattendus_
+* _La suppression des dérangements dure (moins de postes internes)_
+
+ a|
+* _dépendance envers le fabricant_
+
+|_Durabilité / Développement durable_ a|
+* _______________________
+_Solution propriétaire_
+_______________________
+* ____________________
+_Données non libres_
+____________________
+* _____________________________________________
+_Production sans respect des normes sociales_
+_____________________________________________
+* ___________________________
+_Ecocompatibilité négative_
+___________________________
+
+ a|
+* _______________________
+_Solution propriétaire_
+_______________________
+
+* _______________________________
+_Peu de possiblités d‘évoution_
+_______________________________
+
+* ______________________________________________________________
+_Production partiellemant dans le respect des normes sociales_
+______________________________________________________________
+* ___________________________
+_Ecocompatiblité partielle_
+___________________________
+
+ a|
+* ____________________________________________
+_Droit de propriété complet sur la solution_
+____________________________________________
+* _________________________
+_Accès au code garantit,_
+_________________________
+* _____________________________________________________________________
+_Droit de mandar un autre fournisseur pour les développements futurs_
+_____________________________________________________________________
+* ________________________________________________
+_Production dans le respect des normes sociales_
+________________________________________________
+
+* ________________________
+_Forte écocompatibilité_
+________________________
+
+|_Bases légales_ | | |
+|_Autres_ | | |
+|=======================================================================
+
+Possible présentation des évaluations :
+
+* analyse de la valeur utile
+* analyse coûts/bénéfices
+* analyse coût/efficacité
+* bilan avec argumentation (avantages, faiblesses), retour sur investissement, rentabilité
+
+[[recommandation]]
+= Recommandation
+
+La variante Vn est recommandée.

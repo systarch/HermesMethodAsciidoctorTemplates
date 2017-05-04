@@ -1,0 +1,143 @@
+Concept d’organisation
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Exigences envers l’organisation 2
+
+2 Organisation structurelle 2
+
+2.1 Principes et variantes d’organisation 2
+
+2.2 Description de l’organisation 2
+
+3 Organisation fonctionnelle (processus) 2
+
+3.1 Carte des processus 2
+
+3.2 Description des processus 3
+
+4 Aperçu des modifications 3
+
+5 Respect des exigences 3
+
+[[exigences-envers-lorganisation]]
+=  +
+Exigences envers l’organisation
+
+_Par exigence:_
+
+[cols=",",options="header",]
+|===========================================================================================================================================================================================================================================
+|Exigence générale: _n_ |Exigence: _n.nn_ |Source: |Auteur:
+|Nom |_Confirmation du cours_
+|Description a|
+_Confirmation du cours par mail:_
+
+_Les confirmations du cours doivent être envoyées dans les 24heures. Les inscriptions reçues jusqu’à 12h sont à confirmer le jour même jusqu’à 17h. Les inscriptions reçues après 12h sont à confirmer au plus tard à midi le jour suivant._
+
+_Confirmation du cours par poste:_
+
+_Les confirmations du cours doivent être envoyées dans les 24heures. Les inscriptions reçues jusqu’à 17h sont à confirmer le jour même._
+
+_La confirmation est faite par le responsable du processus._
+
+|Critères de réception |_Confirmations de cours par la poste: sont livrées le jour même avant la fermeture des guichets._
+|Importance (5-1): |Urgence (5-1): |Dépendance:
+|Risque/criticité (5-1): |Charge (5-1): |Version |Etat
+|===========================================================================================================================================================================================================================================
+
+1.  [[organisation-structurelle]]
+= Organisation structurelle
+1.  [[principes-et-variantes-dorganisation]]
+== Principes et variantes d’organisation
+
+Principes d’organisation (p. ex. structure d’organisation centrale / décentralisée)
+
+Variantes d’organisation, évaluation
+
+[[description-de-lorganisation]]
+== Description de l’organisation
+
+Description de la variante choisie pour l’organisation
+
+Organigramme
+
+Aperçu des fonctions (description sommaire)
+
+1.  [[organisation-fonctionnelle-processus]]
+= Organisation fonctionnelle (processus)
+1.  [[carte-des-processus]]
+== Carte des processus
+
+*Aperçu*
+
+Carte des processus de l’organisation
+
+Description de la situation effective et de la situation souhaitée
+
+[[_Toc224536934]]**Processus à soutenir**
+
+[cols=",,",options="header",]
+|=============================================
+a|
+Référence
+
+(n° de processus)
+
+ |Type de processus* |Description du processus
+| | |
+| | |
+|=============================================
+
+*Type de processus: processus clé, processus de conduite, processus de support
+
+[[description-des-processus]]
+== Description des processus
+
+Description sommaire des processus (état souhaité)
+
+[[aperçu-des-modifications]]
+= Aperçu des modifications
+
+Résumé des adaptations nécessaires au niveau des organisations structurelle et fonctionnelle
+
+Evaluation des modifications relatives aux fonctions et aux postes
+
+[[couverture-des-exigences]]
+= Couverture des exigences
+
+[cols=",,,",options="header",]
+|==============================================================================================================
+|ID |Catégorie d’exigence |Attribution à un sous-système / composant |Evaluation de la couverture de l’exigence
+|_B-001_ | | |
+|_S-001_ | | |
+| | | |
+|==============================================================================================================
+
+[[section]]
+=
+
+[[section-1]]
+=

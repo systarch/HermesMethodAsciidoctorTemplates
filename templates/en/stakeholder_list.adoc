@@ -1,0 +1,38 @@
+Stakeholder List
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Stakeholders 2
+
+[[stakeholders]]
+=  +
+Stakeholders
+
+[cols=",",options="header",]
+|====================
+|Organization |Person
+| |
+| |
+| |
+| |
+|====================

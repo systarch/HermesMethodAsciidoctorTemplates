@@ -1,0 +1,111 @@
+Concept de déploiement
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Situation de départ 2
+
+2 Impact sur l’organisation 2
+
+3 Démarche du déploiement 2
+
+4 Mesures de déploiement 2
+
+5 Organisation du déploiement 2
+
+6 Planification du déploiement 2
+
+7 Mesures et organisation en cas d’urgence 2
+
+8 Planification de la préréception et de la réception 3
+
+9 Critères de réception 3
+
+[[situation-de-départ]]
+=  +
+Situation de départ
+
+Description de la situation de départ pour le concept de déploiement, référence à l’étude et à la solution choisie.
+
+[[impact-sur-lorganisation]]
+= Impact sur l’organisation
+
+Analyse des impacts sur les parties prenantes (analyse d’implication)
+
+[[démarche-du-déploiement]]
+= Démarche du déploiement
+
+Description de la démarche
+
+* Stratégie de déploiement, p. ex. à un jour de référence ou par étapes (par domaine, par échelonnement fonctionnel, par groupes d’utilisateurs, etc.)
+* Description de la phase transitoire et de la réglementation y relative
+
+[[mesures-de-déploiement]]
+= Mesures de déploiement
+
+*Transition organisationnelle / Gestion des changements organisationnels*
+
+Mesures pour la transition de l’ancien ou nouvel état de l’organisation
+
+Mesures pour le soutien pendant la phase de transition
+
+Concept d’information (référence au plan de communication se trouvant dans le plan de gestion du projet)
+
+Concept de formation, avec objectifs et contenus de la formation, scénario, formateurs, documents et infrastructure de formation
+
+Règles pour la transition de l’état actuel ou nouvel état
+
+[[organisation-du-déploiement]]
+= Organisation du déploiement
+
+Rôles de soutien pour le déploiement (p. ex. responsables du déploiement, superusers)
+
+[[planification-du-déploiement]]
+= Planification du déploiement
+
+Planification sommaire avec jalons
+
+Planification détaillée
+
+Référence aux mandats de travail
+
+[[mesures-et-organisation-en-cas-durgence]]
+= Mesures et organisation en cas d’urgence
+
+Mesures et organisation nécessaires en cas d’urgence lors de la phase de deploiement.
+
+[[planification-de-la-préréception-et-de-la-réception]]
+= Planification de la préréception et de la réception
+
+Démarche, organisation de réception (rôles, responsabilités)
+
+[[critères-de-réception]]
+= Critères de réception
+
+Référence aux exigences
+
+Référence aux descriptions des cas de test figurant dans le concept de test
+
+[[section]]
+=

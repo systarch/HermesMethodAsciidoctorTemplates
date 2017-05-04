@@ -1,0 +1,50 @@
+Amendment Request
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+|==============================
+
+[[amendment-request]]
+= Amendment Request
+
+[cols=",",options="header",]
+|=======================================================================================================================================
+|Amendment No. |_001_
+|Applicant |_Department xyz, Karl Meier_
+|Date of Request |_15.5.2015_
+|Description |_Customer address: Additional address details_
+|Implementation Details |_A higher-level address of a higher-level organization (e.g. company) must be assignable to customer_
+|Proposed Solution |_Link between customer ID and another customer ID, new attribute for corporation, prevent circular references, etc._
+|Evaluation of Effects |_Adaptation by developer, adding test case description to test concept_
+a|
+* Time Required
+
+ |_1 day (development)_
+a|
+* Cost
+
+ |_1200_
+a|
+* Deadlines
+
+ |_1 week after release_
+a|
+* Risks
+
+ |_Small_
+|=======================================================================================================================================

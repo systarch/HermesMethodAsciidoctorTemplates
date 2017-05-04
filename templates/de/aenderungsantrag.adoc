@@ -1,0 +1,50 @@
+Änderungsantrag
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+|===============================
+
+[[änderungsantrag]]
+= Änderungsantrag
+
+[cols=",",options="header",]
+|==========================================================================================================================================
+|Änderungs-Nr |_001_
+|Antragsteller |_Abteilung xyz, Karl Meier_
+|Antragsdatum |_15.5.2015_
+|Änderungsbeschreibung |_Kundenadresse: Zusatzadresse Konzern ergänzen_
+|Angaben zur Ausführung |_Kunden muss eine übergeordnete Adresse einer übergeordneten Organisation (z.B. Konzern) zugeordnet werden können_
+|Lösungsvorschlag |_Bezug Kunden-ID zu einer anderen Kunden-ID, neues Attribut Konzern, Zirkulärbezüge bei Eingabe verhindern_
+|Beurteilung der Auswirkungen |_Anpassung Entwickler, ergänzen Testfallbeschreibung im Testkonzept_
+a|
+* Aufwand
+
+ |_1 Tg (Entwicklung)_
+a|
+* Kosten
+
+ |_1200_
+a|
+* Termine
+
+ |_1 Woche ab Freigabe_
+a|
+* Risiken
+
+ |_klein_
+|==========================================================================================================================================

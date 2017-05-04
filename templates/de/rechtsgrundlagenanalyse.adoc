@@ -1,0 +1,62 @@
+Rechtsgrundlagenanalyse
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Bestehende Rechtsgrundlagen 2
+
+2 Bevorstehende Änderungen 2
+
+3 Identifizierte Lücken 2
+
+4 Vorschläge zur Deckung von Lücken 2
+
+5 Beurteilung der Konsequenzen 2
+
+6 Empfehlung 2
+
+[[bestehende-rechtsgrundlagen]]
+=  +
+Bestehende Rechtsgrundlagen
+
+Hier sind die bestehenden Rechtsgrundlagen, welche für das künftige System relevant sind aufzuführen. Nicht einzugehen ist hier auf die Anforderungen zum Datenschutz und zur Informatiksicherheit.
+
+[[bevorstehende-änderungen]]
+= Bevorstehende Änderungen
+
+Es ist aufzuführen, wenn Änderungen der Rechtsgrundlagen, welche für das künftige System relevant sind, bevorstehen, und in welche Richtung sie gehen. Solche Änderungen können erhöhte technische und anderweitige Anforderungen an das Informatikprojekt mit sich bringen, sind aber häufig auch eine Chance, um allfällige Lücken bei den Rechtsgrundlagen zu decken (s. unten Ziff. 4 und 5).
+
+[[identifizierte-lücken]]
+= Identifizierte Lücken
+
+Gestützt auf den Vergleich der bestehenden und sich allenfalls ändernden Rechtsgrundlagen und der Systemanforderungen sind allfällige, durch ein Rechtssetzungsprojekt zu füllende Lücken zu identifizieren. Dabei ist zu beachten, dass ein Informatikprojekt im Rahmen seiner Umsetzung gegebenenfalls auch eine Neuinterpretation und Ausweitung erfahren kann, welche durch die bestehenden Rechtsgrundlagen möglicherweise nicht abgedeckt ist. Es kann sich lohnen, für einen solchen Fall rechtzeitig vorzusorgen, damit nicht die Einführung der Informatiklösung durch fehlende Rechtsgrundlagen verzögert wird.
+
+[[vorschläge-zur-deckung-von-lücken]]
+= Vorschläge zur Deckung von Lücken
+
+Werden Lücken identifiziert, ist ein Normkonzept zu erarbeiten (zu ändernde Erlasse, wichtigste Norminhalte) und ist die Projektorganisation zur Deckung der Lücken festzulegen. Bestehende Anleitungen und Hilfsinstrumente sind zu berücksichtigen.
+
+[[beurteilung-der-konsequenzen]]
+= Beurteilung der Konsequenzen
+
+[[empfehlung]]
+= Empfehlung

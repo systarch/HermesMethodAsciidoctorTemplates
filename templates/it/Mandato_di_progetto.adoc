@@ -1,0 +1,192 @@
+Mandato di progetto
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Situazione iniziale 2
+
+2 Obiettivi 2
+
+3 Descrizione della soluzione 2
+
+4 Rapporto con la strategia e attuazione delle direttive 2
+
+5 Basi legali 3
+
+6 Risorse necessarie 3
+
+7 Redditività 3
+
+8 Pianificazione 3
+
+9 Organizzazione 4
+
+10 Rischi 4
+
+11 Conseguenze 4
+
+[[situazione-iniziale]]
+= Situazione iniziale
+
+Riferimento allo studio con l’alternativa scelta
+
+[[obiettivi]]
+= Obiettivi
+
+*Obiettivi di sistema*
+
+[cols=",,,,",options="header",]
+|==================================================================================================================================================================================================================================================
+|Nr. |Categoria |Descrizione |Unità di misura |Priorità
+|_1_ |_Posizionamento sul mercato_ |_Riduzione del periodo di svolgimento del processo a partire dall’entrata dell’ordine fino alla consegna_ |_Dagli attuali 4 giorni, riduzione a 3 giorni; a partire da un mese dopo la messa in esercizio_ |_O_
+| | | | |
+|==================================================================================================================================================================================================================================================
+
+Legenda: priorità: O=obbligatorio /1=alta, 2=media, 3=bassa
+
+*Obiettivi del procedimento*
+
+[cols=",,,,",options="header",]
+|===========================================================================================================================================================================
+|Nr. |Categoria |Descrizione |Unità di misura |Priorità
+|_1_ |_Qualità dello svolgimento del progetto_ |_Fattibilità dimostrata mediante un’installazione di test_ |_Elaborazione senza errori di un caso commerciale definito_ |_2_
+| | | | |
+|===========================================================================================================================================================================
+
+*Condizioni quadro*
+
+Testo
+
+*Delimitazione*
+
+Testo
+
+[[descrizione-della-soluzione]]
+= Descrizione della soluzione
+
+Descrizione sommaria dell’alternativa scelta, riferimento allo studio
+
+[[rapporto-con-la-strategia-e-attuazione-delle-direttive]]
+= Rapporto con la strategia e attuazione delle direttive
+
+Rapporto con la strategia:
+
+* Rapporto degli obiettivi del progetto con la strategia dell’organizzazione permanente
+
+Attuazione delle direttive:
+
+* Rispetto delle direttive dell’organizzazione permanente
+
+[[basi-legali]]
+= Basi legali
+
+Conclusione tratta dall’analisi delle basi legali
+
+[[risorse-necessarie]]
+= Risorse necessarie
+
+Costi (CHF)
+
+[cols=",",options="header",]
+|===============
+|Fase |Previsti
+|Avvio* |
+|Concezione |
+|Realizzazione |
+|Introduzione |
+|Totale |
+|===============
+
+*prestazione preliminare (situazione reale)
+
+Dispendio del personale
+
+[cols=",",options="header",]
+|===============
+|Fase |Previsto
+|Avvio* |
+|Concezione |
+|Realizzazione |
+|Introduzione |
+|Totale |
+|===============
+
+*prestazione preliminare (situazione reale)
+
+*Mezzi materiali*
+
+Locali, infrastruttura IT, software specifici, ecc.
+
+[[redditività]]
+= Redditività
+
+Secondo le direttive dell’organizzazione permanente: generalmente costi e dispendio del personale per il progetto e l’esercizio, utilità (quantificabile, non quantificabile)
+
+[[pianificazione]]
+= Pianificazione
+
+Milestone e scadenze
+
+[cols=",",options="header",]
+|==================================
+|Milestone |Pianificata
+|_Avvio del progetto_ |_12.12.2015_
+| |
+|==================================
+
+[[organizzazione]]
+= Organizzazione
+
+[cols=",,,",options="header",]
+|=======================================================================================================
+|Ruolo nell’organizzazione del progetto |Nome |Abbreviazione |Funzione/unità organizzativa rappresentata
+|_Committente_ |_Kurt Müller_ |_muk_ |_Direttore xyz_
+|_Comitato del progetto_ | | |
+|_Project manager_ | | |
+|_Responsabile SIPD_ | | |
+|_Specialista rappresentante degli utenti_ | | |
+|_Specialista responsabile dei processi operativi_ | | |
+| | | |
+|=======================================================================================================
+
+[[rischi]]
+= Rischi
+
+[cols=",,,,,,,",options="header",]
+|==================================================================================================
+|Nr. |Descrizione dei rischi |PM |GC |VR |Misure |Responsabile |Scadenza
+|_R1_ |_Sistema IT insufficientemente performante_ |_2_ |_3_ |_6_ |_Performance-test_ |PL |01.01.01
+| | | | | | | |
+|==================================================================================================
+
+Legenda: PM=probabilità di manifestazione del rischio: 1 bassa / 2 media / 3 alta; GC=grado di conseguenza: 1 basso / 2 medio / 3 grande, VR=valore di rischio
+
+[[conseguenze]]
+= Conseguenze
+
+*In caso di avvio del progetto*
+
+Testo
+
+*Qualora il progetto non riceve l’autorizzazione all’avvio o la riceve soltanto in un secondo momento*
+
+Testo

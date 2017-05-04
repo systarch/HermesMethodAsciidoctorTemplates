@@ -1,0 +1,169 @@
+Piano dei test
+
+[cols=",",options="header",]
+|=========================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, ad uso interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|=========================================================================
+
+Elenco delle modifiche
+
+[cols=",,,",options="header",]
+|================================
+|Data |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|================================
+
+Indice
+
+1 Obiettivi del test 2
+
+2 Oggetti del test 2
+
+3 Tipi di test 2
+
+4 Copertura dei test 2
+
+5 Ambito del test 2
+
+5.1 Presupposti del test 2
+
+5.2 Classi di errore 2
+
+5.3 Condizioni di avvio e d’interruzione 3
+
+6 Infrastruttura dei test 3
+
+6.1 Sistema di test 3
+
+6.2 Dati del test 3
+
+6.3 Strumenti del test 3
+
+7 Descrizione dei casi di test 3
+
+8 Piano dei test 3
+
+[[obiettivi-del-test]]
+=  +
+Obiettivi del test
+
+[[oggetti-del-test]]
+= Oggetti del test
+
+[cols=",,",options="header",]
+|========================
+|N. |Oggetto |Descrizione
+|1 | |
+|2 | |
+|========================
+
+[[tipi-di-test]]
+= Tipi di test
+
+[cols=",,",options="header",]
+|=============================
+|N. |Tipo di test |Descrizione
+|1 | |
+|2 | |
+|=============================
+
+[[copertura-dei-test]]
+= Copertura dei test
+
+*Panoramica dei casi di test*
+
+[cols=",,",options="header",]
+|==================================
+|N. |Oggetto del test |Casi di test
+|1 | |
+|2 | |
+|==================================
+
+*Valutazione degli obiettivi del test e della copertura del test*
+
+[[ambito-del-test]]
+= Ambito del test
+
+[[presupposti-del-test]]
+== Presupposti del test
+
+Tester, nozioni di base
+
+[[classi-di-errore]]
+== Classi di errore
+
+_Gli errori accertati sono suddivisi nelle classi 0−4_
+
+[cols=",,",options="header",]
+|=================================
+|N. |Classi di errore |Descrizione
+|_0_ |_Senza errori_ |
+|_1_ |_Errore irrilevante_ |
+|_2_ |_Errore lieve_ |
+|_3_ |_Errore grave_ |
+|_4_ |_Errore critico_ |
+|=================================
+
+[[condizioni-di-avvio-e-dinterruzione]]
+== Condizioni di avvio e d’interruzione
+
+Condizioni preliminari per l’avvio del test
+
+[[infrastruttura-dei-test]]
+= Infrastruttura dei test
+
+[[sistema-di-test]]
+== Sistema di test
+
+[[dati-del-test]]
+== Dati del test
+
+[[strumenti-del-test]]
+== Strumenti del test
+
+Software per la gestione del test
+
+Elenco dei rapporti
+
+[[descrizione-dei-casi-di-test]]
+= Descrizione dei casi di test
+
+[cols=",",options="header",]
+|======================================================================
+|ID / Denominazione |T-001 |Riferimento al requisito e al criterio di +
+accettazione a|
+Nn
+
+ad es. i requisiti qualitativi nel risultato
+
+Requisiti di sistema
+
+|Descrizione |
+|Presupposti del test |
+|Tappe del test |
+|Risultato atteso |
+|======================================================================
+
+[[piano-dei-test]]
+= Piano dei test
+
+[cols=",,,,",options="header",]
+|====================================================
+|N. |Attività |Responsabile |Collaborazione |Scadenza
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+|====================================================

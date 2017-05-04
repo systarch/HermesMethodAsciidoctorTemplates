@@ -1,0 +1,110 @@
+Rapport d’évaluation des offres
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Situation de départ 2
+
+2 Démarche d’évaluation des offres 2
+
+2.1 Membres de l’équipe d’évaluation des offres 2
+
+2.2 Déroulement de l’évaluation des offres 2
+
+3 Appel d’offres, questions et ouverture des offres 2
+
+4 Résultats de l’évaluation des offres 2
+
+4.1 Critères d’aptitude 2
+
+4.2 Spécifications techniques 2
+
+4.3 Critères d’adjudication 2
+
+5 Propositions 3
+
+6 Annexes 3
+
+[[situation-de-départ]]
+=  +
+Situation de départ
+
+Référence au cahier des charges
+
+1.  [[démarche-dévaluation-des-offres]]
+= Démarche d’évaluation des offres
+1.  [[membres-de-léquipe-dévaluation-des-offres]]
+== Membres de l’équipe d’évaluation des offres
+
+[cols=",",options="header",]
+|=======================
+|Nom |Domaine spécialisé
+| |
+| |
+|=======================
+
+[[déroulement-de-lévaluation-des-offres]]
+== Déroulement de l’évaluation des offres
+
+[cols=",,",options="header",]
+|================
+|N° |Etape |Délai
+| | |
+| | |
+|================
+
+[[appel-doffres-questions-et-ouverture-des-offres]]
+= Appel d’offres, questions et ouverture des offres
+
+Publication des offres, parties intéressées à l’établissement d’une offre, questions et réponses sur l’appel d’offres, ouverture des offres, vérification du délai et de la forme, mise au net des offres
+
+1.  [[résultats-de-lévaluation-des-offres]]
+= Résultats de l’évaluation des offres
+1.  [[critères-daptitude]]
+== Critères d’aptitude
+
+Respect des critères d’aptitude (critères obligatoires pour le soumissionnaire)
+
+[[spécifications-techniques]]
+== Spécifications techniques
+
+Respect des spécifications techniques (critères obligatoires pour la prestation)
+
+[[critères-dadjudication]]
+== Critères d’adjudication
+
+Procédure d’évaluation et pondération pour les critères d’adjudication, mise au net des offres et négociation, détermination de l’offre la plus avantageuse sur le plan économique
+
+[[propositions]]
+= Propositions
+
+Proposition d’octroyer le mandat et publication de l’adjudication pour toute l’étendue de la prestation ou pour une partie d’entre elle.
+
+[[annexes]]
+= Annexes
+
+Procès-verbal d’ouverture des offres, offres, catalogue des critères rempli avec autoévaluation par les soumissionnaires, résultats de la qualification consolidés par l’équipe d’évaluation des offres, en tant qu’évaluation de tiers.
+
+[[section]]
+=

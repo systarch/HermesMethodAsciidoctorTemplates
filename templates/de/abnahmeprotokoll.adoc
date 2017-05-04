@@ -1,0 +1,146 @@
+Abnahmeprotokoll
+
+[cols=",",options="header",]
+|=================================================================
+|Auftraggeber |
+|Projektleiter |
+|Autor |
+|Klassifizierung |Nicht klassifiziert, Intern, Vertraulich, GEHEIM
+|Status |In Arbeit, Genehmigt
+| |
+|=================================================================
+
+Änderungsverzeichnis
+
+[cols=",,,",options="header",]
+|===============================
+|Datum |Version |Änderung |Autor
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===============================
+
+Inhaltsverzeichnis
+
+1 Abnahmegegenstand 2
+
+2 Abnahmebeteiligte 2
+
+3 Grundlagen 2
+
+4 Abnahmeverfahren 2
+
+5 Abnahmekriterien 2
+
+5.1 Mängelklassen 2
+
+5.2 Definition der Abnahme 2
+
+6 Lieferergebnisse und Mängel 4
+
+7 Abnahmeergebnis 5
+
+8 Unterschrift 5
+
+[[abnahmegegenstand]]
+=  +
+Abnahmegegenstand
+
+[cols=",",options="header",]
+|===========================================================
+|Abnahmegegenstand |Beschreibung
+|_Softwareprodukt xy_ |_Anwendung eingesetzt im Bereich xyz_
+| |
+|===========================================================
+
+[[abnahmebeteiligte]]
+= Abnahmebeteiligte
+
+[cols=",",options="header",]
+|======================
+|Rolle |Name
+|Auftraggeber / Kunde |
+|Projektleiter |
+|Lieferant |
+|======================
+
+[[grundlagen]]
+= Grundlagen
+
+[cols=",",options="header",]
+|===============================================
+|Bezeichnung |Versions-Nr. / Bezeichnung / Datum
+|_Offerte_ |_30.12.2015_
+| |
+|===============================================
+
+[[abnahmeverfahren]]
+= Abnahmeverfahren
+
+Text
+
+[[abnahmekriterien]]
+= Abnahmekriterien
+
+[[mängelklassen]]
+== Mängelklassen
+
+_Festgestellte Mängel werden in Mängelklassen 0-4 eingestuft_
+
+[cols=",,",options="header",]
+|===============================
+|Nr. |Mängelklasse |Beschreibung
+|_0_ |_Fehlerfrei_ |
+|_1_ |_Unwesentlicher Mangel_ |
+|_2_ |_Leichter Mangel_ |
+|_3_ |_Schwerer Mangel_ |
+|_4_ |_Kritischer Mangel_ |
+|===============================
+
+[[definition-der-abnahme]]
+== Definition der Abnahme
+
+_Wird eine Mängelklasse zwischen 0-3 erreicht, kann das System / Produkt unter Vorbehalt abgenommen werden. Zur Behebung der Mängel sind jedoch Massnahmen zu definieren. Eine Nachprüfung ist zwingend._
+
+_Werden Mängel der Kategorie 4 festgestellt, muss der Auftragnehmer umgehend Massnahmen treffen, um diese Mängel zu beheben. Der Auftragnehmer hat zudem die erneute Abnahme zu veranlassen._
+
+[[section]]
+=
+
+[[lieferergebnisse-und-mängel]]
+= Lieferergebnisse und Mängel
+
+[cols=",,,,,,",options="header",]
+|=====================================================================================================================
+|Ref. Nr. |Lieferergebnis – Beschreibung - Anforderung |Mängelklasse |Mängelbeschreibung |Massnahmen |Verantw. |Termin
+|_01_ a|
+_Kundenverwaltung_
+
+_Erfassung Neukunden_
+
+ |_3_ |_Adresse wird nicht richtig gespeichert_ |_Fehlerkorrektur_ |_Müller_ |_15.06.2016_
+| | | | | | |
+| | | | | | |
+|=====================================================================================================================
+
+[[abnahmeergebnis]]
+= Abnahmeergebnis
+
+Das Abnahmeobjekt wurde geprüft ohne Mängelanzeige. Die Abnahme erfolgt ohne Vorbehalt.
+
+Das Abnahmeobjekt wurde geprüft und unter Vorbehalt abgenommen. Die Mängel sind innerhalb der vorgegebenen Frist zu beheben und die Lösung ist mittels Nachprüfung nochmals abzunehmen.
+
+Das Abnahmeobjekt wurde geprüft. Die Abnahme wird verweigert.
+
+[[unterschrift]]
+= Unterschrift
+
+[cols=",,,",options="header",]
+|======================================================================
+|Name |Funktion |Ort&Datum |Unterschrift
+|……………………………………… |………………………………………. |………………………………………. |………………………………………….
+|……………………………………… |………………………………………. |………………………………………. |………………………………………….
+|……………………………………… |………………………………………. |………………………………………. |………………………………………….
+|======================================================================

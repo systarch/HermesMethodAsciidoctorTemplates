@@ -1,0 +1,166 @@
+Concept de test
+
+[cols=",",options="header",]
+|============================================================
+|Mandant |
+|Chef de projet |
+|Auteur |
+|Classification |Non classifié, interne, confidentiel, SECRET
+|Etat |En élaboration, approuvé
+| |
+|============================================================
+
+Suivi des modifications
+
+[cols=",,,",options="header",]
+|===================================
+|Date |Version |Modification |Auteur
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+|===================================
+
+Table des matières
+
+1 Objectifs du test 2
+
+2 Objets du test 2
+
+3 Types de test 2
+
+4 Couverture du test 2
+
+5 Cadre de test 2
+
+5.1 Conditions préalables au test 2
+
+5.2 Catégories d’erreurs 2
+
+5.3 Conditions de démarrage et d’arrêt 3
+
+6 Infrastructure de test 3
+
+6.1 Système de test 3
+
+6.2 Données de test 3
+
+6.3 Moyens auxiliaires de test 3
+
+7 Description des cas de test 3
+
+8 Plan de test 3
+
+1.  [[objectifs-du-test]]
+=  +
+Objectifs du test
+2.  [[objets-du-test]]
+= Objets du test
+
+[cols=",,",options="header",]
+|======================
+|N° |Objet |Description
+|1 | |
+|2 | |
+|======================
+
+[[types-de-test]]
+= Types de test
+
+[cols=",,",options="header",]
+|=============================
+|N° |Type de test |Description
+|1 | |
+|2 | |
+|=============================
+
+[[couverture-du-test]]
+= Couverture du test
+
+*Aperçu des cas de test*
+
+[cols=",,",options="header",]
+|==============================
+|N° |Objet de test |Cas de test
+|1 | |
+|2 | |
+|==============================
+
+*Evaluation des objectifs et de la couverture du test*
+
+1.  [[cadre-de-test]]
+= Cadre de test
+1.  [[conditions-préalables-au-test]]
+== Conditions préalables au test
+
+Testeur, connaissance préalable
+
+[[catégories-derreurs]]
+== Catégories d’erreurs
+
+_Les erreurs constatées sont classées dans les catégories 0 à 4_
+
+[cols=",,",options="header",]
+|====================================
+|N° |Catégories d’erreur |Description
+|_0_ |_Sans erreur_ |
+|_1_ |_Défaut insignifiant_ |
+|_2_ |_Défaut léger_ |
+|_3_ |_Défaut grave_ |
+|_4_ |_Défaut critique_ |
+|====================================
+
+[[conditions-de-démarrage-et-darrêt]]
+== Conditions de démarrage et d’arrêt
+
+Conditions préalables pour le type de test
+
+1.  [[infrastructure-de-test]]
+= Infrastructure de test
+1.  [[système-de-test]]
+== Système de test
+2.  [[données-de-test]]
+== Données de test
+3.  [[moyens-auxiliaires-de-test]]
+== Moyens auxiliaires de test
+
+Logiciel pour la gestion du test
+
+Liste des rapports
+
+[[description-des-cas-de-test]]
+= Description des cas de test
+
+[cols=",",options="header",]
+|====================================================================================
+|ID / Désignation |T-001 |Référence à l’exigence et critère d’acceptation a|
+Nn
+
+_p.ex. les exigences liées à la qualité dans le résultat exigences envers le système_
+
+|Description |
+|Condition préalable au test |
+|Etapes de test |
+|Résultat attendu |
+|====================================================================================
+
+[[plan-de-test]]
+= Plan de test
+
+[cols=",,,,",options="header",]
+|===============================================
+|N° |Activité |Responsable |Collaboration |Délai
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+|===============================================
+
+[[section]]
+=

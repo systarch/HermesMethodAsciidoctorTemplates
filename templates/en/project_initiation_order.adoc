@@ -1,0 +1,131 @@
+Project Initiation Order
+
+[cols=",",options="header",]
+|==================================================================
+|Project Sponsor |
+|Project Manager |
+|Author |
+|Classification |Not classified, internal, confidential, CLASSIFIED
+|Status |Pending, approved
+| |
+|==================================================================
+
+List of Changes
+
+[cols=",,,",options="header",]
+|==============================
+|Date |Version |Changes |Author
+| | | |
+| | | |
+| | | |
+|==============================
+
+List of Contents
+
+1 Background 2
+
+2 Objectives 2
+
+3 Parameters 2
+
+4 Outcomes and Deadlines 2
+
+5 Outlay 2
+
+6 Costs 2
+
+7 Resources 3
+
+8 Communication 3
+
+9 Risks 3
+
+[[background]]
+=  +
+Background
+
+Reasons for initiating project
+
+[[objectives]]
+= Objectives
+
+Objectives of Initiation phase
+
+[[parameters]]
+= Parameters
+
+Parameters of Initiation phase
+
+* Use of HERMES
+* Requirements for conducting the Initiation phase
+
+Parameters of Initiation phase
+
+* Requirements for carrying out project (e.g. budget, key deadlines, etc.)
+
+[[outcomes-and-deadlines]]
+= Outcomes and Deadlines
+
+Outcomes of Initiation phase
+
+[cols=",,",options="header",]
+|=======================================================================
+|No. |Outcome |Deadline
+|1 |_Stakeholder list_ |
+|2 |_Study_ |
+|3 |_Analysis of legal framework_ |
+|4 |_Protection needs analysis_ |
+|5 |_Decision about choice of option (with checklist)_ |
+|6 |_Project management plan_ |
+|7 |_Project charter_ |
+|8 |_Decision about project charter (with project release checklist )_ |
+|=======================================================================
+
+[[outlay]]
+= Outlay
+
+Estimated human resources required
+
+[[costs]]
+= Costs
+
+Estimated costs of Initiation phase
+
+[cols=",",options="header",]
+|==================
+|Phase |Estimate
+|Initiation |10,000
+|==================
+
+[[resources]]
+= Resources
+
+*Human Resources*
+
+[cols=",,,,,,,",options="header",]
+|==============================================================================================
+|Role / Person |Month 1 |Month 2 |Month 3 |Month 4 |Month 5 |Total |Approval of Direct Superior
+|Name | | | | | | |
+|Name | | | | | | |
+|==============================================================================================
+
+*Other Resources*
+
+Rooms, IT infrastructure, specific software, etc.
+
+[[communication]]
+= Communication
+
+Reporting during Initiation phase, informing project sponsor, informing those involved as well as stakeholders
+
+[cols=",,,,,",options="header",]
+|=========================================================================================================================================================================================
+|Person to Be Informed |Person Responsible for Communication |Content |Objective |Means/Medium |Deadline
+|_Department Head_ |_Project sponsor_ |_Project initiation objectives and planning_ |_The departments know the project assigned to the project manager_ |_Department meeting_ |_12.3.2015_
+| | | | | |
+|=========================================================================================================================================================================================
+
+[[risks]]
+= Risks
+
+Risks of Initiation phase

@@ -1,0 +1,37 @@
+Elenco dello stato delle modifiche
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|====================================
+|Datanull |Versione |Modifica |Autore
+| | | |
+| | | |
+|====================================
+
+[[panoramica-delle-modifiche]]
+= Panoramica delle modifiche
+
+[cols=",,,,,,,,",options="header",]
+|==========================================================================================================
+|Nr. di modifica |Richiedente |Data di richiesta |Decisione |Stato* |Data |Responsabile |Carico |Costi
+|_001_ |_K. Meier_ |_15.5.2015_ |_Project manager_ |_attuata_ |_30.5.2015_ |_Sviluppatore xyz_ |_2_ |_1200_
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+| | | | | | | | |
+|Totale |_1_ |_1200_
+|==========================================================================================================
+
+*Stato: richiesta inoltrata / analizzata / accettata / rifiutata / attuata

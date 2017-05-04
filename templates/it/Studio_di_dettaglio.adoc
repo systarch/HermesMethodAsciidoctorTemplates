@@ -1,0 +1,61 @@
+Studio di dettaglio
+
+[cols=",",options="header",]
+|==================================================================
+|Committente |
+|Project manager |$\{h5_project manager}
+|Autore |
+|Classificazione |Non classificato, interno, confidenziale, SEGRETO
+|Stato |In elaborazione, approvato
+| |
+|==================================================================
+
+Lista delle modifiche
+
+[cols=",,,",options="header",]
+|====================================
+|Datanull |Versione |Modifica |Autore
+| | | |
+| | | |
+| | | |
+|====================================
+
+Indice
+
+1 Situazione iniziale 1
+
+2 Requisiti 1
+
+3 Concezione della soluzione con alternative e valutazioni 2
+
+4 Fattibilità 2
+
+5 Copertura dei requisiti 2
+
+[[situazione-iniziale]]
+= Situazione iniziale
+
+Motivi per l’elaborazione di uno studio di dettaglio
+
+[[requisiti]]
+= Requisiti
+
+Riferimento ai requisiti di sistema
+
+[[concezione-della-soluzione-con-alternative-e-valutazioni]]
+= Concezione della soluzione con alternative e valutazioni
+
+[[fattibilità]]
+= Fattibilità
+
+Valutazione della fattibilità, riferimento alla documentazione della prototipazione
+
+[[copertura-dei-requisiti]]
+= Copertura dei requisiti
+
+[cols=",,,,",options="header",]
+|==================================================================================================================================
+|ID |Categoria di requisiti |Descrizione |Assegnazione al sottosistema / alla componente |Valutazione della copertura dei requisiti
+| | | | |
+| | | | |
+|==================================================================================================================================
